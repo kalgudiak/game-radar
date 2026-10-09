@@ -1,0 +1,84 @@
+name: game-radar-daily
+on:
+  schedule:
+    - cron: "30 1 * * *"   # 07:00 IST every day
+  workflow_dispatch:
+    inputs:
+      lookback:
+        description: "Days to look back (use 14 on the first run)"
+        required: false
+        default: "3"
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: game-radar
+  cancel-in-progress: false
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@v4
+      - name: Unpack the project on the first run
+        run: |
+          if [ -f bundle.txt ]; then
+            python3 - <<'PY'
+          import pathlib, re
+          text = pathlib.Path("bundle.txt").read_text(encoding="utf-8").replace("\r\n", "\n")
+          parts = re.split(r"^#### FILE: (.+?) ####\n", text, flags=re.M)
+          for path, body in zip(parts[1::2], parts[2::2]):
+              out = pathlib.Path(path.strip())
+              out.parent.mkdir(parents=True, exist_ok=True)
+              out.write_text(body, encoding="utf-8")
+              print("unpacked", out)
+          PY
+            git rm -q bundle.txt
+            git config user.name "game-radar-bot"
+            git config user.email "bot@users.noreply.github.com"
+            git add -A
+            git commit -m "Unpack Game Radar project"
+            git push
+          fi
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Restore database
+        uses: actions/cache/restore@v4
+        with:
+          path: data/radar.db
+          key: radar-db-${{ github.run_id }}
+          restore-keys: radar-db-
+      - name: Collect, report, build dashboard
+        env:
+          TZ: Asia/Kolkata
+          TWITCH_CLIENT_ID: ${{ secrets.TWITCH_CLIENT_ID }}
+          TWITCH_CLIENT_SECRET: ${{ secrets.TWITCH_CLIENT_SECRET }}
+        run: python -m radar daily --lookback "${{ github.event.inputs.lookback || '3' }}"
+      - name: Save database
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: data/radar.db
+          key: radar-db-${{ github.run_id }}
+      - name: Keep the history in the repo
+        run: |
+          git config user.name "game-radar-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add reports
+          git commit -m "Game radar $(date +%F)" || echo "nothing new"
+          git push
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+  publish:
+    needs: collect
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - id: deploy
+        uses: actions/deploy-pages@v4
