@@ -1,0 +1,30 @@
+# Game Radar configuration
+db_path: data/radar.db
+reports_dir: reports
+user_agent: "BoMoMe-GameRadar/1.0 (market research; contact: ops@bomome.example)"  # put a real contact here
+
+lookback_days: 3     # each run looks this far back (stores index late). Use --lookback 14 on the first run.
+track_days: 30       # keep snapshotting ratings / installs daily for games this young
+
+sources:
+  igdb:              # PC + every console + mobile majors. Needs TWITCH_CLIENT_ID / TWITCH_CLIENT_SECRET.
+    enabled: true
+  steam:
+    enabled: true
+    cc: us
+    max_pages: 15        # 100 titles per page from the newest-releases listing
+    steamspy_tags: true  # community tags -> far better genre splits
+  appstore:
+    enabled: true
+    countries: [us, in, gb, jp]
+    feeds: [newfreeapplications, newpaidapplications, topfreeapplications, topgrossingapplications]
+    # genre_ids: [6014, 7001, ...]   # default = Games + all 19 sub-categories
+  googleplay:
+    enabled: true
+    countries: [us, in]
+    lang: en
+    hits_per_query: 30
+    # queries: [...]                 # default list in radar/sources/googleplay.py
+  itch:
+    enabled: true
+    max_pages: 3
