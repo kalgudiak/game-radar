@@ -47,3 +47,19 @@ def test_merged_game_shows_every_store(tmp_path):
     assert "steam_url" in csv_text and "https://sga.com" in csv_text
     assert 'href="https://store.steampowered.com/app/9/"' not in (out / "report.html").read_text()  # data is JSON, rendered by JS
     assert "https://store.steampowered.com/app/9/" in (out / "report.html").read_text()
+
+
+def test_steam_hover_tags_and_retag(tmp_path, monkeypatch):
+    from radar.sources import steam
+    html = '<div class="hover_tag_row"><div class="app_tag">Roguelite</div><div class="app_tag">Deckbuilding</div><div class="app_tag">Rock &amp; Roll</div></div>'
+    assert steam.parse_hover_tags(html) == ["Roguelite", "Deckbuilding", "Rock & Roll"]
+    from radar import pipeline
+    db = DB(tmp_path / "r.db")
+    g = classify(Game(source="steam", source_id="7", title="Cards of Doom", release_date="2026-10-01", raw_genres=["Action", "Indie"]))
+    assert g.genre == "Action"
+    db.upsert(g, "2026-10-02"); db.commit()
+    monkeypatch.setattr(pipeline, "fetch_tags", lambda http, appid: ["Roguelite", "Deckbuilding"])
+    assert pipeline.retag_steam({}, db) == ["2026-10-02"]
+    row = db.c.execute("SELECT genre FROM games WHERE key='steam:7'").fetchone()
+    assert row["genre"] == "Roguelike"
+    assert pipeline.retag_steam({}, db) == []   # nothing left to do

@@ -86,7 +86,9 @@ def write_daily(db, day: date, out_root, basis="discovered", note=""):
             w.writerow(row)
     (out / "games.json").write_text(json.dumps(rows, indent=1, ensure_ascii=False), encoding="utf-8")
     (out / "summary.md").write_text(_markdown(day, rows, basis), encoding="utf-8")
-    (out / "report.html").write_text(_html(day, rows, basis, note), encoding="utf-8")
+    from .dashboard import aggregate, render, slim
+    meta = {"updated": day.strftime("%d %b %Y").lstrip("0"), "csv": "games.csv", "repo": "", "note": note}
+    (out / "report.html").write_text(render([slim(r) for r in rows], aggregate(rows), meta), encoding="utf-8")
     return out, rows
 
 

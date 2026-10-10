@@ -58,6 +58,12 @@ def main(argv=None):
         only = set(a.sources.split(",")) if a.sources else None
         summary = collect(cfg, db, a.date, only)
         print("New games stored:", summary)
+        if a.cmd == "daily" and not only:
+            from .pipeline import retag_steam
+            for d in retag_steam(cfg, db, int(cfg.get("retag_per_run", 600))):
+                if d != a.date.isoformat():
+                    out, rows = write_daily(db, date.fromisoformat(d), reports)
+                    print(f"Rebuilt {out} with new tags ({len(rows)} games)")
     if a.cmd == "import":
         from .browser_import import import_files
         print("Imported:", import_files(db, a.files, a.date.isoformat()))

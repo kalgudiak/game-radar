@@ -6,6 +6,9 @@ from .http import Http
 from .sources import REGISTRY
 from .sources.base import SourceUnavailable
 from .taxonomy import classify
+from .sources.steam import fetch_tags
+from .models import Game
+import json
 
 log = logging.getLogger("radar")
 
@@ -20,6 +23,33 @@ def build_sources(cfg, http, only=None):
             continue
         out.append(cls(http, scfg))
     return out
+
+
+def retag_steam(cfg, db, limit=600):
+    """Catch-up: fetch community tags for stored Steam games that have none, reclassify them,
+    and return the report days whose genres changed so those reports can be rebuilt."""
+    http = Http(cfg.get("user_agent", "GameRadar/1.0"))
+    rows = db.c.execute("SELECT key, source_id, data, first_seen FROM games WHERE source='steam' "
+                        "ORDER BY release_date DESC").fetchall()
+    todo = [r for r in rows if not json.loads(r["data"]).get("tags")][:limit]
+    changed, days = 0, set()
+    for r in todo:
+        g = Game.from_dict(json.loads(r["data"]))
+        tags = fetch_tags(http, r["source_id"])
+        if not tags:
+            continue
+        old = g.genre
+        g.tags = tags
+        classify(g)
+        db.c.execute("UPDATE games SET data=?, genre=? WHERE key=?", (json.dumps(g.to_dict()), g.genre, r["key"]))
+        changed += 1
+        days.add(r["first_seen"])
+        if changed % 100 == 0:
+            db.commit()
+    db.commit()
+    if todo:
+        log.info("steam retag: %d of %d untagged games now tagged", changed, len(todo))
+    return sorted(days)
 
 
 def collect(cfg, db, run_day: date, only=None, sources=None):

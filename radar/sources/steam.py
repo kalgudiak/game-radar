@@ -13,6 +13,8 @@ SEARCH = "https://store.steampowered.com/search/results/"
 DETAILS = "https://store.steampowered.com/api/appdetails"
 REVIEWS = "https://store.steampowered.com/appreviews/{}"
 SPY = "https://steamspy.com/api.php"
+HOVER = "https://store.steampowered.com/apphoverpublic/{}"
+_HOVER_TAG = re.compile(r'class="app_tag"[^>]*>\s*([^<]+?)\s*<')
 
 _ROW = re.compile(r'<a[^>]+data-ds-appid="(\d+)"[^>]*>(.*?)</a>', re.S)
 _TITLE = re.compile(r'<span class="title">(.*?)</span>', re.S)
@@ -65,6 +67,19 @@ def parse_details(appid, d):
     )
 
 
+def parse_hover_tags(html_text):
+    """Community tags from Steam's own store hover card (works where SteamSpy is blocked)."""
+    return [htmllib.unescape(t) for t in _HOVER_TAG.findall(html_text or "")][:20]
+
+
+def fetch_tags(http, appid):
+    try:
+        return parse_hover_tags(http.get(HOVER.format(appid), params={"l": "english"}).text)
+    except Exception as e:
+        log.debug("steam hover %s: %s", appid, e)
+        return []
+
+
 def apply_reviews(game, payload):
     qs = (payload or {}).get("query_summary") or {}
     total = qs.get("total_reviews")
@@ -111,7 +126,8 @@ class SteamSource(Source):
                 "json": 1, "language": "all", "purchase_type": "all", "num_per_page": 0}).json())
         except Exception as e:
             log.debug("steam reviews %s: %s", g.source_id, e)
-        if self.cfg.get("steamspy_tags", True):
+        g.tags = fetch_tags(self.http, g.source_id)
+        if not g.tags and self.cfg.get("steamspy_tags", True):
             try:
                 tags = (self.http.get(SPY, params={"request": "appdetails", "appid": g.source_id}).json() or {}).get("tags") or {}
                 if isinstance(tags, dict):
