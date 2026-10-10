@@ -4,203 +4,270 @@
 
 | Genre | Total | PC | iOS | Android | Web |
 |---|---:|---:|---:|---:|---:|
-| Strategy | 413 | 345 | 5 | 2 | 62 |
-| Simulation | 275 | 216 | 7 | 3 | 49 |
-| Adventure | 267 | 212 | 6 | 6 | 46 |
-| Action | 249 | 188 | 7 | 2 | 53 |
-| Casual | 178 | 175 | 3 |  |  |
-| Other | 163 | 61 | 31 | 6 | 68 |
-| Sports | 147 | 59 | 6 | 7 | 78 |
-| RPG | 133 | 129 | 4 |  |  |
-| Puzzle | 107 | 17 | 17 | 3 | 74 |
-| Shooter | 104 | 34 |  | 5 | 69 |
-| Visual Novel | 94 | 32 |  | 8 | 61 |
-| Platformer | 94 | 24 |  | 2 | 69 |
-| Survival | 60 | 16 |  | 5 | 43 |
-| Idle & Incremental | 39 | 32 |  |  | 7 |
-| MMO | 37 | 37 |  |  |  |
+| Strategy | 202 | 134 | 5 | 2 | 62 |
+| Roguelike | 201 | 200 |  |  | 1 |
+| Shooter | 198 | 128 |  | 5 | 69 |
+| Puzzle | 198 | 108 | 17 | 3 | 74 |
+| Platformer | 197 | 127 |  | 2 | 69 |
+| Visual Novel | 173 | 111 |  | 8 | 61 |
+| Simulation | 170 | 111 | 7 | 3 | 49 |
+| Idle & Incremental | 153 | 146 |  |  | 7 |
+| Sports | 143 | 55 | 6 | 7 | 78 |
+| Other | 134 | 32 | 31 | 6 | 68 |
+| Adventure | 120 | 65 | 6 | 6 | 46 |
+| Action | 103 | 42 | 7 | 2 | 53 |
+| Survival | 70 | 26 |  | 5 | 43 |
+| Card & Board | 60 | 46 | 14 |  |  |
+| Horror | 59 | 59 |  |  |  |
+| RPG | 56 | 52 | 4 |  |  |
 | Racing | 36 | 34 | 2 |  |  |
-| Card & Board | 15 | 1 | 14 |  |  |
-| Word & Trivia | 14 |  | 14 |  |  |
-| Music & Rhythm | 7 | 1 | 6 |  |  |
-| Roguelike | 4 | 3 |  |  | 1 |
+| Sandbox | 36 | 36 |  |  |  |
+| MMO | 33 | 33 |  |  |  |
+| Casual | 32 | 29 | 3 |  |  |
+| Word & Trivia | 27 | 13 | 14 |  |  |
+| Arcade | 24 | 23 | 1 |  |  |
+| Music & Rhythm | 12 | 6 | 6 |  |  |
 | Family & Kids | 3 |  | 3 |  |  |
-| Arcade | 1 |  | 1 |  |  |
 
-**Sub-genres seen today:** Roguelite (142), Idle (39), Deckbuilder (32), Tower Defense (30), Tycoon (26), Open World (20), Cozy & Farming (18), Physics (18), Bullet Hell / Shmup (16), Auto-battler (14), Merge (14), Match-3 (12), Survivors-like (11), RTS (10), Squad / Idle RPG (9)
+**Sub-genres seen today:** Roguelite (232), Cozy & Farming (201), PvP (145), Idle (138), Co-op (130), Bullet Hell / Shmup (85), Party (71), Open World (67), Hidden Object (64), Deckbuilder (58), Tower Defense (49), City Builder (47), RTS (38), Auto-battler (37), Survivors-like (29)
 
-## Roguelike (4)
+## Roguelike (201)
 
+- **[STAR WARS: Galactic Racer™](https://store.steampowered.com/app/4078430/)**: PC; Fuse Games; PvP/Roguelite; 84/100 from 3,475 ratings  
+  [Website](https://starwarsgalacticracer.com)
+- **[Neon Abyss 2](https://store.steampowered.com/app/2235200/)**: PC; Veewo Games; Bullet Hell / Shmup/Co-op/Roguelite; 71/100 from 2,417 ratings  
+  [Website](http://neonabyss.com)
+- **[Antivirus Survivors 2003 Professional](https://store.steampowered.com/app/3832490/)**: Linux, Mac, PC; Shaun Hammond Business Solutions Limited; Bullet Hell / Shmup/Roguelite/Survivors-like; 98/100 from 1,158 ratings  
+  [Website](https://avs03.com)
+- **[Superhero Simulator](https://store.steampowered.com/app/3531260/)**: PC; mightyraccoon! Studios; Cozy & Farming/Metroidvania/Open World/Roguelite; 74/100 from 996 ratings  
+  [Website](https://mraccoonstudios.com)
+- **[Dicevaders](https://store.steampowered.com/app/3917700/)**: Mac, PC; Pengonauts; Deckbuilder/Roguelite; 96/100 from 508 ratings  
+  [Website](https://pengonauts.com/)
+- **[ForgeTax](https://store.steampowered.com/app/5245810/)**: PC; GraveYardDev; Roguelite; 48/100 from 422 ratings
+- **[The Bell Echoes](https://store.steampowered.com/app/2873060/)**: PC; 七颗枚; Roguelite; 93/100 from 316 ratings
+- **[Endless Rails](https://store.steampowered.com/app/4601120/)**: Mac, PC; Studio Monoblok; Bullet Hell / Shmup/Idle/Roguelite/Survivors-like/Tower Defense; 75/100 from 185 ratings  
+  [Website](https://monoblokstudio.com)
+- **[Ammossum](https://store.steampowered.com/app/2659600/)**: PC; West Glade; Roguelite/Survivors-like; 68/100 from 121 ratings
+- **[Tunnel Escape Fates Entwined](https://store.steampowered.com/app/4285110/)**: PC; Elzee; Roguelite; 81/100 from 121 ratings  
+  [Website](https://saikeystudios.com)
+- **[Pass Tiger Cage](https://store.steampowered.com/app/3771660/)**: PC; 中军MT; RTS/Roguelite; 72/100 from 46 ratings
+- **[Sous Raccoon](https://store.steampowered.com/app/3919140/)**: PC; Novice Flow; Co-op/Roguelite; 93/100 from 44 ratings
+- **[Dog in the Machine](https://store.steampowered.com/app/4613180/)**: Mac, PC; Studio Chahut; Deckbuilder/Roguelite; 100/100 from 43 ratings  
+  [Website](https://goblinzstudio.com/game/dog-in-the-machine/)
 - **[Glamour Riot](https://store.steampowered.com/app/3557370/)**: PC; AquaStudio, ValarFerys; Roguelite; 75/100 from 36 ratings
+- **[Swarm Idle](https://store.steampowered.com/app/5097630/)**: PC; Omicra Lyrae; Auto-battler/Idle/Roguelite; 81/100 from 31 ratings
+- **[Tied to the Beat](https://store.steampowered.com/app/4316340/)**: Linux, Mac, PC; Javier Lianes García; Bullet Hell / Shmup/Roguelite/Survivors-like; 100/100 from 29 ratings  
+  [Website](https://www.lianes8studio.com/tied)
+- **[Unshine Arcade](https://store.steampowered.com/app/3694100/)**: PC; mardt; Roguelite/Survivors-like; 93/100 from 29 ratings  
+  [Website](https://www.unshinearcade.com)
+- **[CatPoker](https://store.steampowered.com/app/5005680/)**: PC; HotpotGames; Party/Roguelite; 100/100 from 24 ratings
+- **[Devil Peach Soda](https://store.steampowered.com/app/2116210/)**: PC; L.T. Whiting; Roguelite; 86/100 from 22 ratings
+- **[PSI: Pressure Climbing](https://store.steampowered.com/app/2386200/)**: PC; Lorenzo Ametrano; Open World/Roguelite; 96/100 from 22 ratings
+- **[Tower Tactics II](https://store.steampowered.com/app/3749130/)**: PC; asraworks; Deckbuilder/Roguelite/Tower Defense; 95/100 from 19 ratings
 - **[Hostile Lands](https://store.steampowered.com/app/3075890/)**: PC; Perceiving Light; Bullet Hell / Shmup/Co-op/Roguelite; 100/100 from 16 ratings  
   [Website](https://perceivinglight.com/hostile-lands/)
-- **[Ascendant's Roguelike](https://store.steampowered.com/app/2350190/)**: PC; Aspect; Bullet Hell / Shmup/Roguelite; 100/100 from 2 ratings
-- **[Llama Roguelike (work in progress)](https://aovks23.itch.io/llama-roguelike-work-in-progress)**: Web; aovks23; Roguelite
+- **[Bullet Banshee](https://store.steampowered.com/app/5065510/)**: Linux, Mac, PC; Studio Megasoma; Bullet Hell / Shmup/Roguelite; 93/100 from 15 ratings
+- **[Crescent Break](https://store.steampowered.com/app/4297720/)**: PC; resnijars; Roguelite; 100/100 from 13 ratings  
+  [Website](https://resnijars.com/)
+- **[Abyss Floors](https://store.steampowered.com/app/5219020/)**: PC; Alerot; 4X/Auto-battler/Cozy & Farming/Idle/Roguelite; 75/100 from 12 ratings  
+  [Website](https://www.alerotstudio.com)
+- **[Deck of Stabs](https://store.steampowered.com/app/3658250/)**: PC; RetroAction Games; Deckbuilder/Roguelite; 83/100 from 12 ratings
+- **[放置：百夜炼诡录](https://store.steampowered.com/app/5009490/)**: PC; Biranran; Roguelite; 83/100 from 12 ratings
+- **[Hex Reverse](https://store.steampowered.com/app/5257350/)**: PC; IsaoWorks; Deckbuilder/Roguelite; 80/100 from 10 ratings
+- **[Horde Arena](https://store.steampowered.com/app/3561610/)**: PC; FiveFiveSix Games; Co-op/Roguelite; 90/100 from 10 ratings
+- **[Space Cat Solitaire](https://store.steampowered.com/app/3175050/)**: Linux, Mac, PC; Gray Duck Games; Deckbuilder/Roguelite; 100/100 from 10 ratings  
+  [Website](https://discord.gg/7rS7ZJVsWR)
+- **[Blosharper: Battle of Blossoms](https://store.steampowered.com/app/4718270/)**: Mac, PC; Joon x Jin Works; Deckbuilder/Roguelite; 78/100 from 9 ratings  
+  [Website](https://blosharper.com/)
+- **[Bonki D Bonk](https://store.steampowered.com/app/4596250/)**: Linux, PC; Yukisora; Bullet Hell / Shmup/Roguelite/Survivors-like; 89/100 from 9 ratings
+- **[Chesspath Dungeon](https://store.steampowered.com/app/1869060/)**: PC; Mr_Tan91; Deckbuilder/Roguelite; 89/100 from 9 ratings  
+  [itch.io](https://pporter.itch.io/chesspath-dungeon)
+- **[Dragon Dinner](https://store.steampowered.com/app/4148630/)**: PC; Menut Studios; Co-op/Cozy & Farming/Roguelite; 100/100 from 9 ratings
+- **[Shroomwood](https://store.steampowered.com/app/3504020/)**: Linux, Mac, PC; Sporelite Games; Bullet Hell / Shmup/Roguelite; 100/100 from 9 ratings  
+  [Website](https://shroomwood.org/)
+- **[Snemovna](https://store.steampowered.com/app/4056850/)**: PC; Richard Haraším; Roguelite; 100/100 from 8 ratings  
+  [Website](https://drive.google.com/drive/u/1/folders/1DcYfMknYpXCg6KWp7gHgvuxj3wdzpGL-)
+- **[Alonitaire](https://store.steampowered.com/app/4111250/)**: PC; Kryon Harts; Deckbuilder/Roguelite; 86/100 from 7 ratings
+- **[BANNER PROTOCOL](https://store.steampowered.com/app/5174580/)**: PC; OkoYan ; Auto-battler/Deckbuilder/Roguelite; 83/100 from 6 ratings
+- **[Gundrobe: an Incremental Gun Builder](https://store.steampowered.com/app/5213660/)**: Linux, Mac, PC; BehaUlas; Bullet Hell / Shmup/Idle/Roguelite; 100/100 from 6 ratings
+- **[Major Mutt](https://store.steampowered.com/app/4408990/)**: PC; Vongo Forge; Bullet Hell / Shmup/Roguelite/Survivors-like; 83/100 from 6 ratings
+- ...and 161 more in games.csv
 
-## Idle & Incremental (39)
+## Idle & Incremental (153)
 
 - **[Deskrawl: Idle ARPG](https://store.steampowered.com/app/4623570/)**: PC; First Day Games; Idle; 58/100 from 2,352 ratings
-- **[[WoG] War of Genesis: Idle Loot](https://store.steampowered.com/app/4891320/)**: PC; New Normal Soft Inc.; Idle; 57/100 from 1,708 ratings
+- **[[WoG] War of Genesis: Idle Loot](https://store.steampowered.com/app/4891320/)**: PC; New Normal Soft Inc.; Idle/PvP; 57/100 from 1,708 ratings
 - **[Scapewatch: Idle MMO](https://store.steampowered.com/app/4671380/)**: Linux, PC; Puzzle Drop Studios; Idle; 89/100 from 446 ratings
-- **[Duelist: Idle Expedition](https://store.steampowered.com/app/4282780/)**: PC; One Interactive Studio; Auto-battler/Idle; 88/100 from 80 ratings
+- **[Game Keeper: Somebody Messed Up My Shop!](https://store.steampowered.com/app/5186690/)**: PC; VeinStudios; Hidden Object/Idle; 92/100 from 438 ratings
+- **[Crack the Pack](https://store.steampowered.com/app/4614210/)**: PC; Doigt; Idle; 93/100 from 234 ratings
+- **[Needle In A Haystack](https://store.steampowered.com/app/5085740/)**: PC; NoGlyph; Co-op/Hidden Object/Idle; 72/100 from 143 ratings
+- **[Birb](https://store.steampowered.com/app/4364930/)**: Linux, Mac, PC; Hwonze; Idle/Roguelite; 93/100 from 119 ratings
+- **[Deleted Wiki: Clean Up the Lost Files](https://store.steampowered.com/app/5204830/)**: Mac, PC; Clique Games; Cozy & Farming/Hidden Object/Idle; 99/100 from 107 ratings  
+  [Website](https://www.clique.games/deletedwiki#wiki)
+- **[Growing My Manhole](https://store.steampowered.com/app/4415120/)**: PC; SylverDev, Gearbyte Games; Idle; 78/100 from 98 ratings
+- **[Duelist: Idle Expedition](https://store.steampowered.com/app/4282780/)**: PC; One Interactive Studio; Auto-battler/City Builder/Idle; 88/100 from 80 ratings
+- **[Babel Legacy](https://store.steampowered.com/app/4699770/)**: Linux, PC; Broken Toilet Games; City Builder/Idle; 95/100 from 57 ratings
 - **[Deep Space Idle: Frontier Era](https://store.steampowered.com/app/5193380/)**: PC; 音速工业; Idle; 51/100 from 49 ratings
-- **[Swarm Idle](https://store.steampowered.com/app/5097630/)**: PC; Omicra Lyrae; Idle; 81/100 from 31 ratings
-- **[idle.am - lofi idle mmo](https://store.steampowered.com/app/5233680/)**: Linux, Mac, PC; Ithoro LLC; Idle; 60/100 from 25 ratings
+- **[Drillbound](https://store.steampowered.com/app/4149040/)**: PC; TimeSeeker; Idle; 83/100 from 46 ratings
+- **[MarbleGo](https://store.steampowered.com/app/4958470/)**: PC; FF; Idle; 81/100 from 43 ratings
+- **[Little Sister](https://store.steampowered.com/app/5256480/)**: PC; HaHaHaGame; 100/100 from 42 ratings
+- **[CELESTAY Craft&Slowlife](https://store.steampowered.com/app/4183770/)**: Mac, PC; BUBBLE GUM LLC; Cozy & Farming; 88/100 from 32 ratings
+- **[Keine’s Terakoya: A Schoolhouse in Gensokyo](https://store.steampowered.com/app/3679100/)**: PC; The Creator Workgroup; Idle; 97/100 from 32 ratings
+- **[VHS Chaos: Tidy Up!](https://store.steampowered.com/app/5142170/)**: PC; RewindApp; Co-op/Cozy & Farming/Hidden Object/Idle; 91/100 from 32 ratings
+- **[Keep Watering](https://store.steampowered.com/app/4569670/)**: Mac, PC; Frozen Logic Studios; Cozy & Farming/Idle; 46/100 from 26 ratings
+- **[idle.am - lofi idle mmo](https://store.steampowered.com/app/5233680/)**: Linux, Mac, PC; Ithoro LLC; Cozy & Farming/Idle; 60/100 from 25 ratings
+- **[Compound Interest](https://store.steampowered.com/app/4343910/)**: Mac, PC; Pond Scum; Auto-battler/City Builder; 83/100 from 24 ratings  
+  [Website](https://compoundinterest.evrim.zone)
 - **[AFK - Army For Keyboard](https://store.steampowered.com/app/5194330/)**: PC; Lumethis Ekibi; Idle/Squad / Idle RPG; 75/100 from 20 ratings  
   [Website](https://afk.lumethis.com/)
-- **[Demon Ark: Idle RPG](https://store.steampowered.com/app/4757660/)**: PC; GravityStarGames; Idle/Squad / Idle RPG; 28/100 from 18 ratings
+- **[Solo Cultivation 独修](https://store.steampowered.com/app/3878440/)**: PC; mindlesspanic; Idle; 90/100 from 20 ratings
+- **[Demon Ark: Idle RPG](https://store.steampowered.com/app/4757660/)**: PC; GravityStarGames; Auto-battler/Idle/Squad / Idle RPG; 28/100 from 18 ratings
+- **[Under the Earth](https://store.steampowered.com/app/5080220/)**: PC; ManetKedy; City Builder/Idle; 61/100 from 18 ratings
 - **[Banana Clicker](https://store.steampowered.com/app/2322080/)**: Linux, PC; Siphon Games; Idle/Soulslike; 53/100 from 17 ratings
-- **[Island Idle RPG: Build and Conquer](https://store.steampowered.com/app/4405080/)**: PC; Overaction Game Studio; Idle/Squad / Idle RPG; 87/100 from 15 ratings
+- **[Monster Nursery](https://store.steampowered.com/app/4819510/)**: PC; Mimi; Cozy & Farming; 88/100 from 17 ratings
+- **[My Desktop Cat](https://store.steampowered.com/app/5031490/)**: PC; hirsch-dev; Cozy & Farming; 65/100 from 17 ratings
+- **[Cosmo Cat: A Cozy Desktop Idler](https://store.steampowered.com/app/5034300/)**: PC; DustyNifty; Co-op/Cozy & Farming; 100/100 from 15 ratings  
+  [Website](https://x.com/dustynifty)
+- **[Infinite Three Kingdoms](https://store.steampowered.com/app/5075340/)**: PC; Bokano Studio; Squad / Idle RPG; 100/100 from 15 ratings
+- **[Island Idle RPG: Build and Conquer](https://store.steampowered.com/app/4405080/)**: PC; Overaction Game Studio; City Builder/Cozy & Farming/Idle/Squad / Idle RPG; 87/100 from 15 ratings
+- **[LOST & FOUND](https://store.steampowered.com/app/4190960/)**: PC; Sunday's Games; Co-op/Hidden Object/Idle/PvP; 87/100 from 15 ratings  
+  [Website](https://sundays.zone)
+- **[Loop One: Done](https://store.steampowered.com/app/4530230/)**: PC; Ojsan Studio AB; City Builder/Physics; 100/100 from 14 ratings  
+  [Website](https://LoopOneDone.com)
+- **[Never Enough Corn](https://store.steampowered.com/app/5246180/)**: PC; cream; Cozy & Farming/Idle; 100/100 from 14 ratings  
+  [Website](https://yjj985280.wixsite.com/my-site)
+- **[阴阳界：志怪放置副游](https://store.steampowered.com/app/5143030/)**: PC; Xumiao Games; Deckbuilder/PvP; 64/100 from 14 ratings
+- **[Delegatory](https://store.steampowered.com/app/4320620/)**: Linux, Mac, PC; Alex Coleman; Idle; 100/100 from 13 ratings
 - **[Demon Lord: Clicker](https://store.steampowered.com/app/1742110/)**: Linux, PC; Divine Games, Inc., Blazium Games; Idle; 62/100 from 13 ratings
-- **[Space Civilization Clicker](https://store.steampowered.com/app/4924820/)**: PC; AR-i-JA Studios; Idle; 100/100 from 12 ratings
-- **[Hacker CLIcker](https://store.steampowered.com/app/4504620/)**: PC; NullBrigade; Idle; 73/100 from 11 ratings
-- **[Gundrobe: an Incremental Gun Builder](https://store.steampowered.com/app/5213660/)**: Linux, Mac, PC; BehaUlas; Idle; 100/100 from 6 ratings
-- **[Fox Clicker](https://store.steampowered.com/app/5212110/)**: Linux, Mac, PC; Kemonocept; Idle; 100/100 from 4 ratings
-- **[Incremental Woods](https://store.steampowered.com/app/5145290/)**: PC; One Tooth Games; Idle; 50/100 from 4 ratings
-- **[Idle Pixel Maids](https://store.steampowered.com/app/5017140/)**: Mac, PC; WhyDuck Studio; Idle; 100/100 from 3 ratings
-- **[Core Idle TD](https://store.steampowered.com/app/5229710/)**: PC; CYR Games; Idle; 100/100 from 1 ratings
-- **[Idle Realms: Rise](https://store.steampowered.com/app/3937930/)**: PC; TessaroApps; Idle/Squad / Idle RPG; 1 ratings  
-  [Website](https://apps.tessaroapps.com/idle-realms/en/)
-- **[Idle Rocket Miner](https://store.steampowered.com/app/2591160/)**: Linux, Mac, PC; Ogress Tech; Idle; 100/100 from 1 ratings  
-  [Website](https://www.idlerocketminer.com)
-- **[Idle: Shuguang's Alchemy Store](https://store.steampowered.com/app/4246730/)**: PC; 曙炚炼金工坊; Idle; 100/100 from 1 ratings
-- **[Cheese Clicker](https://velvetteee.itch.io/cheese)**: Web; velvetteee; Idle
-- **[Chestnut's Idle Farm](https://store.steampowered.com/app/5105310/)**: PC; BlitzSchwertStudio; Idle
-- **[Cookie clicker 3](https://ghost-developments.itch.io/cookie-clicker-3)**: Web; ghost-developments; Idle
-- **[Cursed Waters: Idle RPG](https://store.steampowered.com/app/5058290/)**: PC; Tomo.; Idle/Squad / Idle RPG
-- **[Cyber Idle](https://mattwalton257.itch.io/cyber-idle)**: Web; mattwalton257; Idle
-- **[Desktop Clicker](https://alros.itch.io/desktop-clicker)**: Web; alros; Idle
-- **[Diamond Idle](https://diamondidle.itch.io/diamond-idle)**: Web; diamondidle; Idle
-- **[Ghost Clicker: Ethereal Idle](https://store.steampowered.com/app/5314960/)**: PC; AkameRonin; Idle
-- **[Idle Bomb Animals - Desktop Mining](https://store.steampowered.com/app/4692190/)**: PC; AGE Inc.; Idle
-- **[Idle Hoops](https://juicestorestudios.itch.io/idle-hoops)**: Linux, PC; juicestorestudios; Idle
-- **[Idle Miner](https://store.steampowered.com/app/5255350/)**: PC; SneakFox; Idle
-- **[Idle Trash](https://store.steampowered.com/app/5045830/)**: PC; G.Saltzpyre; Idle  
-  [Website](https://saltzpyre.onepage.me)
-- **[Infinite Clicker](https://marcusmckain.itch.io/infinite-clicker)**: Web; marcusmckain; Idle
-- **[Order Up! Incremental](https://enryuuh.itch.io/order-up-incremental)**: PC; enryuuh; Idle
-- **[Palimpsest Idle](https://store.steampowered.com/app/5146770/)**: PC; Studio J3L; Idle  
-  [Website](https://studioj3l.com/palimpsest-idle)
-- **[Planet Escape Idle](https://store.steampowered.com/app/5227050/)**: PC; SenseiBeaconMedia; Idle
-- **[Space clicker](https://alexgame8101.itch.io/space-miner)**: Web; alexgame8101; Idle
+- **[Desktop Tower Survivor](https://store.steampowered.com/app/4848460/)**: PC; Kalgator; Bullet Hell / Shmup/Idle; 100/100 from 12 ratings  
+  [Website](https://desktoptowersurvivor.com)
+- **[Space Civilization Clicker](https://store.steampowered.com/app/4924820/)**: PC; AR-i-JA Studios; Auto-battler/City Builder/Idle; 100/100 from 12 ratings
+- **[Hacker CLIcker](https://store.steampowered.com/app/4504620/)**: PC; NullBrigade; Hidden Object/Idle/Open World; 73/100 from 11 ratings
+- ...and 113 more in games.csv
 
-## Visual Novel (94)
+## Visual Novel (173)
 
+- **[Radiotext](https://store.steampowered.com/app/3418160/)**: Linux, Mac, PC; Alp Arslan; 97/100 from 71 ratings  
+  [Website](https://www.alparslangamedev.com/)
+- **[Maid Cafe Simulator](https://store.steampowered.com/app/3232690/)**: Mac, PC; Accelix, SCON; Cozy & Farming/Tycoon; 88/100 from 68 ratings  
+  [Website](https://accelixgames.com/)
+- **[夏梦](https://store.steampowered.com/app/5204330/)**: PC; 爱吃耙耙柑; 49/100 from 55 ratings
+- **[Washington in Blood](https://store.steampowered.com/app/5136270/)**: PC; 温州金酷科技有限公司; 95/100 from 38 ratings
+- **[Mycopsychosys: Project Jupiter](https://store.steampowered.com/app/3785860/)**: PC; DeltaCat Studio; Hidden Object; 97/100 from 35 ratings  
+  [Website](https://www.deltacatstudio.com/)
+- **[Cicada Communication](https://store.steampowered.com/app/3500590/)**: PC; MF Future; Cozy & Farming; 96/100 from 22 ratings  
+  [Website](https://shiravune.com/)
+- **[Chalk Paper Scissors](https://store.steampowered.com/app/4956970/)**: Mac, PC; Chalk Paper Scissors; Cozy & Farming; 100/100 from 19 ratings
+- **[Heartbeats - Anniversary Edition](https://store.steampowered.com/app/5213380/)**: PC; Kong Orange; 100/100 from 16 ratings
+- **[The Listener](https://store.steampowered.com/app/4840240/)**: PC; False Start; 53/100 from 15 ratings
+- **[Opi Popi](https://store.steampowered.com/app/5026630/)**: PC; ぐらたんP; Cozy & Farming; 100/100 from 14 ratings  
+  [Website](https://sns.freegame-contest.com/photo/%e3%82%aa%e3%83%94%e3%83%9d%e3%83%94/)
+- **[Sol and Mani the Artifact ](https://store.steampowered.com/app/4197020/)**: PC; Mindal VN (not studio), RUzura Interactive; 100/100 from 14 ratings
+- **[Visual Novel: The Neighbor with My Face](https://store.steampowered.com/app/5247970/)**: PC; Reanim Games; 86/100 from 14 ratings
+- **[P.I.G.E.O.N.](https://store.steampowered.com/app/4508540/)**: Linux, PC; Barking Beagle Studios; 92/100 from 12 ratings
+- **[声韵之恋](https://store.steampowered.com/app/4375880/)**: PC; 铃墨文化; 80/100 from 10 ratings
+- **[Shinjuku Anomaly](https://store.steampowered.com/app/3386350/)**: PC; AMATA Games; 33/100 from 9 ratings  
+  [Website](https://amata.games/en/game/shinjuku-anomaly/)
+- **[Solstice](https://store.steampowered.com/app/5223030/)**: Mac, PC; Robbie Ma, Amy Yuan, Avery Kim, Michelle Lin, Haiwen Shi, Rain Ren; Cozy & Farming/Hidden Object/Open World; 100/100 from 9 ratings
+- **[Visual Novel: Calendar Without Tomorrow](https://store.steampowered.com/app/5271060/)**: PC; Reanim Games; 100/100 from 8 ratings
 - **[Cheddar Beach 0 - Party on Mango St.](https://store.steampowered.com/app/2755510/)**: PC; Sokay; 100/100 from 7 ratings  
   [Website](https://www.cheddarbeach.com)
-- **[26-05](https://juliamugugly.itch.io/26-05)**: Mac, PC; juliamugugly
-- **[3 Seconds-Chapter 2- Episode 2](https://qixya.itch.io/3-seconds-chapter-2-episode-2)**: Web; qixya
-- **[[ch\en]潮间带（The Tidal Zone）](https://alegia.itch.io/chaojiandai)**: Web; alegia
-- **[A Place Where I Belong](https://amnesiacmadcap.itch.io/a-place-where-i-belong)**: PC; amnesiacmadcap
-- **[Ace & Aro: One Night Early](https://kinmoku.itch.io/ace-aro-one-night-early)**: Linux, Mac, PC; kinmoku
-- **[Adventures of Pitahaya-X: Heptagonia (macOS)](https://kb85universum.itch.io/heptagonia-macos)**: Mac; kb85universum
-- **[Alien Space - Tank](https://eufneto15.itch.io/alien-space-tank)**: Web; eufneto15
-- **[Arcade After The End](https://beeskeeper.itch.io/arcade-a)**: Web; beeskeeper
-- **[Arouri's Birthday Special!](https://btjanuary.itch.io/arouri-birthday-special)**: Web; btjanuary
-- **[ASH（0.09）](https://tkr159.itch.io/009)**: PC; tkr159
-- **[Asymptote](https://rashedutm.itch.io/asymptote)**: Web; rashedutm
-- **[BEYOND THE STARS IV: THAT WHICH REMAINS](https://reunionvn.itch.io/beyond-the-stars-iv)**: Mac, PC; reunionvn
-- **[Bloodmoon Covenant](https://lguidolin.itch.io/bloodmoon-covenant)**: Web; lguidolin
-- **[Blue Hawaii Aniki's X Haven vol.5](https://kirishimashoichi.itch.io/blue-hawaii-anikis-x-haven-vol5)**: PC; kirishimashoichi
-- **[Caminos de Fe EDU - Demo](https://arreaza17.itch.io/caminos-de-fe-demo)**: PC; arreaza17
-- **[Character Customizer (2D)](https://methodox.itch.io/character-customizer-2d)**: Web; methodox
-- **[Cheshire 4 Console (Demo)](https://happy-ferret.itch.io/cheshire-4-console-demo)**: Web; happy-ferret
-- **[Chess Game](https://phaker.itch.io/chess-game)**: Web; phaker
-- **[Courtyard No. 3](https://alinahoz.itch.io/courtyard-no-3)**: Web; alinahoz
-- **[Cursed General- ALFA](https://goshtyyae.itch.io/curse-general)**: Web; goshtyyae
-- **[Cybercard 2026](https://robertmenus.itch.io/cybercard-2026)**: Web; robertmenus
-- **[Cyberteca](https://videojuegos-tecnoteca.itch.io/ciberteca)**: Linux, PC; videojuegos-tecnoteca
-- **[DEAD AIR: Night Frequency](https://doomsorrow.itch.io/dead-air-night-frequency)**: Web; doomsorrow
-- **[Death Spiral](https://cccrimsonmakesgames.itch.io/death-spiral)**: Web; cccrimsonmakesgames
-- **[Die Kritik Experience](https://nenugames.itch.io/die-kritik-experience)**: Web; nenugames
-- **[Do Not Greet the Nonexistent｜不要和不存在的人打招呼](https://culaliya.itch.io/dont-greet-the-nonexistent)**: Web; culaliya
-- **[Do You Want To Know Your Oshi? - Demo](https://neolavi.itch.io/do-you-want-to-know-your-oshi-demo)**: Web; neolavi
-- **[Escape the RENN4](https://sattorah.itch.io/escape-the-renn4)**: Web; sattorah
-- **[Fatal Love Hibiscus](https://zeiyanemi.itch.io/fatal-love-hibiscus)**: PC; zeiyanemi
-- **[FFGGAA - THE QUIET ROOM Game](https://ffggaa-games.itch.io/ffggaa-the-quiet-room-game)**: Web; ffggaa-games
-- **[First Project1](https://joey102.itch.io/first-project1)**: Web; joey102
-- **[For the Love of Gods](https://kaoshi-2004.itch.io/for-the-love-of-gods)**: Web; kaoshi-2004
-- **[Heart and Hustle](https://midnightmarginstudio.itch.io/heart-and-hustle)**: Web; midnightmarginstudio
-- **[HIKKA: Are You There?](https://ryzissss.itch.io/hikka-are-you-there)**: PC; ryzissss
-- **[Hivemind: Monster Profits](https://alekirser.itch.io/hivemind-monster-profits)**: Web; alekirser
-- **[how to care for a rejected lamb](https://gir1burd3n.itch.io/how-to-care-for-a-rejected-lamb)**: Web; gir1burd3n
-- **[I learned to draw because of you](https://beepsignal.itch.io/i-learned-to-draw-because-of-you)**: Web; beepsignal
-- **[Illusionists](https://eveelyyn8-ui.itch.io/illusionists)**: Android, PC; eveelyyn8-ui
-- **[Just Take Cookies](https://shadowbuddy2006.itch.io/just-take-cookies)**: Web; shadowbuddy2006
-- ...and 54 more in games.csv
+- **[Debt of Life](https://store.steampowered.com/app/5058740/)**: PC; RedWolf Games; 100/100 from 7 ratings
+- **[目を閉じてプレイするゲーム「星の記す真実」](https://store.steampowered.com/app/4559510/)**: PC; TeamKomori; 100/100 from 6 ratings  
+  [Website](https://freegameteamkomori.jimdofree.com/)
+- **[Soup Weather](https://store.steampowered.com/app/4430190/)**: Mac, PC; Brie Healy; 100/100 from 5 ratings
+- **[Whistling at Night](https://store.steampowered.com/app/4570370/)**: Linux, Mac, PC; Subversionary Studios; 80/100 from 5 ratings
+- **[四番旅館 The 4th Ryokan](https://store.steampowered.com/app/5223400/)**: PC; Gonta; 100/100 from 4 ratings
+- **[Band of Mercenaries](https://store.steampowered.com/app/1975470/)**: PC; Padakodart; Party/PvP; 100/100 from 3 ratings
+- **[Love is Everywhere](https://store.steampowered.com/app/5210050/)**: Mac, PC; Xlyph Bara Games; 100/100 from 3 ratings  
+  [Website](https://wetdreamsspa.com/loveiseverywhere)
+- **[Polda 5.5](https://store.steampowered.com/app/4971930/)**: PC; Svofia; 100/100 from 3 ratings  
+  [Website](https://www.hrapolda.cz)
+- **[The Ballad Singer: Knights Templar](https://store.steampowered.com/app/1820400/)**: PC; Curtel Games; 100/100 from 3 ratings  
+  [Website](https://curtelgames.com/)
+- **[撩妹模拟器：备胎的觉醒](https://store.steampowered.com/app/5123270/)**: PC; Deer River; 3 ratings
+- **[A.I.ttorney](https://store.steampowered.com/app/4355070/)**: PC; Archor Wright; 100/100 from 2 ratings  
+  [Website](http://store.steampowered.com/search/?publisher=Archor%20Games)
+- **[Arcana, Gas & Waterworks Inc.](https://store.steampowered.com/app/4476220/)**: Linux, Mac, PC; Shawn Rider; Cozy & Farming; 50/100 from 2 ratings  
+  [Website](http://agw-game.com)
+- **[Dream Simulators](https://store.steampowered.com/app/4820100/)**: PC; Angelkiss Games; Cozy & Farming; 50/100 from 2 ratings  
+  [Website](https://angelkissgames.com/)
+- **[HUMAN INTELLIGENCE](https://store.steampowered.com/app/5054370/)**: PC; HamsulT; 50/100 from 2 ratings
+- **[Majhi](https://store.steampowered.com/app/4890650/)**: Linux, Mac, PC; CRISPPIE STUDIO; 100/100 from 2 ratings  
+  [Website](https://crisppie.studio/majhi)
+- **[Otpisani: Nightingale](https://store.steampowered.com/app/4708680/)**: Linux, PC; Pr0py; Bullet Hell / Shmup; 100/100 from 2 ratings
+- **[Rorasuketo](https://store.steampowered.com/app/4401480/)**: Mac, PC; Cam Norcross; 100/100 from 2 ratings  
+  [Website](https://rorasuketo.win)
+- **[The Demon Lurking in Osaka Castle – Episode 1](https://store.steampowered.com/app/5268550/)**: PC; Osaka Games; 100/100 from 2 ratings
+- **[孙割不相信眼泪](https://store.steampowered.com/app/5229190/)**: PC;  ZikL; 50/100 from 2 ratings
+- **[Aika Was Supposed to Die](https://store.steampowered.com/app/5097340/)**: PC; AGA PRODUCOES LTDA; 100/100 from 1 ratings
+- **[Beat the Meat](https://store.steampowered.com/app/4411010/)**: PC; UrbanWanderer; 100/100 from 1 ratings
+- **[Buitopia DVD](https://store.steampowered.com/app/4665960/)**: Linux, PC; Ben Wheele; 100/100 from 1 ratings  
+  [Website](https://nondoon.com/)
+- ...and 133 more in games.csv
 
-## MMO (37)
+## MMO (33)
 
-- **[AION 2](https://store.steampowered.com/app/3393110/)**: PC; NC; 62/100 from 20,923 ratings  
+- **[AION 2](https://store.steampowered.com/app/3393110/)**: PC; NC; Open World/PvP; 62/100 from 20,923 ratings  
   [Website](https://aion2.plaync.com/en-us/conts/teaser)
-- **[CPM 2](https://store.steampowered.com/app/4252340/)**: PC; OGames; Open World; 87/100 from 407 ratings
+- **[CPM 2](https://store.steampowered.com/app/4252340/)**: PC; OGames; Co-op/Open World/PvP; 87/100 from 407 ratings
 - **[Glider Sim Deluxe – Soaring Simulator](https://store.steampowered.com/app/1422940/)**: PC; Joey Sipos; Open World; 92/100 from 196 ratings  
   [Website](https://5drealities.com/games/GliderSim.aspx)
-- **[Piworld](https://store.steampowered.com/app/3167710/)**: Mac, PC; Ahaha studio; 78/100 from 174 ratings
-- **[Eclesiar](https://store.steampowered.com/app/4962560/)**: PC; Atlantic Game Development; Tycoon; 68/100 from 59 ratings  
+- **[Piworld](https://store.steampowered.com/app/3167710/)**: Mac, PC; Ahaha studio; Cozy & Farming/Hidden Object/Open World/PvP; 78/100 from 174 ratings
+- **[Eclesiar](https://store.steampowered.com/app/4962560/)**: PC; Atlantic Game Development; Cozy & Farming/RTS/Tycoon; 68/100 from 59 ratings  
   [Website](https://eclesiar.com)
 - **[明月专属传奇](https://store.steampowered.com/app/5057270/)**: PC; 明月专属传奇; 84/100 from 51 ratings
-- **[Iron Pact](https://store.steampowered.com/app/3456700/)**: Linux, Mac, PC; AlexMog; RTS; 42/100 from 48 ratings  
+- **[Iron Pact](https://store.steampowered.com/app/3456700/)**: Linux, Mac, PC; AlexMog; 4X/PvP/RTS; 42/100 from 48 ratings  
   [Website](https://iron-pact.com)
 - **[散人大极品](https://store.steampowered.com/app/5063020/)**: PC; 散人大极品; 90/100 from 48 ratings
-- **[Jono](https://store.steampowered.com/app/5257200/)**: PC; Part Time Monkey; 97/100 from 33 ratings
-- **[Ultimate Multiplayer Survival Engine](https://store.steampowered.com/app/5171770/)**: PC; Dreamrise Studios; 55/100 from 29 ratings
+- **[Jono](https://store.steampowered.com/app/5257200/)**: PC; Part Time Monkey; Co-op/Cozy & Farming; 97/100 from 33 ratings
+- **[Ultimate Multiplayer Survival Engine](https://store.steampowered.com/app/5171770/)**: PC; Dreamrise Studios; Co-op/Open World/PvP; 55/100 from 29 ratings
 - **[VR Realms](https://store.steampowered.com/app/2964550/)**: PC; Sketchy Realms; 84/100 from 25 ratings  
   [Website](https://vr-realms.com/)
-- **[FrontWars](https://store.steampowered.com/app/4002270/)**: Linux, Mac, PC; Phoenix, VexxusArts; 59/100 from 22 ratings  
+- **[FrontWars](https://store.steampowered.com/app/4002270/)**: Linux, Mac, PC; Phoenix, VexxusArts; Battle Royale/City Builder/RTS; 59/100 from 22 ratings  
   [Website](https://frontwars.io)
 - **[CyberCowboys](https://store.steampowered.com/app/5136630/)**: Linux, PC; Homestead Games; Squad / Idle RPG; 65/100 from 17 ratings  
   [Website](https://cybercowboys.io)
 - **[PostApo](https://store.steampowered.com/app/2216510/)**: PC; FussyCraft; Battle Royale/Cozy & Farming/Hidden Object; 71/100 from 17 ratings
 - **[HB Evolution](https://store.steampowered.com/app/5243580/)**: PC; HB Evolution; Open World; 50/100 from 16 ratings  
   [Website](https://helbreathevolution.com)
-- **[Leonardo's Island](https://store.steampowered.com/app/1449590/)**: PC; Danilec; 100/100 from 15 ratings
+- **[Leonardo's Island](https://store.steampowered.com/app/1449590/)**: PC; Danilec; PvP; 100/100 from 15 ratings
 - **[女神：守護之約(Norn Saber : The Guardian's Oath)](https://store.steampowered.com/app/4030680/)**: PC; Chinesegamer; 46/100 from 13 ratings  
   [Website](https://nstgo.chinesegamer.net/)
-- **[Abyss Floors](https://store.steampowered.com/app/5219020/)**: PC; Alerot; 75/100 from 12 ratings  
-  [Website](https://www.alerotstudio.com)
-- **[Glory To The Heroes™](https://store.steampowered.com/app/2239670/)**: PC; Deaf Tone Games; 67/100 from 6 ratings  
+- **[Glory To The Heroes™](https://store.steampowered.com/app/2239670/)**: PC; Deaf Tone Games; Open World/PvP; 67/100 from 6 ratings  
   [Website](https://glorytotheheroes.com.ua/)
-- **[TON Wars](https://store.steampowered.com/app/5127960/)**: PC; Basalt Interactive OÜ; 50/100 from 6 ratings  
+- **[TON Wars](https://store.steampowered.com/app/5127960/)**: PC; Basalt Interactive OÜ; 4X/PvP/RTS; 50/100 from 6 ratings  
   [Website](https://tonwars.io)
-- **[Altaria Online](https://store.steampowered.com/app/4463710/)**: PC; Altaria Studio; 60/100 from 5 ratings  
+- **[Altaria Online](https://store.steampowered.com/app/4463710/)**: PC; Altaria Studio; PvP; 60/100 from 5 ratings  
   [Website](https://altaria-online.pl)
-- **[Coloniam](https://store.steampowered.com/app/4705440/)**: Linux, PC; Coloniam; 3 ratings  
+- **[Coloniam](https://store.steampowered.com/app/4705440/)**: Linux, PC; Coloniam; Open World/PvP; 3 ratings  
   [Website](https://coloniam.com/)
-- **[HazardousExtractions](https://store.steampowered.com/app/4487280/)**: PC; Stifz; 100/100 from 3 ratings
-- **[Yulgang W](https://store.steampowered.com/app/5178350/)**: PC; EFUN COMPANY LIMITED; 3 ratings  
-  [Website](https://yulgangw.efunen.com/)
+- **[HazardousExtractions](https://store.steampowered.com/app/4487280/)**: PC; Stifz; Co-op/Party; 100/100 from 3 ratings
 - **[Havfun](https://store.steampowered.com/app/5029210/)**: PC; NURIWORKS; 2 ratings  
   [Website](https://meta.havfun.com/)
-- **[Prison Escape io](https://store.steampowered.com/app/3583470/)**: PC; NISHAD GAMES; 50/100 from 2 ratings  
+- **[Prison Escape io](https://store.steampowered.com/app/3583470/)**: PC; NISHAD GAMES; Co-op/Cozy & Farming/PvP; 50/100 from 2 ratings  
   [Website](https://nishadgames.com/Prison-Escape.html)
-- **[LUPKAR - World of Billiards](https://store.steampowered.com/app/5036340/)**: PC; New Emotion Game; 100/100 from 1 ratings  
+- **[LUPKAR - World of Billiards](https://store.steampowered.com/app/5036340/)**: PC; New Emotion Game; Co-op/Party/PvP; 100/100 from 1 ratings  
   [Website](https://newemotiongame.com/)
-- **[Vinaigrette 3](https://store.steampowered.com/app/5209780/)**: Linux, PC; Tort; 100/100 from 1 ratings
-- **[BomberParty](https://store.steampowered.com/app/3130680/)**: Linux, Mac, PC; BlueBoxGaming  
-  [Website](https://game.blueboxproduction.ru/games.html)
-- **[Espace](https://store.steampowered.com/app/2987380/)**: PC; RobotariaStudios
-- **[Hunt And Hide](https://store.steampowered.com/app/5195230/)**: PC; TL Studio
-- **[It Hears You: Together](https://store.steampowered.com/app/4642120/)**: PC; CARETAKE
+- **[Vinaigrette 3](https://store.steampowered.com/app/5209780/)**: Linux, PC; Tort; Battle Royale/Party/PvP; 100/100 from 1 ratings
+- **[Espace](https://store.steampowered.com/app/2987380/)**: PC; RobotariaStudios; PvP/RTS
+- **[Hunt And Hide](https://store.steampowered.com/app/5195230/)**: PC; TL Studio; Co-op
+- **[It Hears You: Together](https://store.steampowered.com/app/4642120/)**: PC; CARETAKE; PvP
 - **[Monkey](https://store.steampowered.com/app/2640020/)**: PC; Two Armed Baboons, LLC.
-- **[Society Chess 3D](https://store.steampowered.com/app/5063920/)**: PC; Javi9826
-- **[Yakko Tako Royale](https://store.steampowered.com/app/5186240/)**: Linux, Mac, PC; moimart, martinez.sh  
+- **[Society Chess 3D](https://store.steampowered.com/app/5063920/)**: PC; Javi9826; Co-op
+- **[Yakko Tako Royale](https://store.steampowered.com/app/5186240/)**: Linux, Mac, PC; moimart, martinez.sh; Battle Royale/PvP  
   [Website](https://martinez.sh/yakko-tako-royale)
-- **[修仙界](https://store.steampowered.com/app/839140/)**: PC; D.C.STUDIO
-- **[新熱血江湖：世界](https://store.steampowered.com/app/3923300/)**: PC; Mover Games Limited  
-  [Website](https://yulgangw.movergames.com/)
+- **[修仙界](https://store.steampowered.com/app/839140/)**: PC; D.C.STUDIO; Party
 
 ## Racing (36)
 
-- **[STAR WARS: Galactic Racer™](https://store.steampowered.com/app/4078430/)**: PC; Fuse Games; 84/100 from 3,475 ratings  
-  [Website](https://starwarsgalacticracer.com)
 - **[Used Cars Simulator](https://store.steampowered.com/app/2637940/)**: PC; DreamWay Games; Cozy & Farming/Open World/Physics; 80/100 from 1,207 ratings  
   [Website](https://dreamwaygames.com/)
 - **[MXGP 26 - The Official Game](https://store.steampowered.com/app/3634190/)**: PC; Artefacts Studio; 59/100 from 262 ratings
 - **[Motorcycle Night Ride](https://store.steampowered.com/app/3358360/)**: Mac, PC; Suber Game Studio, Room Games; 75/100 from 242 ratings  
   [Website](https://roomgames.co/)
 - **[Hyperboard Extreme](https://store.steampowered.com/app/4892910/)**: PC; SlyBalto; 100/100 from 63 ratings
-- **[SAVE AMANI](https://store.steampowered.com/app/3153280/)**: Mac, PC; SPIRIT3D; 100/100 from 36 ratings
+- **[SAVE AMANI](https://store.steampowered.com/app/3153280/)**: Mac, PC; SPIRIT3D; Battle Royale; 100/100 from 36 ratings
 - **[Gear.Club Unlimited 3](https://store.steampowered.com/app/3659460/)**: PC; Eden Games; 38/100 from 32 ratings
 - **[Speedway Club Manager 26](https://store.steampowered.com/app/4345470/)**: PC; Marcin Dopierała, Paweł Krzemiński; 84/100 from 25 ratings  
   [Website](https://speedwayclubmanager.pl/)
@@ -210,43 +277,44 @@
   [Website](https://www.obstacle-overdrive.com/)
 - **[Low Space Race](https://store.steampowered.com/app/5172840/)**: Linux, Mac, PC; Yuri Pourre; 100/100 from 8 ratings  
   [Website](https://supergamebuilder.com/lowspacerace)
-- **[Duty Free Shop Simulator](https://store.steampowered.com/app/3964840/)**: PC; CLOWN MAGIC; 25/100 from 4 ratings
 - **[Kartboard Dash](https://store.steampowered.com/app/4510790/)**: PC; Zatun; 100/100 from 4 ratings  
   [Website](https://kartboarddash.io/)
 - **[MotoGP™ Rivals - Official Game](https://apps.apple.com/in/app/motogp-rivals-official-game/id6741074831?uo=4)**: iOS; The Tiny Digital Factory; 67/100 from 3 ratings; charting x1
 - **[Cancer Crusher USA](https://store.steampowered.com/app/3958410/)**: PC; Cancer Crusher Entertainment; 100/100 from 3 ratings  
   [Website](https://cancercrusher.net/)
 - **[Escape Sequence](https://store.steampowered.com/app/4965510/)**: PC; One Mind Games; 100/100 from 2 ratings
-- **[Pocket Parade](https://store.steampowered.com/app/4092770/)**: PC; Digital Mishappp; 50/100 from 2 ratings
-- **[Run Giraffe Run](https://store.steampowered.com/app/4260550/)**: Linux, Mac, PC; thiago hilger; 100/100 from 2 ratings  
+- **[Pocket Parade](https://store.steampowered.com/app/4092770/)**: PC; Digital Mishappp; Cozy & Farming; 50/100 from 2 ratings
+- **[Run Giraffe Run](https://store.steampowered.com/app/4260550/)**: Linux, Mac, PC; thiago hilger; Co-op/Party/PvP; 100/100 from 2 ratings  
   [Website](http://thiago.hilger.com.br)
 - **[Bad Dogs](https://store.steampowered.com/app/4958630/)**: Linux, PC; Storedraumen Games; 100/100 from 1 ratings  
   [Website](https://storedraumen.no/storedraumen-games/bad-dogs)
 - **[Blargle and the Quest for the Nothing Burger](https://store.steampowered.com/app/5040300/)**: Linux, PC; Windfelt Studios; 100/100 from 1 ratings
-- **[Second Monitor Football](https://store.steampowered.com/app/4643820/)**: PC; Tramvay Games; Physics; 100/100 from 1 ratings
+- **[Project Oasis](https://store.steampowered.com/app/4970790/)**: Linux, PC; Magma Studios; City Builder; 1 ratings
 - **[Truck Titans](https://store.steampowered.com/app/3939990/)**: PC; Outlaw Games; 100/100 from 1 ratings  
   [Website](https://pixelsgraphicdesign.com/games/)
 - **[Animals Race](https://store.steampowered.com/app/5208050/)**: PC; vectra_studios
-- **[Chat Derby Desktop](https://store.steampowered.com/app/4958140/)**: PC; GONGUNGAMES  
+- **[Chat Derby Desktop](https://store.steampowered.com/app/4958140/)**: PC; GONGUNGAMES; Party/PvP/Runner  
   [Website](https://www.gongungames.com/)
+- **[Continuous Imperfection](https://store.steampowered.com/app/4746560/)**: Linux, PC; Jeh3no; Runner
 - **[Floor Wiping Race](https://store.steampowered.com/app/5189750/)**: PC; SAT-BOX
-- **[Future Scout 2](https://store.steampowered.com/app/5266640/)**: PC; Bell Studio
+- **[Future Scout 2](https://store.steampowered.com/app/5266640/)**: PC; Bell Studio; Runner
 - **[Lane Rider: Highway Runner](https://store.steampowered.com/app/5088650/)**: Linux, PC; Home Net Games; Runner  
   [Website](https://www.homenetgames.com/lane-rider-highway-runner/)
-- **[LITEBIKE](https://store.steampowered.com/app/5239110/)**: Linux, Mac, PC; Natsukashii  
+- **[LITEBIKE](https://store.steampowered.com/app/5239110/)**: Linux, Mac, PC; Natsukashii; Party/PvP  
   [Website](https://natsukashii.io)
-- **[Moto Racing Manager](https://store.steampowered.com/app/5247270/)**: PC; MRM Games  
+- **[Moto Racing Manager](https://store.steampowered.com/app/5247270/)**: PC; MRM Games; PvP  
   [Website](https://motoracingmanager.com/)
 - **[Mountain Surfer Drone Racing Game](https://store.steampowered.com/app/4641670/)**: PC; Mountain Surfer Studio
+- **[Neon Flight](https://store.steampowered.com/app/4684590/)**: PC; BorumGG
 - **[Solarlapse](https://store.steampowered.com/app/5186900/)**: PC; Acherow
 - **[Surf Academy](https://store.steampowered.com/app/4392600/)**: PC; Hunter Kelly
-- **[The LINE](https://store.steampowered.com/app/4779650/)**: PC; GreyTGames
-- **[Two Minds One Car](https://store.steampowered.com/app/4155350/)**: PC; Schallerino
+- **[The LINE](https://store.steampowered.com/app/4779650/)**: PC; GreyTGames; PvP/Runner
+- **[Two Minds One Car](https://store.steampowered.com/app/4155350/)**: PC; Schallerino; Co-op/Party
 - **[Wilgold's Playground](https://store.steampowered.com/app/2287050/)**: PC; Wilgold Entertainment; Physics  
   [Website](https://wilgold.com/)
 - **[斩爆甜点](https://store.steampowered.com/app/5069500/)**: PC; MIAOYIN DIGITAL TECHNOLOGY CO LIMITED
 
-## Sports (147)
+## Sports (143)
 
 - **[Woman Simulator](https://store.steampowered.com/app/4072240/)**: PC; Sebasa Games; 76/100 from 533 ratings
 - **[Deer Hunting - The Season 2](https://store.steampowered.com/app/5158320/)**: PC; Chaos Entertainment; Open World; 89/100 from 54 ratings  
@@ -265,21 +333,19 @@
 - **[Fechtbucher](https://store.steampowered.com/app/3887120/)**: PC; Amel Games; 4 ratings
 - **[GLUE BLOCKS](https://store.steampowered.com/app/4135890/)**: PC; Figmenthol; 100/100 from 4 ratings  
   [Website](https://www.glueblocks.com)
-- **[Fallgate](https://store.steampowered.com/app/4991930/)**: PC; NoOne, Anon, TSB; 100/100 from 3 ratings
-- **[Harder Parkour](https://store.steampowered.com/app/3740800/)**: PC; massivefx; 50/100 from 2 ratings
-- **[Moonball](https://store.steampowered.com/app/4419950/)**: PC; DeetoDev; 50/100 from 2 ratings
+- **[Fallgate](https://store.steampowered.com/app/4991930/)**: PC; NoOne, Anon, TSB; PvP; 100/100 from 3 ratings
+- **[Harder Parkour](https://store.steampowered.com/app/3740800/)**: PC; massivefx; Runner; 50/100 from 2 ratings
+- **[Moonball](https://store.steampowered.com/app/4419950/)**: PC; DeetoDev; Party/PvP; 50/100 from 2 ratings
 - **[The Lists VR](https://store.steampowered.com/app/3421520/)**: PC; Script Ocean Games; 100/100 from 2 ratings
 - **[Calcio Totale](https://store.steampowered.com/app/5247020/)**: Linux, PC; Eleòra, Gerardo Perilli; 1 ratings  
   [Website](https://github.com/eleora-dev/calciototale)
-- **[Chefarzt](https://store.steampowered.com/app/5220450/)**: PC; eiz9r industries; 100/100 from 1 ratings
+- **[Chefarzt](https://store.steampowered.com/app/5220450/)**: PC; eiz9r industries; Co-op/Cozy & Farming; 100/100 from 1 ratings
 - **[Draft Day Sports: Pro Football 27](https://store.steampowered.com/app/5205670/)**: Mac, PC; Wolverine Studios; 1 ratings
 - **[Eishockey Manager Legacy](https://store.steampowered.com/app/5186920/)**: Mac, PC; Jodelsoft; 1 ratings  
   [Website](https://jodelsoft.de)
 - **[Hockey Fire](https://store.steampowered.com/app/5089520/)**: PC; Silver Warrior; Physics; 100/100 from 1 ratings
 - **[Pro Wrestling Tycoon](https://store.steampowered.com/app/5039120/)**: PC; CharmByte, LLC; Tycoon; 1 ratings
 - **[Tomato Canned](https://store.steampowered.com/app/5170050/)**: PC; Sauce Bauces; 100/100 from 1 ratings
-- **[Tower of Fangs: Summoned to Another World, I Was Locked in a Tower with 299 Strikers, Only the Last Egoist Goes Home](https://store.steampowered.com/app/5285560/)**: PC; ISEKAI Games; 100/100 from 1 ratings  
-  [Website](https://isekai-games.pages.dev/)
 - **[321ball](https://apps.apple.com/us/app/321ball/id6819367111?uo=4)**: iOS; EMIRHAN KIRKER; charting x20  
   [Website](https://321ball.com)
 - **[Pixel Rocket](https://apps.apple.com/us/app/pixel-rocket/id6816010589?uo=4)**: iOS; Hieu Vu; charting x20
@@ -297,111 +363,166 @@
 - **[Bada Hoops!](https://mobstersdaily.itch.io/bada-hoops)**: Web; mobstersdaily
 - **[Badminton Arena](https://skyrexio.itch.io/badminton-arena)**: Mac, PC; skyrexio
 - **[BasketBreak Arcade](https://eblstudiogames.itch.io/basketbreak-arcade)**: Web; eblstudiogames
-- **[Beer League Hockey](https://store.steampowered.com/app/5096560/)**: PC; Coder Republic  
+- **[Beer League Hockey](https://store.steampowered.com/app/5096560/)**: PC; Coder Republic; PvP  
   [Website](https://www.simplesourceerp.com)
-- **[Beluga Polo](https://store.steampowered.com/app/5255280/)**: PC; PetRem Labs
-- ...and 107 more in games.csv
+- **[Beluga Polo](https://store.steampowered.com/app/5255280/)**: PC; PetRem Labs; PvP
+- **[Beyond 90: A Footballer's Life (Play Test , PLZ)](https://wasd-games20.itch.io/beyond-90-a-footballers-life)**: PC; wasd-games20
+- ...and 103 more in games.csv
 
-## Shooter (104)
+## Shooter (198)
 
+- **[ACE COMBAT 8: WINGS OF THEVE](https://store.steampowered.com/app/2288340/)**: PC; Bandai Namco Aces Inc.; Co-op/PvP; 81/100 from 16,793 ratings  
+  [Website](http://acecombat.com/)
+- **[Gears of War: E-Day](https://store.steampowered.com/app/3010850/)**: PC; The Coalition; Co-op/Open World; 75/100 from 6,636 ratings
 - **[Neighbors: Suburban Warfare](https://store.steampowered.com/app/1732430/)**: PC; Invisible Walls; Co-op/PvP; 62/100 from 2,928 ratings  
   [Website](https://www.neighborsgame.com/)
 - **[Afterbeat (Project Arrhythmia)](https://store.steampowered.com/app/440310/)**: PC; Vitamin Games; Bullet Hell / Shmup/Co-op; 96/100 from 2,726 ratings  
   [Website](https://vitamin.games)
+- **[Way of the Hunter 2](https://store.steampowered.com/app/2543830/)**: PC; Nine Rocks Games; Co-op; 73/100 from 1,903 ratings  
+  [Website](https://wayofthehunter2.thqnordic.com)
+- **[RetroSpace](https://store.steampowered.com/app/2067820/)**: PC; The Wild Gentlemen; 90/100 from 381 ratings  
+  [Website](https://discopunk.space/)
+- **[Gamer Stop Simulator](https://store.steampowered.com/app/3499220/)**: PC; Red Axe Games; Cozy & Farming/Open World; 70/100 from 337 ratings  
+  [Website](https://redaxegames.com/)
+- **[Intravenous 3: Borderline](https://store.steampowered.com/app/4890770/)**: PC; Explosive Squat Games; 96/100 from 285 ratings  
+  [Website](https://explosivesquatgames.com/index.php)
+- **[Duckoleon](https://store.steampowered.com/app/3775510/)**: PC; Pumancz; PvP; 93/100 from 270 ratings
 - **[Cyberfrags '69](https://store.steampowered.com/app/1674270/)**: PC; D.A.S. Games; Co-op/PvP; 99/100 from 141 ratings
+- **[Drop Command](https://store.steampowered.com/app/1944880/)**: PC; PillBugGames; 4X/Open World/RTS; 79/100 from 131 ratings
+- **[VESSELS: Noiret Mansion](https://store.steampowered.com/app/4884960/)**: PC; Rosenshine Games; 95/100 from 99 ratings
+- **[Cohen 1939](https://store.steampowered.com/app/3582120/)**: PC; Cube of Cube; Bullet Hell / Shmup; 80/100 from 97 ratings
+- **[Bloodspill](https://store.steampowered.com/app/3737680/)**: PC; thatFain; Co-op/PvP; 94/100 from 62 ratings
 - **[Space Defender: Frontier Squadron](https://store.steampowered.com/app/1731170/)**: Mac, PC; Petit Vaisseau; Bullet Hell / Shmup/Open World; 96/100 from 57 ratings  
   [Website](https://petitvaisseau.com)
+- **[Japanese Ramen Simulator](https://store.steampowered.com/app/4968640/)**: PC; Wild Dog; Co-op/Tycoon; 93/100 from 56 ratings  
+  [Website](https://wilddog.jp/japaneseramensimulator)
+- **[Muchi Muchi Pork! & PinkSweets Boosted](https://store.steampowered.com/app/4229200/)**: PC; CITY CONNECTION, TAKE×0FF; Bullet Hell / Shmup/Co-op; 91/100 from 53 ratings  
+  [Website](https://city-connection.co.jp/muchimuchipork-pinksweets/)
+- **[OZARK](https://store.steampowered.com/app/1130380/)**: PC; ALTER-BOY; Co-op; 77/100 from 48 ratings  
+  [Website](https://www.alterboy.ca)
 - **[Death Delivery](https://store.steampowered.com/app/3303790/)**: PC; GogaGames.; Bullet Hell / Shmup; 70/100 from 40 ratings
+- **[Spencer's Spaghetti Quest](https://store.steampowered.com/app/3877570/)**: PC; Epitaph Games; 72/100 from 40 ratings
+- **[The Wheelchair Man 2](https://store.steampowered.com/app/4918300/)**: PC; Deformed Studios; Runner; 98/100 from 40 ratings
+- **[Hood Warfare 2](https://store.steampowered.com/app/5155360/)**: PC; Trapstar Games; PvP; 88/100 from 32 ratings
+- **[HYPERFRAG](https://store.steampowered.com/app/4271950/)**: PC; Tyro Interactive; Co-op/PvP; 74/100 from 31 ratings
+- **[The Crimson Hunt](https://store.steampowered.com/app/4485020/)**: PC; Farelas; 81/100 from 26 ratings
+- **[The Calamity Trials](https://store.steampowered.com/app/3877630/)**: PC; Deme Nowa; Runner; 64/100 from 25 ratings
+- **[Gus Game](https://store.steampowered.com/app/2407780/)**: PC; Gus; Battle Royale/Party/PvP; 88/100 from 17 ratings
+- **[STAR TALE: Odyssey One](https://store.steampowered.com/app/4502140/)**: PC; Jose Antonio Cuesta Garcia; 64/100 from 11 ratings  
+  [Website](https://odysseyone.trabajocreativo.com/)
+- **[punkt](https://store.steampowered.com/app/5153210/)**: PC; Homeowner Association; PvP; 89/100 from 9 ratings
 - **[Undead Exile](https://store.steampowered.com/app/3435420/)**: PC; ValarFerys; 56/100 from 9 ratings
-- **["GR-12 (Demo)](https://mariosweb.itch.io/gr-12-demo)**: Web; mariosweb
-- **[2D Shooter Tutorial](https://jacksondemsse.itch.io/2d-shooter-tutorial)**: Mac, PC, Web; jacksondemsse
-- **[3D - Space Shooter](https://crsx.itch.io/space-shooter)**: PC; crsx
-- **[8-Shooter Vendetta](https://onebytefile.itch.io/8-shooter-vendetta)**: Mac, PC; onebytefile
-- **[Alien Invader](https://adam-rosario.itch.io/alien-invader)**: Web; adam-rosario
-- **[Alistamento Shooting Revolution](https://not-is-echidna.itch.io/alistamento-shooting-revolution)**: PC; not-is-echidna
-- **[Animal Showdown: Fox vs Chicken](https://scubba.itch.io/fox-vs-chicken)**: Linux, Mac, PC; scubba
-- **[ANTIVIRUS [DEMO]](https://rafayette.itch.io/antivirus-demo)**: Web; rafayette
-- **[ARROW TAG!](https://ibankzero.itch.io/arrow-tag)**: Web; ibankzero
-- **[ASHLAR](https://kiwikaktus.itch.io/ashlar)**: Mac, PC; kiwikaktus
-- **[Base 80](https://videojuegos-tecnoteca.itch.io/base-80)**: Android, Linux, PC; videojuegos-tecnoteca
-- **[Batterie-Nator: The Game](https://loonima.itch.io/batterie-nator-the-game)**: PC; loonima
-- **[Bean Horde](https://snezdumb.itch.io/bean-horde)**: PC; snezdumb
-- **[BitCrusher](https://ace-real123.itch.io/untitledarcadegame)**: Web; ace-real123
-- **[Blob Siege](https://hunnag.itch.io/blob-siege)**: Web; hunnag
-- **[Blue Max: Isometric Revival](https://besomuk.itch.io/blue-max-isometric-revival)**: Web; besomuk
-- **[Bom On Pixel City XL](https://staxx28.itch.io/bom-on-pixel-city)**: Web; staxx28
-- **[Bullet Garden](https://macroooo.itch.io/bullet-garden)**: Web; macroooo
-- **[Cappy-Barrage](https://mlee04.itch.io/cappy-barrage)**: PC; mlee04
-- **[Catclysm](https://reactive-end.itch.io/catclysm)**: PC; reactive-end
-- **[Character Castle Wars](https://devleenduclsgp.itch.io/character-castle-wars)**: Web; devleenduclsgp
-- **[Clutchzone](https://tymek8191-tech.itch.io/clutchzone)**: Web; tymek8191-tech
-- **[Combat ST](https://tjlazer.itch.io/combat-st)**: Web; tjlazer
-- **[CRAPSHOT](https://chrixz-dev.itch.io/crapshot)**: PC; chrixz-dev
-- **[Cyber Survivors](https://lye-game.itch.io/cyber-survivors)**: Web; lye-game
-- **[Deadly Countdown](https://crumviii.itch.io/deadly-countdown)**: Web; crumviii
-- **[Diabolic](https://tatsudev.itch.io/diabolic)**: PC; tatsudev
-- **[Dial by Ordeal](https://miibi.itch.io/dial-by-ordeal)**: Web; miibi
-- **[Divergence 4.1](https://wesdaboss47.itch.io/divergence)**: Web; wesdaboss47
-- **[Don't Miss.](https://cgroover.itch.io/dont-miss)**: PC; cgroover
-- **[Driftline](https://seedlightgames.itch.io/driftline)**: Web; seedlightgames
-- **[Duel 64](https://jekyster.itch.io/duel-64)**: PC; jekyster
-- **[ELDRITCH SLAYER](https://mewsturbo.itch.io/eldritch-slayer)**: Web; mewsturbo
-- **[Feral Pig Hunter](https://redbus69gmailcom.itch.io/feral-pig-hunter)**: Web; redbus69gmailcom
-- ...and 64 more in games.csv
+- **[CRABRUN](https://store.steampowered.com/app/4633560/)**: Linux, Mac, PC; almbkn; Bullet Hell / Shmup; 100/100 from 8 ratings
+- **[Factorized](https://store.steampowered.com/app/5230410/)**: PC; Lab of the Ocean; Bullet Hell / Shmup; 100/100 from 8 ratings
+- **[From Beyond: Arcade Edition](https://store.steampowered.com/app/4803460/)**: Linux, Mac, PC; Turbo Intercept Interactive; Bullet Hell / Shmup; 100/100 from 8 ratings  
+  [Website](https://bcvhs.com/)
+- **[Fuck This Job](https://store.steampowered.com/app/4822520/)**: PC; Raffiné Studio	; 88/100 from 8 ratings
+- **[DAWN OF THE ROTTEN](https://store.steampowered.com/app/5196540/)**: PC; A Dank Joint; 100/100 from 6 ratings
+- **[Fsh](https://store.steampowered.com/app/4444200/)**: PC; Leave Me Bee; Metroidvania; 83/100 from 6 ratings
+- **[Old War Together](https://store.steampowered.com/app/5245720/)**: PC; cnsgames; Co-op/PvP; 100/100 from 6 ratings
+- **[Touhou Meishuugeki (東方明秋劇) ~ Cursed Sweeper and Bewildering Parallel](https://store.steampowered.com/app/5101330/)**: Mac, PC; Drillimation Systems, E. Enthusiasm; Bullet Hell / Shmup/Co-op; 33/100 from 6 ratings  
+  [Website](https://drillimation.com/touhou-meishuugeki-cursed-sweeper-and-bewildering-parallel)
+- **[Amnesia Bullet](https://store.steampowered.com/app/4747710/)**: PC; eye-factory; 100/100 from 5 ratings  
+  [Website](https://eye-factory.net/games/amnesia-bullet/)
+- **[ANTHEM OF LIMBO](https://store.steampowered.com/app/3968820/)**: Linux, Mac, PC; Micah Venis Mckeithen; Bullet Hell / Shmup; 75/100 from 4 ratings
+- **[Chill Cat](https://store.steampowered.com/app/4838690/)**: PC; OFFMOON Inc.; Co-op/Party/PvP; 100/100 from 4 ratings
+- ...and 158 more in games.csv
 
-## Platformer (94)
+## Platformer (197)
 
+- **[TOEM 2](https://store.steampowered.com/app/2900640/)**: Linux, Mac, PC; Something We Made; Cozy & Farming/Hidden Object; 92/100 from 652 ratings  
+  [Website](https://www.somethingwemade.se/toem2)
+- **[Silver Pines](https://store.steampowered.com/app/2333000/)**: PC; Wych Elm; Metroidvania/Open World; 92/100 from 264 ratings  
+  [Website](https://www.silverpinesgame.com/)
+- **[再刷一把：远征](https://store.steampowered.com/app/5282150/)**: PC; 滑稽工作室; 81/100 from 96 ratings
+- **[Okko The Exiled](https://store.steampowered.com/app/3479420/)**: Mac, PC; Frozen Flame Interactive; Metroidvania; 94/100 from 81 ratings  
+  [Website](https://www.eastasiasoft.com/)
+- **[The Merlies](https://store.steampowered.com/app/2521160/)**: Mac, PC; Darjeeling, Blue Ramen, ARTE France; Metroidvania; 92/100 from 50 ratings
+- **[ESC ape, You died?](https://store.steampowered.com/app/5208240/)**: PC; Salt&Vinegar; 100/100 from 28 ratings
+- **[Stickility](https://store.steampowered.com/app/3419140/)**: PC; Reglan; Metroidvania; 93/100 from 28 ratings
+- **[Echo Weaver](https://store.steampowered.com/app/2184080/)**: Mac, PC; Moonlight Kids; Metroidvania/Soulslike; 96/100 from 26 ratings  
+  [Website](https://www.moonlightkids.co/)
+- **[Project DevourSlime](https://store.steampowered.com/app/3263880/)**: PC; StrangeWave Studio; Hidden Object/Runner; 96/100 from 25 ratings
+- **[SpyCat: Codename Wu](https://store.steampowered.com/app/4762810/)**: PC; Yuchu Games; 32/100 from 25 ratings
+- **[Cats in Wonderland](https://store.steampowered.com/app/3023020/)**: PC; Gray Boss; Cozy & Farming/Hidden Object/Metroidvania; 96/100 from 22 ratings
+- **[Escape: Immersion](https://store.steampowered.com/app/4033680/)**: Linux, Mac, PC; AzDimension, Royal Games; 100/100 from 20 ratings
+- **[So Close](https://store.steampowered.com/app/4944470/)**: PC; Applaunch; Co-op/Party/Runner; 100/100 from 11 ratings  
+  [Website](https://playsoclose.com/)
+- **[Climb Up Together](https://store.steampowered.com/app/5239210/)**: PC; cnsgames; Co-op; 100/100 from 10 ratings
+- **[Green Hat Battle](https://store.steampowered.com/app/5235150/)**: PC; HaHaHaGame; 100/100 from 10 ratings
+- **[Crown Of Blight](https://store.steampowered.com/app/4713190/)**: Linux, PC; Nyammkatan; Metroidvania/Soulslike; 100/100 from 5 ratings
+- **[Guys with Magnets](https://store.steampowered.com/app/4594370/)**: Mac, PC; largefry; Party; 100/100 from 5 ratings  
+  [Website](https://goldenmagnetgame.com)
 - **[Huckleberry Fields Forever](https://store.steampowered.com/app/1560480/)**: Linux, Mac, PC; Enoznal LLC; Co-op/Open World; 80/100 from 5 ratings  
   [Website](https://huckleberryfieldsforever.com/)
-- **[Alternative Exit - Skate Edition](https://papersent.itch.io/alternative-exit)**: PC; papersent
-- **[ARAN - Shrine of the Last Spirits](https://nlstudioproject.itch.io/aran)**: PC; nlstudioproject
-- **[ASCENT//FLUX](https://key-keeper999.itch.io/ascentflux)**: PC; key-keeper999
-- **[Ball Bounce](https://reddestvr.itch.io/ballboing)**: Web; reddestvr
-- **[Banana Rain](https://leolofuj.itch.io/banana-rain)**: Web; leolofuj
-- **[BBConstruct01](https://bohdan-bielik.itch.io/bbconstruct01)**: Web; bohdan-bielik
-- **[Beatrice & B-Robot](https://artifiction.itch.io/beatrice-and-b-robot)**: Web; artifiction
-- **[BEFORE DAWN](https://loslerdos.itch.io/before-dawn)**: Web; loslerdos
-- **[Billy 6](https://fabio-marras.itch.io/billy-6)**: Web; fabio-marras
-- **[Blankie Run 3](https://songmeng0402.itch.io/blankie-run-3)**: Web; songmeng0402
-- **[Bruce Lee for Atari ST](https://tjlazer.itch.io/bruce-lee-st)**: Web; tjlazer
-- **[Bubble Defence](https://bikaty.itch.io/coop-jam)**: Web; bikaty
-- **[Build Escape](https://skoodle-doot.itch.io/build-escape)**: Web; skoodle-doot
-- **[Bullet Bakery](https://thastwindy.itch.io/bullet-bakery)**: Web; thastwindy
-- **[Canary](https://tomchegaray.itch.io/canary)**: Web; tomchegaray
-- **[Candy Guys](https://deltian1989.itch.io/candy-guys)**: Web; deltian1989
-- **[Carcel Barbazul](https://pandeneitor.itch.io/carcel-barbazul)**: Web; pandeneitor
-- **[Chef Chick Platformer](https://gdpstudents.itch.io/chef-chick-platformer)**: Web; gdpstudents
-- **[Cicel's Stinky Wish](https://shnewbs.itch.io/cecils-stinky-wish)**: Android, Linux, Mac, PC; shnewbs
-- **[Commander Keen: Keen Dreams - MSX2](https://bigfivestudios.itch.io/keen-dreams-msx2)**: Web; bigfivestudios
-- **[Cool Game Mario](https://spaceverse.itch.io/cool-game-mario)**: Web; spaceverse
-- **[Crystal Hide-and-Seek](https://fluffyqueen.itch.io/crystal-hide-and-seek)**: PC; fluffyqueen
-- **[Dawnless - Beta Demo](https://mooncartridge.itch.io/dawnless)**: Web; mooncartridge; Metroidvania
-- **[Detective Monitor'](https://falzziestars.itch.io/detective-monitor)**: Web; falzziestars
-- **[DRACOLACHIA](https://tersco.itch.io/dracolachia)**: Linux, PC; tersco
-- **[DYCENS: THE UPRISING](https://abdelkader-hazerchi.itch.io/dycens-the-uprising)**: Web; abdelkader-hazerchi
-- **[Endless Parkour](https://lazebear.itch.io/endless-parkour)**: Web; lazebear
-- **[Escapa de Pepe](https://juliomm8.itch.io/escapa-de-pepe)**: Web; juliomm8
-- **[Esqueleto](https://itsunder.itch.io/esqueleto)**: Web; itsunder
-- **[Exam Ninja](https://lawx-sama.itch.io/exam-ninja)**: PC; lawx-sama
-- **[Exam Ninja - online](https://lawx-sama.itch.io/exam-ninja-online)**: Web; lawx-sama
-- **[F-PICOMEG - MINIGAMES EDITION](https://f-picodev.itch.io/f-picomeg-minigames-edition)**: PC; f-picodev
-- **[Flappy Universe](https://darkhavengames.itch.io/flappy-universe)**: Web; darkhavengames
-- **[For Elise](https://forelise.itch.io/for-elise)**: Web; forelise
-- **[Galpon 13](https://videojuegos-tecnoteca.itch.io/galpon-13)**: Web; videojuegos-tecnoteca
-- **[Garden of Hell](https://ghostiecasper.itch.io/garden-of-hell)**: Mac, PC; ghostiecasper
-- **[GearHead](https://dollphindev.itch.io/gearhead)**: Web; dollphindev
-- **[get the lollipop DEMO](https://fyter.itch.io/get-the-lollipop-demo)**: PC; fyter
-- **[Glorp Adventure](https://amy-sparkle.itch.io/glorp-adventure)**: Web; amy-sparkle
-- ...and 54 more in games.csv
+- **[Sad Virus Dungeon](https://store.steampowered.com/app/5223830/)**: PC; Kendall Studios, Valkeala Software; Cozy & Farming/Hidden Object; 100/100 from 5 ratings
+- **[Wonderboy in Monster Land](https://store.steampowered.com/app/5166980/)**: PC; Retro Maniac; 60/100 from 5 ratings
+- **[A Tale Amidst Memories](https://store.steampowered.com/app/4567680/)**: Linux, PC; Moliterno Al Tartufo; Cozy & Farming; 100/100 from 4 ratings
+- **[Hell Ascension](https://store.steampowered.com/app/5220430/)**: PC; JehemStudio; Soulslike; 100/100 from 4 ratings
+- **[Minute Man](https://store.steampowered.com/app/3670900/)**: Linux, Mac, PC; Bigcheecho; 100/100 from 4 ratings
+- **[Sorcerer Adventure](https://store.steampowered.com/app/5254070/)**: PC; Marcello Studios; Cozy & Farming/Hidden Object; 100/100 from 4 ratings
+- **[Mary New Testament](https://store.steampowered.com/app/5053730/)**: PC; Hyde; Hidden Object; 67/100 from 3 ratings
+- **[MoooooN - The cow jumps over the moon](https://store.steampowered.com/app/5021380/)**: PC; Sean C, Nettakrim, Dylando; Hidden Object; 100/100 from 3 ratings
+- **[Spring Me Up](https://store.steampowered.com/app/4218230/)**: PC; More Pain; Physics; 100/100 from 3 ratings  
+  [Website](https://morepaingames.com/)
+- **[Super Macabre Madness](https://store.steampowered.com/app/5291680/)**: PC; Hellicine Interactive; 100/100 from 3 ratings
+- **[病み菌少女 地雷ちゃん](https://store.steampowered.com/app/4190040/)**: PC; YutoImata; 100/100 from 3 ratings
+- **[Automania Remastered](https://store.steampowered.com/app/4787700/)**: Mac, PC; MegaVision Software; 100/100 from 2 ratings  
+  [Website](https://www.megavision-software.com/automaniapc.php)
+- **[Bearly Awesome: Chapter 1](https://store.steampowered.com/app/4610630/)**: PC; BRLY LLC; Cozy & Farming; 100/100 from 2 ratings  
+  [Website](https://bearlyawesome.com/)
+- **[Beat, Heart, Beat](https://store.steampowered.com/app/3239360/)**: Mac, PC; The Wacy; Runner; 100/100 from 2 ratings  
+  [Website](https://linktr.ee/beatheartbeatgame)
+- **[Bigger Brain](https://store.steampowered.com/app/4878340/)**: PC; Dream of guinea pigs; Runner; 100/100 from 2 ratings
+- **[BIZ Helmsman](https://store.steampowered.com/app/4261850/)**: PC; 22°N explorer studio; 2 ratings
+- **[Dr. Mancell and Mr. Flame](https://store.steampowered.com/app/5301420/)**: PC; pftq; 100/100 from 2 ratings
+- **[Horror Runner](https://store.steampowered.com/app/5293260/)**: PC; Adcom Studios; Runner; 100/100 from 2 ratings
+- **[Pogo Gnom](https://store.steampowered.com/app/5128520/)**: PC; KILIRAU; 100/100 from 2 ratings
+- **[Swingy Spiders](https://store.steampowered.com/app/5187750/)**: PC; ReactionForceGaming; 100/100 from 2 ratings
+- **[Thunder Hoop Collection (QUByte Classics)](https://store.steampowered.com/app/4448240/)**: PC; QUByte Interactive; Co-op; 100/100 from 2 ratings  
+  [Website](https://www.qubytegames.store/allgames/thunder-hoop-collection)
+- **[Watatuyo-ANOTHER](https://store.steampowered.com/app/4406710/)**: PC; pohhyaa games; 100/100 from 2 ratings  
+  [Website](https://pohhyaa-games.hatenablog.com/)
+- ...and 157 more in games.csv
 
-## Card & Board (15)
+## Card & Board (60)
 
+- **[SPAM](https://store.steampowered.com/app/2902720/)**: Linux, PC; Ticroco Entreprise; Deckbuilder/PvP; 83/100 from 1,136 ratings
 - **[Dream Bay - Merge Resort](https://apps.apple.com/gb/app/dream-bay-merge-resort/id6797466421?uo=4)**: iOS; Moon Active; Merge; 96/100 from 48 ratings; charting x2  
   [Website](http://www.moonactive.com)
+- **[Possess Your Senior Sisters and Duel!](https://store.steampowered.com/app/4451790/)**: PC; 斜王真眼; Deckbuilder; 69/100 from 32 ratings  
+  [Website](https://www.bilibili.com/video/BV1CqZ6BaEja/)
 - **[King's Cup: The online multiplayer drinking game](https://store.steampowered.com/app/1506610/)**: Linux, Mac, PC; OnlineDrinking.Games; 84/100 from 25 ratings  
   [Website](https://onlinedrinking.games/)
+- **[Subterfuge](https://store.steampowered.com/app/4831650/)**: Linux, Mac, PC; Secret Plan; 4X/PvP; 96/100 from 22 ratings  
+  [Website](https://subterfuge-game.com)
+- **[Stick Cards RNG](https://store.steampowered.com/app/4611600/)**: PC; ShyGuysHere; 93/100 from 15 ratings  
+  [Website](https://flowlab.io/games/play/2601922)
+- **[Chess Folk](https://store.steampowered.com/app/5221860/)**: Mac, PC; Space 64; 100/100 from 12 ratings  
+  [Website](https://space64.xyz/apps/chessfolk-offline-chess-ai/)
+- **[The Crimson Scales](https://store.steampowered.com/app/5049800/)**: Mac, PC; Tall Tree; Deckbuilder; 92/100 from 12 ratings
+- **[Go](https://store.steampowered.com/app/5233540/)**: Mac, PC; Pixel Dance; Cozy & Farming/PvP; 100/100 from 10 ratings  
+  [Website](https://www.pixeldance.xyz/site)
+- **[Pantheon Tactics](https://store.steampowered.com/app/4929050/)**: PC; Mr. Y; Co-op/PvP; 80/100 from 10 ratings
+- **[Midwest Goodbye](https://store.steampowered.com/app/4917250/)**: PC; Nonstick Studios LLC; Cozy & Farming/Deckbuilder; 100/100 from 8 ratings
+- **[Floppy Desk](https://store.steampowered.com/app/4643400/)**: PC; Ezhik Games; PvP; 100/100 from 6 ratings
+- **[Wizard Harder Or Get Laid Off](https://store.steampowered.com/app/5184050/)**: PC; Old Man Baby Games; Auto-battler/Party; 100/100 from 4 ratings
+- **[By the GODS](https://store.steampowered.com/app/5243030/)**: PC; Broome & Tome; Cozy & Farming/PvP; 100/100 from 2 ratings
+- **[ChessXpanse](https://store.steampowered.com/app/3308260/)**: PC; GameJillion; 50/100 from 2 ratings  
+  [Website](https://chessxpanse.com/)
+- **[Cold Transit](https://store.steampowered.com/app/4712740/)**: Linux, PC; cmlodev; Co-op/PvP; 100/100 from 2 ratings  
+  [Website](https://cold-transit.com/)
+- **[Project - Labyrinth](https://store.steampowered.com/app/4254090/)**: PC; DeepDarkStudios; Deckbuilder; 50/100 from 2 ratings
 - **[Casa Brisca](https://apps.apple.com/us/app/casa-brisca/id6815908472?uo=4)**: iOS; Luis Perez Ibanez; 20/100 from 1 ratings; charting x20  
   [Website](https://casabrisca.com)
+- **[Amalgamated](https://store.steampowered.com/app/5163640/)**: Linux, PC; Offworld Corporation; PvP; 100/100 from 1 ratings
+- **[American Mahjong](https://store.steampowered.com/app/5015290/)**: PC; Mizithra Games; Cozy & Farming/PvP; 100/100 from 1 ratings  
+  [Website](https://americanmahjonggame.com)
+- **[Dice Poker](https://store.steampowered.com/app/5220780/)**: PC; DR Games; Party/PvP; 1 ratings
+- **[Fenrir's Ragnarök](https://store.steampowered.com/app/5223810/)**: PC; IndigoTales; PvP; 1 ratings  
+  [Website](https://www.indigotales.de/)
+- **[Weekend Solitaire 7 Grace In Motion](https://store.steampowered.com/app/5071540/)**: PC; IteraLabs; 100/100 from 1 ratings  
+  [Website](https://itera-labs.com/)
 - **[APO Hero Cards](https://apps.apple.com/gb/app/apo-hero-cards/id6810100101?uo=4)**: iOS; OneOneGames Co., Ltd.; Roguelite; charting x20
 - **[AXIOMA — Science in Play](https://apps.apple.com/gb/app/axioma-science-in-play/id6809988305?uo=4)**: iOS; Samuel Isidoro dos Santos Junior; charting x20  
   [Website](https://quantaaulas.com/)
@@ -421,13 +542,24 @@
   [Website](https://mahjongji.pages.dev/)
 - **[Simply Poker: Texas Hold'em](https://apps.apple.com/in/app/simply-poker-texas-holdem/id6794882620?uo=4)**: iOS; BossAries LLC; charting x1  
   [Website](https://bossaries.com)
+- **[Anshi](https://store.steampowered.com/app/5258610/)**: Mac, PC; xchongsu  
+  [Website](https://anshi.xchongsu.com/)
+- **[Branchbound](https://store.steampowered.com/app/5170960/)**: Linux, Mac, PC; Digitable, Marat Zimnurov; PvP  
+  [Website](https://digitable.life)
+- **[Bridge Constructor Breaking Point](https://store.steampowered.com/app/3543910/)**: PC; Monokel; PvP
+- **[City Chase ～オオカミと警察の物語～](https://store.steampowered.com/app/5271350/)**: PC; SHo5
+- **[Duel Baccarat](https://store.steampowered.com/app/5208420/)**: PC; 852kbstudio; Party/PvP
+- ...and 20 more in games.csv
 
-## Word & Trivia (14)
+## Word & Trivia (27)
 
+- **[崇祯直聘：明末官场沉浮模拟器](https://store.steampowered.com/app/4942770/)**: PC; Pyacark; 88/100 from 183 ratings
 - **[Farout - Krillion Trivia Dive](https://apps.apple.com/us/app/farout-krillion-trivia-dive/id6813899322?uo=4)**: iOS; Code Stellar LLC; 96/100 from 23 ratings; charting x4  
   [Website](https://codestellar.co)
+- **[67](https://store.steampowered.com/app/5228240/)**: Linux, Mac, PC; hutm4nn; 75/100 from 8 ratings
 - **[Krishna Stories Game 2](https://apps.apple.com/in/app/krishna-stories-game-2/id6803151719?uo=4)**: iOS; MindYourLogic Studios Private Limited; 100/100 from 3 ratings; charting x1  
   [Website](https://studios.mindyourlogic.com)
+- **[Scam Center Saboteur](https://store.steampowered.com/app/5218580/)**: PC; NextD STUDIO; 100/100 from 2 ratings
 - **[dubdub - Puzzles & Trivia](https://apps.apple.com/in/app/dubdub-puzzles-trivia/id6813162841?uo=4)**: iOS; team dubdub; 100/100 from 1 ratings; charting x1
 - **[Bible Quiz Quest: Scripture](https://apps.apple.com/us/app/bible-quiz-quest-scripture/id6815425047?uo=4)**: iOS; Greason Tech Solutions (Pty) Ltd; charting x20
 - **[BISI - The Buzzer Quiz](https://apps.apple.com/gb/app/bisi-the-buzzer-quiz/id6812506398?uo=4)**: iOS; Martin Bechtold; charting x20  
@@ -448,14 +580,32 @@
   [Website](https://facecoaching.de/die-app.html)
 - **[AMC Theatres Movie Trivia](https://apps.apple.com/us/app/amc-theatres-movie-trivia/id6786743524?uo=4)**: iOS; Hoyt Games, LLP; charting x1  
   [Website](https://wordsearch.world/)
+- **[A Letter Game](https://store.steampowered.com/app/4646680/)**: Mac, PC; BIG DREAMS GROUP
+- **[Chamele-Guess](https://store.steampowered.com/app/5142570/)**: PC; Friendslop Studios; Party/PvP
+- **[Doc Tommy: The Vig](https://store.steampowered.com/app/5254340/)**: Linux, Mac, PC; Echelon Create LLC  
+  [Website](https://ehverse.com/doc-tommy/the-vig/)
+- **[Guess the Origin](https://store.steampowered.com/app/4942390/)**: PC; Karam Ghazzi; Party/PvP  
+  [Website](https://synkitai.com/)
+- **[Kret: The Game](https://store.steampowered.com/app/4961200/)**: PC; Gucio Entertainment Studio; Party/PvP
+- **[MadKeys](https://store.steampowered.com/app/5173090/)**: PC; Song
+- **[Missing Link](https://store.steampowered.com/app/4675610/)**: PC; Randy Dyer; Party
+- **[The Daily](https://store.steampowered.com/app/5233870/)**: PC; Scadu Games
+- **[Total Biochem](https://store.steampowered.com/app/5232980/)**: Mac, PC; Sinter Labs LLC  
+  [Website](https://www.sinter-labs.com/total-biochem)
+- **[謎好きサンタからの挑戦状](https://store.steampowered.com/app/4951740/)**: Mac, PC; P.E.G  
+  [Website](https://peg-dev.com/)
 
-## Music & Rhythm (7)
+## Music & Rhythm (12)
 
 - **[The Choicer Voicer](https://apps.apple.com/us/app/the-choicer-voicer/id6813232308?uo=4)**: iOS; MAJNAT ABDERRAHIM; 32/100 from 16 ratings; charting x1  
   [Website](https://hidavo.site)
+- **[Aura battle simulator](https://store.steampowered.com/app/5233900/)**: PC; Yanfer; 80/100 from 5 ratings
+- **[Baseball Bat Hero; or, Savagely Beating a Man With a Club Until He Dies of Blunt Force Trauma](https://store.steampowered.com/app/5060630/)**: Linux, PC; Wolf Cola; 100/100 from 4 ratings
 - **[Mimicbox: Mimic Party Game](https://apps.apple.com/in/app/mimicbox-mimic-party-game/id6815280618?uo=4)**: iOS; Matys Bouziane; Party; 100/100 from 1 ratings; charting x1  
   [Website](https://mimicbox.app/en/)
+- **[Ballad](https://store.steampowered.com/app/5011870/)**: PC; Part Time Monkey; Cozy & Farming; 100/100 from 1 ratings
 - **[Rhythmic Keyboard](https://store.steampowered.com/app/1960320/)**: PC; Lando Games; 100/100 from 1 ratings
+- **[Sacred Echoes](https://store.steampowered.com/app/4412510/)**: PC; CratesDiamond; Soulslike; 100/100 from 1 ratings
 - **[LaneLume – Neon Tunnel Run](https://apps.apple.com/gb/app/lanelume-neon-tunnel-run/id6820737164?uo=4)**: iOS; Real Movement Analytics GmbH; charting x20  
   [Website](https://lanelume.punktdev.com/en/)
 - **[Mimic Challenge: Echo Battle](https://apps.apple.com/in/app/mimic-challenge-echo-battle/id6814526308?uo=4)**: iOS; Kaloyan Stoilov; charting x1  
@@ -464,17 +614,77 @@
   [Website](https://oddada.com)
 - **[Voice Mimic Party](https://apps.apple.com/us/app/voice-mimic-party/id6808716650?uo=4)**: iOS; Quynh Ta; charting x1  
   [Website](https://wallpaper26-theme.web.app)
+- **[AutoChart](https://store.steampowered.com/app/5201270/)**: PC; 1rwy
 
-## Survival (60)
+## Horror (59)
+
+- **[TUNG](https://store.steampowered.com/app/4341400/)**: PC; Niche Games; 88/100 from 2,738 ratings
+- **[Clive Barker's Hellraiser: Revival](https://store.steampowered.com/app/1551980/)**: PC; Saber Interactive; 96/100 from 1,473 ratings  
+  [Website](https://hellraisergame.com)
+- **[MOGGED: Looksmaxx or Die](https://store.steampowered.com/app/4917440/)**: PC; Sigma Labs; Co-op/Cozy & Farming; 64/100 from 252 ratings  
+  [Website](https://playmogged.com)
+- **[Invokyr](https://store.steampowered.com/app/3883570/)**: PC; Ludogram; Co-op; 96/100 from 197 ratings  
+  [Website](https://ludogram.io/)
+- **[HR: Human Remains](https://store.steampowered.com/app/3541630/)**: PC; dennisCorner; 100/100 from 92 ratings
+- **[SMS Returns](https://store.steampowered.com/app/4670920/)**: PC; Marc Steene; Co-op; 86/100 from 73 ratings
+- **[Camp Whittlewood](https://store.steampowered.com/app/4813190/)**: PC; NickSchemes; Cozy & Farming; 98/100 from 62 ratings
+- **[Super Chillers: The Chat Room](https://store.steampowered.com/app/3129150/)**: PC; Rose Arcana Games; 71/100 from 45 ratings
+- **[What Is The Ghost](https://store.steampowered.com/app/3929260/)**: PC; Deda Games; Co-op; 97/100 from 38 ratings
+- **[TWIN Hotel, Spa and More](https://store.steampowered.com/app/4867650/)**: PC; Scratch Byte Studios; 57/100 from 35 ratings  
+  [Website](https://neuroticfly.com/)
+- **[Late Order](https://store.steampowered.com/app/4147170/)**: PC; Judas Brothers, Rassl.me; 65/100 from 23 ratings
+- **[Ardena](https://store.steampowered.com/app/3441000/)**: PC; RRSTUDIO; 100/100 from 16 ratings
+- **[Cyan Heart](https://store.steampowered.com/app/3744190/)**: PC; Shoei Sio; 93/100 from 14 ratings
+- **[Sinever: First Seal](https://store.steampowered.com/app/5001350/)**: PC; MAS Studios; Co-op; 82/100 from 11 ratings  
+  [Website](https://www.sinever.com/)
+- **[The Call Button](https://store.steampowered.com/app/4584180/)**: PC; Somnatide Studio; Hidden Object; 82/100 from 11 ratings  
+  [Website](https://somnatide.com)
+- **[Escape the Playground](https://store.steampowered.com/app/5229620/)**: PC; AnotherBuild; Co-op/Party; 100/100 from 10 ratings
+- **[■■になってくれませんか？](https://store.steampowered.com/app/4962190/)**: PC; 双子の姉(FutagonoAne); Hidden Object; 100/100 from 10 ratings
+- **[Once In Sakartvelo: Out Of Service](https://store.steampowered.com/app/5096510/)**: PC; ArbiDev; 71/100 from 7 ratings
+- **[Lost Liminal:Prologue](https://store.steampowered.com/app/5187710/)**: PC; TuJi Game; 50/100 from 6 ratings
+- **[Quentin Playtime](https://store.steampowered.com/app/3020100/)**: PC; Notiwal; Co-op; 100/100 from 6 ratings
+- **[r u n a w a y s](https://store.steampowered.com/app/4161080/)**: PC; Nøreign; 67/100 from 6 ratings
+- **[Granny Horror House](https://store.steampowered.com/app/5028210/)**: PC; YaraGames; 20/100 from 5 ratings
+- **[HEARKEN](https://store.steampowered.com/app/5087210/)**: PC; Alichal; Co-op; 80/100 from 5 ratings
+- **[Rahasya: The Unsolved Mystery](https://store.steampowered.com/app/4351700/)**: PC; Yuga Studio; Co-op; 100/100 from 5 ratings
+- **[Late Checkout](https://store.steampowered.com/app/5134130/)**: Linux, Mac, PC; Ninety Pines; 75/100 from 4 ratings
+- **[SEVEN SCHOOL GHOST STORIES | 学校の七つの怪談](https://store.steampowered.com/app/5193640/)**: PC; Hikachof; 75/100 from 4 ratings
+- **[Beyond the Door](https://store.steampowered.com/app/5186280/)**: PC; AWAKURA GAME STUDIO; Hidden Object; 100/100 from 3 ratings
+- **[Borrowed Sight](https://store.steampowered.com/app/5000040/)**: PC; SolitaryStudios; 100/100 from 3 ratings  
+  [Website](https://solitarystudios.games/)
+- **[Unnerving Nightmare](https://store.steampowered.com/app/5227020/)**: PC; Tokhir Umarov; 100/100 from 3 ratings
+- **[Desperate Civilization](https://store.steampowered.com/app/4172400/)**: PC; Xdd; Co-op; 50/100 from 2 ratings
+- **[Manaphore](https://store.steampowered.com/app/5242820/)**: PC; Polygonomic Interactive; 100/100 from 2 ratings
+- **[State Of Fear: The Final Shift](https://store.steampowered.com/app/5133640/)**: PC; Moonlink Games; 2 ratings
+- **[VHS Tapes](https://store.steampowered.com/app/4818670/)**: PC; DogHat Games; Co-op; 100/100 from 2 ratings
+- **[Before Six](https://store.steampowered.com/app/5087930/)**: PC; Tou Games; 100/100 from 1 ratings
+- **[Corid](https://store.steampowered.com/app/4844730/)**: PC; 2 Grave Studio; 1 ratings
+- **[HOSPİTAL8](https://store.steampowered.com/app/5245790/)**: PC; Hamza & Yusuf Sonay; 1 ratings
+- **[Kickin' Elevator](https://store.steampowered.com/app/4744830/)**: PC; Byking RooKIES; 100/100 from 1 ratings  
+  [Website](https://byking.jp)
+- **[Obsessive](https://store.steampowered.com/app/5185130/)**: PC; YOIAO; 100/100 from 1 ratings
+- **[Smiglee's Statues: The Cursed Curation](https://store.steampowered.com/app/4452790/)**: Linux, Mac, PC; WoollyOne Games; 100/100 from 1 ratings
+- **[Touhou: BlackEight](https://store.steampowered.com/app/5008530/)**: PC; OBORO; Hidden Object; 100/100 from 1 ratings
+- ...and 19 more in games.csv
+
+## Survival (70)
 
 - **[Denizen](https://store.steampowered.com/app/2010030/)**: PC; Departure Interactive; Cozy & Farming/Open World; 73/100 from 916 ratings  
   [Website](http://departureinteractive.com/)
+- **[Permafrost](https://store.steampowered.com/app/2254990/)**: PC; SpaceRocket Games; Co-op/Open World; 72/100 from 165 ratings
+- **[XenoHaven](https://store.steampowered.com/app/3461270/)**: PC; Miniverse Game; Cozy & Farming/Open World; 79/100 from 80 ratings
+- **[Isolation Edge](https://store.steampowered.com/app/4595350/)**: PC; EzGameStudio; Tower Defense; 43/100 from 7 ratings
+- **[Death Game Simulator](https://store.steampowered.com/app/5163750/)**: PC; TamagoEggs; Party/PvP; 17/100 from 6 ratings
+- **[Maiba Taya](https://store.steampowered.com/app/5179520/)**: PC; SolitaryStudios; Co-op/Party/PvP; 100/100 from 3 ratings
+- **[The Long Graze](https://store.steampowered.com/app/5179030/)**: PC; Grazing Comet; Open World; 50/100 from 2 ratings
 - **[10 pesos](https://incognitor7.itch.io/10-pesos)**: Web; incognitor7
 - **[AI Game Generator ULTRA](https://datexai.itch.io/ai-game-generator-ultra)**: Web; datexai
 - **[Anti Bet](https://pbwanskaas-productions.itch.io/anti-bet)**: PC; pbwanskaas-productions
 - **[BIRDKINGS](https://loyaltyo.itch.io/birdkings)**: Web; loyaltyo
 - **[BLACKOUT COURIER](https://yokosan7777.itch.io/blackout-courier)**: Web; yokosan7777
 - **[Blox](https://osmely.itch.io/mybloxgame)**: Android, Linux, Mac, PC; osmely
+- **[Bressnath](https://store.steampowered.com/app/5268700/)**: Linux, Mac, PC; Morass; City Builder/RTS/Tower Defense
 - **[CannonFight: Rescue Hostages](https://karashoky.itch.io/cannonfight-rescue-hostages)**: Web; karashoky
 - **[Car ware3d](https://sniper-x.itch.io/car-ware3d)**: Web; sniper-x
 - **[CarCrushers.drive v1.0](https://carcrusherscommunity.itch.io/carcrushersdrive)**: Web; carcrusherscommunity
@@ -501,158 +711,179 @@
 - **[Futile Fortress](https://uninitializedstring.itch.io/futile-fortress)**: Mac, PC; uninitializedstring
 - **[Gatsby's Inferno](https://fanglin00.itch.io/gatsbys-inferno)**: Web; fanglin00
 - **[Geo_games_v12_3](https://geo-game-v12.itch.io/geo-games-v12-3)**: Web; geo-game-v12
-- **[GONECRETE](https://idos.itch.io/gonecrete)**: PC; idos
-- **[Griffy in Yellow](https://therealjfranco.itch.io/griffy-in-yellow)**: Web; therealjfranco
-- **[GTR: Great Track Rebuild](https://qwerty-arts.itch.io/gtr-great-track-rebuild)**: Linux, PC; qwerty-arts
-- **[HELIOS](https://tomo-tomo.itch.io/helios)**: Mac, PC; tomo-tomo
-- **[HELL x SPIN: Cards Mode](https://sichugames.itch.io/hell-x-spin-cards)**: Web; sichugames; Roguelite
-- **[If you give a ghost a cookie...](https://timefuzegames.itch.io/if-you-give-a-ghost-a-cookie)**: Web; timefuzegames
-- **[Keros](https://dudwns0921.itch.io/keros)**: Web; dudwns0921
-- ...and 20 more in games.csv
+- ...and 30 more in games.csv
 
-## Puzzle (107)
+## Sandbox (36)
 
+- **[ShipCrafter](https://store.steampowered.com/app/3854870/)**: Linux, PC; Myrmecoman; 90/100 from 335 ratings
+- **[Starlathe](https://store.steampowered.com/app/5090060/)**: PC; Astraeon Interactive; Open World; 87/100 from 82 ratings
+- **[Tiny Flock](https://store.steampowered.com/app/3133010/)**: PC; No Brakes Games; Cozy & Farming/Physics; 100/100 from 63 ratings  
+  [Website](https://nobrakesgames.com/games/tiny-flock)
+- **[Better Chaos](https://store.steampowered.com/app/5138000/)**: PC; Exanticx Studio; 76/100 from 34 ratings  
+  [Website](https://exanticxstudio.com/)
+- **[Touhou Garden of the Yukkuri](https://store.steampowered.com/app/5159730/)**: PC; Bar Holographic Otaku; Cozy & Farming; 100/100 from 15 ratings
+- **[Anomalous Cleaning Detail](https://store.steampowered.com/app/4378370/)**: PC; Pixel Drip Games; 50/100 from 10 ratings  
+  [Website](https://pixeldripgames.com.au/)
+- **[Mega Merge](https://store.steampowered.com/app/2750230/)**: PC; Wildware Studios; Merge/Roguelite; 100/100 from 7 ratings
+- **[Retail Robbery](https://store.steampowered.com/app/4558820/)**: PC; Retail Studios; 83/100 from 6 ratings
+- **[Shelfbound](https://store.steampowered.com/app/5255880/)**: PC; TBS Workshop; 67/100 from 6 ratings
+- **[Shopping Cart Pusher](https://store.steampowered.com/app/4038570/)**: Mac, PC; Jack Li; Hidden Object; 100/100 from 6 ratings
+- **[2D Factory](https://store.steampowered.com/app/4953940/)**: PC; Alexandre Hamelin; Co-op/Open World; 60/100 from 5 ratings
+- **[Discovery 2](https://store.steampowered.com/app/4486860/)**: PC; noowanda; Co-op/Open World; 100/100 from 5 ratings  
+  [Website](https://www.noowanda.com)
+- **[LUGANO BAY TYCOON](https://store.steampowered.com/app/5235040/)**: PC; Zoran Pavlovic; Tycoon; 100/100 from 5 ratings
+- **[Royal Cartographer: Restore the Map](https://store.steampowered.com/app/5087780/)**: PC; _Taralis; Cozy & Farming/Hidden Object; 50/100 from 4 ratings
+- **[Absolute Sol](https://store.steampowered.com/app/5062140/)**: PC; Absolute Sol; 100/100 from 3 ratings
+- **[Dimensional Double Shift](https://store.steampowered.com/app/4738640/)**: PC; Owlchemy Labs; 100/100 from 3 ratings  
+  [Website](https://dimensionaldoubleshift.com/)
+- **[Botlings](https://store.steampowered.com/app/4139440/)**: PC; Fancy Raven Games; 100/100 from 2 ratings
+- **[Little Gable Studio](https://store.steampowered.com/app/5044540/)**: PC; Pancake Cat LLC; City Builder/Cozy & Farming; 100/100 from 2 ratings  
+  [Website](https://www.pancakecatllc.com/little-gable-studio)
+- **[Things That Happen on the Map - Realm Simulator](https://store.steampowered.com/app/5176180/)**: Mac, PC; Lysemin; 100/100 from 2 ratings
+- **[7 days in a little world](https://store.steampowered.com/app/5240720/)**: PC; kumashin; City Builder/Cozy & Farming/Party; 100/100 from 1 ratings
+- **[Dust Rapture](https://store.steampowered.com/app/4950700/)**: PC; DarkShift Interactive; Hidden Object/Open World; 1 ratings  
+  [Website](https://darkshiftinteractive.com/dust-rapture.html)
+- **[Furnished](https://store.steampowered.com/app/5224920/)**: PC; MOJO PICON Studios; Cozy & Farming; 100/100 from 1 ratings
+- **[Keepshore](https://store.steampowered.com/app/5083090/)**: PC; fp32.ai LLC; City Builder/Cozy & Farming; 100/100 from 1 ratings
+- **[Sketch Play](https://store.steampowered.com/app/3866160/)**: Linux, PC; Crystal Games; Co-op/Cozy & Farming/PvP; 100/100 from 1 ratings
+- **[The Glorious Cause](https://store.steampowered.com/app/4297870/)**: Linux, PC; ThinkByte Studio; 100/100 from 1 ratings  
+  [Website](https://thegloriouscausegame.com)
+- **[Tiny Beach](https://store.steampowered.com/app/5240480/)**: PC; Ship is gone Studio; Cozy & Farming; 100/100 from 1 ratings
+- **[WildRoot](https://store.steampowered.com/app/3446730/)**: PC; Rahul Das; City Builder/Cozy & Farming; 1 ratings
+- **[Airline Magnate](https://store.steampowered.com/app/5221110/)**: PC; Parker Snow
+- **[Battle Simulator: Counter Zombie REBORN](https://store.steampowered.com/app/4831090/)**: Linux, Mac, PC; Yurii Nikshych
+- **[Hanok: From Thatch to Palace](https://store.steampowered.com/app/5130100/)**: PC; WATSI; City Builder/Cozy & Farming  
+  [Website](https://watsi.co.kr)
+- **[Pressure Works](https://store.steampowered.com/app/5133090/)**: PC; Urban Legend Games
+- **[Sediment](https://store.steampowered.com/app/5219520/)**: PC; Antique Box Studio
+- **[Star Heir: Dark Crusade](https://store.steampowered.com/app/5049830/)**: Linux, PC; Faithful Works; PvP  
+  [Website](https://starheirs.com)
+- **[Stick Life: The Daily Grind](https://store.steampowered.com/app/5285080/)**: PC; Drangus Studios; Cozy & Farming
+- **[Three Kingdoms: Boundless](https://store.steampowered.com/app/4934630/)**: PC; WU HUI CHEN; Open World
+- **[Wings of the Western Front](https://store.steampowered.com/app/4875230/)**: PC; CuppaJoe Studio
+
+## Puzzle (198)
+
+- **[Order of the Sinking Star](https://store.steampowered.com/app/499170/)**: PC; Thekla, Inc.; Open World; 97/100 from 685 ratings  
+  [Website](https://www.orderofthesinkingstar.com/)
 - **[The Operator](https://apps.apple.com/us/app/the-operator/id6779664500?uo=4)**: iOS; Bureau 81; 98/100 from 365 ratings; charting x1  
   [Website](https://bureau81.com/)
+- **[DUAL PROTOCOL: The Case of Eva & Miles](https://store.steampowered.com/app/4660280/)**: PC; AEGEAN CRAFTERS; Co-op; 53/100 from 267 ratings  
+  [Website](https://aegeancrafters.co)
+- **[Tidy Up the Flower Shop](https://store.steampowered.com/app/5221510/)**: PC; Over The Moon; Cozy & Farming/Hidden Object; 96/100 from 136 ratings
+- **[Let's Tidy Up! : Treasure](https://store.steampowered.com/app/5023770/)**: PC; Tidy Up Team, Lowkey GameDev; Cozy & Farming/Hidden Object; 76/100 from 95 ratings
+- **[Carry The Count](https://store.steampowered.com/app/4311440/)**: PC; Little Bird Studios; Co-op; 97/100 from 69 ratings  
+  [Website](https://www.cathedral-studios.com/)
 - **[Gear Puzzle: the inheritance of grandpa](https://store.steampowered.com/app/1114230/)**: Mac, PC; HunDong Studio; Hidden Object; 75/100 from 61 ratings
+- **[Petal Crash 2](https://store.steampowered.com/app/2697670/)**: Linux, PC; Friend & Fairy; 100/100 from 37 ratings  
+  [Website](https://www.petalcrash.com)
+- **[Sort The Capybaras](https://store.steampowered.com/app/5130480/)**: PC; CapybaraKoala; Cozy & Farming/Hidden Object; 100/100 from 37 ratings
+- **[Greenhouse: Tidy Up!](https://store.steampowered.com/app/5146200/)**: PC; Pixel Puffs; Hidden Object; 68/100 from 31 ratings
+- **[Monster Museum: Tidy Up the collection!](https://store.steampowered.com/app/4998990/)**: Mac, PC; Klafti Studio; Cozy & Farming/Hidden Object; 92/100 from 26 ratings
+- **[Mahou Shoujo Escape](https://store.steampowered.com/app/3230470/)**: PC; cocoan; 96/100 from 25 ratings
+- **[Sort of Magic](https://store.steampowered.com/app/4398290/)**: PC; Riwon; Co-op; 36/100 from 22 ratings
+- **[Floating Frontiers](https://store.steampowered.com/app/4034080/)**: Mac, PC;  Crabeater Games; City Builder; 100/100 from 19 ratings
+- **[Vinyl Store: Tidy Up!](https://store.steampowered.com/app/5088290/)**: PC; Pixel Puffs; Hidden Object; 44/100 from 18 ratings
+- **[Emojix](https://store.steampowered.com/app/5221540/)**: PC; 100 Cozy Games, Cats; Cozy & Farming; 100/100 from 17 ratings
 - **[The Posthumous Investigation](https://apps.apple.com/us/app/the-posthumous-investigation/id1614001053?uo=4)**: iOS; Mother Gaia Studio; 98/100 from 11 ratings; charting x1  
   [Website](https://mothergaia.com.br)
+- **[Tidy Up the Royal Armory](https://store.steampowered.com/app/5169440/)**: PC; 7 Heads Studio; Co-op; 50/100 from 10 ratings
+- **[Apple Worm: Logic Puzzle](https://store.steampowered.com/app/5189530/)**: Mac, PC; Absolutist Ltd.; 89/100 from 9 ratings  
+  [Website](https://absolutist.com)
+- **[Cauldron Chaos: Brew Potions & Tidy Up](https://store.steampowered.com/app/5007680/)**: PC; Skill Issue Studios; Co-op/Cozy & Farming; 100/100 from 9 ratings
 - **[Rest House III - Chlorophilia](https://store.steampowered.com/app/2377300/)**: PC; DIG Games; 67/100 from 9 ratings
-- **[Mega Merge](https://store.steampowered.com/app/2750230/)**: PC; Wildware Studios; Merge/Roguelite; 100/100 from 7 ratings
+- **[Blackout](https://store.steampowered.com/app/5229750/)**: Mac, PC; Len Syrudas; Cozy & Farming; 100/100 from 8 ratings
+- **[Tech Chaos](https://store.steampowered.com/app/5140650/)**: PC;  IFoxxI, F𝗿𝗶𝘀𝗯𝗲𝗲; Cozy & Farming; 75/100 from 8 ratings
+- **[DungeonOS](https://store.steampowered.com/app/4221660/)**: PC; Grave Hammer Games; 100/100 from 6 ratings
+- **[Puke and Seek](https://store.steampowered.com/app/5118740/)**: PC; Cyborg Dreams; Co-op/Hidden Object/Party; 83/100 from 6 ratings
+- **[Vexcell](https://store.steampowered.com/app/3845510/)**: PC; J.M. Bremer; 100/100 from 6 ratings
+- **[A Wee Flee](https://store.steampowered.com/app/4957450/)**: PC; 200 Levels; Co-op; 100/100 from 5 ratings
+- **[DROWSE](https://store.steampowered.com/app/4613650/)**: PC; MILKY COCO GAMES; 100/100 from 5 ratings
 - **[Infinite Minesweeper](https://store.steampowered.com/app/5178500/)**: PC, Web; JSM games; 100/100 from 5 ratings  
   [itch.io](https://ancooper.itch.io/minesweeper)
-- **[Lostbound](https://store.steampowered.com/app/4588320/)**: PC, Web; Tenkarider; Roguelite; 100/100 from 4 ratings  
+- **[Dumpling Delight](https://store.steampowered.com/app/5139970/)**: PC; Pretty Pixels; Cozy & Farming/Merge; 100/100 from 4 ratings
+- **[Lostbound](https://store.steampowered.com/app/4588320/)**: PC, Web; Tenkarider; Auto-battler/Open World/Roguelite/Soulslike; 100/100 from 4 ratings  
   [itch.io](https://callumc1101.itch.io/lostandbound) · [Website](https://tambugames.com)
-- **[Match 3 Labyrinth](https://store.steampowered.com/app/4165370/)**: Mac, PC; Penggy; Match-3; 100/100 from 1 ratings
-- **[Alembic Puzzle](https://apps.apple.com/gb/app/alembic-puzzle/id6798783446?uo=4)**: iOS; RAFFAEL JAMBOR; Sort & Organise; charting x20  
-  [Website](https://paloaltea.app/alembic/en)
-- **[Algebra Match](https://apps.apple.com/gb/app/algebra-match/id6814961895?uo=4)**: iOS; Tommaso Frazzano; charting x20
-- **[Hidden Notes: Logic Puzzle](https://apps.apple.com/gb/app/hidden-notes-logic-puzzle/id6811024780?uo=4)**: iOS; Hiker Games Joint Stock Company; charting x20  
-  [Website](https://funchip.net/)
-- **[Little Fox Pumpkin Carving](https://apps.apple.com/us/app/little-fox-pumpkin-carving/id6813705397?uo=4)**: iOS; ANDREW RYAN ARNOLD; charting x20  
-  [Website](https://www.littlefoxkidapps.com/)
-- **[Maze Zero - Offline, No Ads](https://apps.apple.com/gb/app/maze-zero-offline-no-ads/id6817249369?uo=4)**: iOS; Byungil Park; charting x20
-- **[Meow Pup:Pair Puzzle Doku](https://apps.apple.com/us/app/meow-pup-pair-puzzle-doku/id6816848482?uo=4)**: iOS; TSP Technology; charting x20  
-  [Website](https://cxygame.com/)
-- **[MORPH – Matière vivante](https://apps.apple.com/us/app/morph-mati%C3%A8re-vivante/id6817693049?uo=4)**: iOS; ANBININA ANDRIAMUOAVONJY; charting x20
-- **[NAGI: Hashi & Logic](https://apps.apple.com/us/app/nagi-hashi-logic/id6814845668?uo=4)**: iOS; FRANCESCO MOLLO; charting x20  
-  [Website](https://focusproduction.tendalinoino.workers.dev/)
-- **[Quarter Maze: Flow](https://apps.apple.com/gb/app/quarter-maze-flow/id6818655097?uo=4)**: iOS; Vladislav Galkin; charting x20  
-  [Website](https://appnest-81015e.gitlab.io/quartermaze/)
-- **[SenderoMX](https://apps.apple.com/us/app/senderomx/id6818681320?uo=4)**: iOS; Amado Mata; charting x20  
-  [Website](https://ineriam.com/)
-- **[Twelve Turns: Number Merge](https://apps.apple.com/us/app/twelve-turns-number-merge/id6814769588?uo=4)**: iOS; JeonHun Lim; Merge; charting x20  
-  [Website](https://h0onnn.github.io/twelve-turns-support/)
-- **[Potion Drop](https://store.steampowered.com/app/4998750/)**: Linux, PC, iOS; Data Dealer Productions; Match-3; charting x12  
-  [App Store](https://apps.apple.com/gb/app/potion-drop/id6793266390?uo=4)
-- **[CASE No: 1958](https://apps.apple.com/gb/app/case-no-1958/id6818969279?uo=4)**: iOS; Emre Arslan; charting x8  
-  [Website](https://vakano1937.com/1958)
-- **[ExoWorld - Diorama](https://apps.apple.com/gb/app/exoworld-diorama/id979524874?uo=4)**: iOS; Roberto Zilli; charting x8  
-  [Website](https://exoworld.zetaerre.net/)
-- **[Ice Flow: Pixel Art](https://apps.apple.com/in/app/ice-flow-pixel-art/id6812989392?uo=4)**: iOS; Radiant Cat Studio; Hyper-casual; charting x1  
-  [Website](https://www.radiantcat.studio)
-- **[5040: Find the Secret Number](https://ojdeal.itch.io/codebreaker)**: Web; ojdeal
-- **[Andros Games: Demo Arcade — 10 Games to Try](https://androsgames.itch.io/andros-games-demo-arcade-10-games-to-try)**: Web; androsgames
-- **[Attar](https://huseyinbuyukbayram.itch.io/attar)**: Web; huseyinbuyukbayram
-- **[BougieMan](https://bougieman.itch.io/bougieman)**: Web; bougieman
-- **[Branoxy](https://brainoxystudio.itch.io/branoxy)**: Web; brainoxystudio
-- **[CaT company](https://dremes.itch.io/cat-company)**: PC; dremes
-- **[Catch Me(ow) If You Can](https://zackyhax.itch.io/catch-meow-if-you-can)**: Web; zackyhax
-- **[CC: Bianca's Sigils](https://evilous.itch.io/cc-biancas-sigils)**: Web; evilous
-- **[CHRONOLOGY OF A GHOST](https://csaf.itch.io/chronology-of-a-ghost)**: Web; csaf
-- **[Color Blind](https://txb13.itch.io/color-blindz)**: Web; txb13
-- **[Color Clump: Sort Puzzle](https://marea-alta-games.itch.io/color-clump-sort-puzzle)**: Web; marea-alta-games; Sort & Organise
-- **[Comet Gardener](https://watersuu.itch.io/comet-gardener)**: Web; watersuu
-- **[Cosmic snake](https://dd-productions.itch.io/cosmic-snake)**: Web; dd-productions
-- **[Cozy Closet](https://leolofuj.itch.io/cozy-closet)**: Web; leolofuj; Cozy & Farming
-- **[CUBE 2048](https://mayjune78.itch.io/cube-2048)**: Web; mayjune78; Merge
-- **[Darkwaar25 - The Lamp](https://darkwoodcom.itch.io/darkwaar25)**: Web; darkwoodcom
-- **[DD33: Death by Dice](https://bigbuttonco.itch.io/dd33)**: Web; bigbuttonco; Roguelite
-- ...and 67 more in games.csv
+- **[A Maze In Labyrinth](https://store.steampowered.com/app/4524010/)**: PC; Ludus Meta; Open World; 100/100 from 3 ratings  
+  [Website](https://ludusmeta.com/)
+- **[Blyte](https://store.steampowered.com/app/3861920/)**: PC; Pixel Studio; Hidden Object; 67/100 from 3 ratings
+- **[Dark Are The Crypts: The Lost Idea](https://store.steampowered.com/app/4974810/)**: PC; WhiteNoiseBlackVoid; Hidden Object; 100/100 from 3 ratings
+- **[HOUSE OF FEAR](https://store.steampowered.com/app/5220870/)**: PC; IZBA-TV; Hidden Object; 67/100 from 3 ratings
+- **[In These Hallowed Halls](https://store.steampowered.com/app/4875320/)**: PC; MPlant Games; 100/100 from 3 ratings
+- **[回南天 The Ferry](https://store.steampowered.com/app/5286780/)**: PC; 寒悦Hannyueh, 齐葭Qijia; 100/100 from 3 ratings
+- **[101 Dogs Hidden in Shenzhen](https://store.steampowered.com/app/5263590/)**: PC; NaipSoft; Cozy & Farming/Hidden Object; 100/100 from 2 ratings
+- **[Bee on a Roll](https://store.steampowered.com/app/5064960/)**: Linux, PC; Reimar Waitz; Co-op; 100/100 from 2 ratings
+- **[Demonator](https://store.steampowered.com/app/5293950/)**: PC; Marcello Studios; Hidden Object/Runner; 100/100 from 2 ratings
+- ...and 158 more in games.csv
 
-## Strategy (413)
+## Strategy (202)
 
-- **[Transport Fever 3](https://store.steampowered.com/app/3493540/)**: Linux, Mac, PC; Urban Games; Tycoon; 70/100 from 5,945 ratings  
+- **[Transport Fever 3](https://store.steampowered.com/app/3493540/)**: Linux, Mac, PC; Urban Games; City Builder/Tycoon; 70/100 from 5,945 ratings  
   [Website](http://www.transportfever3.com/)
 - **[DYNASTY WARRIORS 3: Complete Edition Remastered](https://store.steampowered.com/app/3841510/)**: PC; KOEI TECMO GAMES CO., LTD.; 85/100 from 1,888 ratings  
   [Website](https://www.koeitecmoamerica.com/dw3-re/us/)
-- **[SPAM](https://store.steampowered.com/app/2902720/)**: Linux, PC; Ticroco Entreprise; 83/100 from 1,136 ratings
 - **[Toy Shire](https://store.steampowered.com/app/2361460/)**: Linux, Mac, PC; Bluespy Studios; RTS/Tower Defense; 86/100 from 765 ratings  
   [Website](https://linktr.ee/toyshire)
-- **[Order of the Sinking Star](https://store.steampowered.com/app/499170/)**: PC; Thekla, Inc.; 97/100 from 685 ratings  
-  [Website](https://www.orderofthesinkingstar.com/)
+- **[Sengoku Rance](https://store.steampowered.com/app/3867170/)**: PC; Alicesoft; 96/100 from 648 ratings  
+  [Website](https://www.kaguragames.com/)
 - **[Wild West Pioneers](https://store.steampowered.com/app/3222640/)**: PC; EmpireCraft Studios; City Builder; 77/100 from 520 ratings  
   [Website](https://www.toplitz-productions.com/)
-- **[Dicevaders](https://store.steampowered.com/app/3917700/)**: Mac, PC; Pengonauts; Deckbuilder/Roguelite; 96/100 from 508 ratings  
-  [Website](https://pengonauts.com/)
-- **[ForgeTax](https://store.steampowered.com/app/5245810/)**: PC; GraveYardDev; Roguelite; 48/100 from 422 ratings
 - **[Lucid Cats](https://store.steampowered.com/app/4778540/)**: PC; Kolide Studio; 74/100 from 413 ratings
-- **[The Bell Echoes](https://store.steampowered.com/app/2873060/)**: PC; 七颗枚; Roguelite; 93/100 from 316 ratings
-- **[Intravenous 3: Borderline](https://store.steampowered.com/app/4890770/)**: PC; Explosive Squat Games; 96/100 from 285 ratings  
-  [Website](https://explosivesquatgames.com/index.php)
-- **[崇祯直聘：明末官场沉浮模拟器](https://store.steampowered.com/app/4942770/)**: PC; Pyacark; 88/100 from 183 ratings
-- **[Car Park Capital](https://store.steampowered.com/app/3031880/)**: Linux, PC; Hilkojj Interactive; 96/100 from 144 ratings  
+- **[Car Park Capital](https://store.steampowered.com/app/3031880/)**: Linux, PC; Hilkojj Interactive; City Builder; 96/100 from 144 ratings  
   [Website](https://hilkojj.nl/)
-- **[Drop Command](https://store.steampowered.com/app/1944880/)**: PC; PillBugGames; 79/100 from 131 ratings
 - **[The Great Wastes](https://store.steampowered.com/app/3594090/)**: PC; 大荒游戏; 73/100 from 125 ratings
-- **[再刷一把：远征](https://store.steampowered.com/app/5282150/)**: PC; 滑稽工作室; 81/100 from 96 ratings
-- **[Starlathe](https://store.steampowered.com/app/5090060/)**: PC; Astraeon Interactive; 87/100 from 82 ratings
 - **[Wavecrashers](https://store.steampowered.com/app/3664090/)**: PC; Eightfold Interactive; 86/100 from 81 ratings  
   [Website](https://eightfoldinteractive.com/)
 - **[Decklings](https://store.steampowered.com/app/3715790/)**: PC; Dark Lizard Games; Deckbuilder; 92/100 from 62 ratings
-- **[Babel Legacy](https://store.steampowered.com/app/4699770/)**: Linux, PC; Broken Toilet Games; 95/100 from 57 ratings
 - **[Bering Tonnage](https://store.steampowered.com/app/4610080/)**: Linux, PC; Antimuon Studios; Tycoon; 74/100 from 50 ratings
-- **[Drillbound](https://store.steampowered.com/app/4149040/)**: PC; TimeSeeker; 83/100 from 46 ratings
-- **[Pass Tiger Cage](https://store.steampowered.com/app/3771660/)**: PC; 中军MT; Roguelite; 72/100 from 46 ratings
-- **[Dog in the Machine](https://store.steampowered.com/app/4613180/)**: Mac, PC; Studio Chahut; Roguelite; 100/100 from 43 ratings  
-  [Website](https://goblinzstudio.com/game/dog-in-the-machine/)
-- **[MarbleGo](https://store.steampowered.com/app/4958470/)**: PC; FF; 81/100 from 43 ratings
-- **[Petal Crash 2](https://store.steampowered.com/app/2697670/)**: Linux, PC; Friend & Fairy; 100/100 from 37 ratings  
-  [Website](https://www.petalcrash.com)
-- **[Gridlords](https://store.steampowered.com/app/3768400/)**: PC; Sphere Studios; Auto-battler; 85/100 from 33 ratings
+- **[Gridlords](https://store.steampowered.com/app/3768400/)**: PC; Sphere Studios; Auto-battler/PvP; 85/100 from 33 ratings
 - **[Galaxy Critter Co.](https://store.steampowered.com/app/3630680/)**: PC; Rat2 Studio; Roguelite/Tower Defense; 78/100 from 32 ratings
 - **[Girls vs Zombies](https://store.steampowered.com/app/2197690/)**: PC; BBQ; Tower Defense; 69/100 from 32 ratings
-- **[Keine’s Terakoya: A Schoolhouse in Gensokyo](https://store.steampowered.com/app/3679100/)**: PC; The Creator Workgroup; 97/100 from 32 ratings
-- **[Possess Your Senior Sisters and Duel!](https://store.steampowered.com/app/4451790/)**: PC; 斜王真眼; 69/100 from 32 ratings  
-  [Website](https://www.bilibili.com/video/BV1CqZ6BaEja/)
 - **[Counter Clash](https://store.steampowered.com/app/2838160/)**: PC; Bjenssen; RTS; 84/100 from 31 ratings
-- **[Towerfolk](https://store.steampowered.com/app/3948100/)**: PC; 99 Interactive; 75/100 from 28 ratings
-- **[Redhowl](https://store.steampowered.com/app/3873330/)**: PC; BENOM STUDIO; 100/100 from 26 ratings
-- **[Mahou Shoujo Escape](https://store.steampowered.com/app/3230470/)**: PC; cocoan; 96/100 from 25 ratings
-- **[CatPoker](https://store.steampowered.com/app/5005680/)**: PC; HotpotGames; Roguelite; 100/100 from 24 ratings
-- **[Subterfuge](https://store.steampowered.com/app/4831650/)**: Linux, Mac, PC; Secret Plan; 96/100 from 22 ratings  
-  [Website](https://subterfuge-game.com)
+- **[Towerfolk](https://store.steampowered.com/app/3948100/)**: PC; 99 Interactive; City Builder/Cozy & Farming/Tower Defense; 75/100 from 28 ratings
+- **[Redhowl](https://store.steampowered.com/app/3873330/)**: PC; BENOM STUDIO; Co-op/Party/PvP; 100/100 from 26 ratings
+- **[The War Disorder Hexa](https://store.steampowered.com/app/4301910/)**: PC; Ikebukuro DPC; 100/100 from 24 ratings
 - **[Soul Reaper: Endless Harvest](https://store.steampowered.com/app/4451740/)**: Linux, PC; Drac Blau Studio; Survivors-like; 86/100 from 21 ratings  
   [Website](https://dracblau.substack.com/)
-- **[Floating Frontiers](https://store.steampowered.com/app/4034080/)**: Mac, PC;  Crabeater Games; City Builder; 100/100 from 19 ratings
-- **[Tower Tactics II](https://store.steampowered.com/app/3749130/)**: PC; asraworks; Deckbuilder/Roguelite/Tower Defense; 95/100 from 19 ratings
-- ...and 373 more in games.csv
+- **[Steam & Iron. Battle of Port Arthur](https://store.steampowered.com/app/3381300/)**: PC; Goydalka Games; RTS; 94/100 from 17 ratings  
+  [Website](https://www.steamandirongame.com/)
+- **[Loki's Revenge](https://store.steampowered.com/app/2936750/)**: Linux, PC; OWL; Roguelite/Survivors-like; 75/100 from 16 ratings  
+  [Website](https://owlgame.dev/)
+- **[Proximity](https://store.steampowered.com/app/5120160/)**: PC; Adam Robichaux; 100/100 from 14 ratings
+- **[Card Conquest](https://store.steampowered.com/app/3883580/)**: PC; YaxWorks; Deckbuilder/Roguelite/Tower Defense; 69/100 from 13 ratings
+- **[Stella Astrum](https://store.steampowered.com/app/5045010/)**: PC; Death Knight Studios LLC; 100/100 from 13 ratings
+- **[Depth Diver](https://store.steampowered.com/app/2995260/)**: PC; Nerra Tolstoï, FLaV; 91/100 from 11 ratings
+- **[Purr-fect Chef: Kitchen Chaos](https://store.steampowered.com/app/3510590/)**: Mac, PC; Supernova Games; Cozy & Farming; 82/100 from 11 ratings  
+  [Website](https://www.gamesupernova.com/)
+- **[Auto Chess Souls-棋魂之弈](https://store.steampowered.com/app/2123460/)**: PC; JackyGames; Auto-battler/Roguelite; 90/100 from 10 ratings
+- **[Eternal Swordsmith](https://store.steampowered.com/app/5070640/)**: PC; sasoriken-games; 80/100 from 10 ratings  
+  [Website](https://sasoriken-games.com/games/magic-sword-smith/)
+- **[Empires of a Tiny Universe](https://store.steampowered.com/app/3346480/)**: Linux, PC; Cactus Games; 4X/RTS; 67/100 from 9 ratings
+- **[Nova Origin](https://store.steampowered.com/app/4132030/)**: PC; ZapNova Games; 56/100 from 9 ratings  
+  [Website](https://zapnovagames.com/)
+- **[Formica](https://store.steampowered.com/app/2315630/)**: PC; Ungar; RTS; 100/100 from 8 ratings
+- **[Intercept Line](https://store.steampowered.com/app/4899730/)**: PC; Kinato; RTS/Tower Defense; 100/100 from 7 ratings
+- **[MA 3 – President Simulator](https://store.steampowered.com/app/4896760/)**: PC; Oxiwyle Inc.; 4X/City Builder/Cozy & Farming; 100/100 from 7 ratings  
+  [Website](https://oxiwyle.com/)
+- **[Saldyr: Before the Crown Fell](https://store.steampowered.com/app/5253510/)**: PC; Saldyria; Co-op; 100/100 from 6 ratings
+- **[System Clues](https://store.steampowered.com/app/3402660/)**: PC; CipherStudios; 67/100 from 6 ratings
+- **[autocycle-light](https://store.steampowered.com/app/4955820/)**: Mac, PC; redboltz; PvP; 60/100 from 5 ratings
+- **[Archipeo](https://store.steampowered.com/app/3903640/)**: PC; Timothy Baier; 100/100 from 4 ratings
+- **[DESIRO.](https://store.steampowered.com/app/5211040/)**: Linux, PC; Planetary Gears; City Builder; 50/100 from 4 ratings
+- **[Fiducia: Rent The World](https://store.steampowered.com/app/4953150/)**: PC; Anlak; 75/100 from 4 ratings
+- **[Intraday](https://store.steampowered.com/app/5201140/)**: Linux, Mac, PC; Texy; 100/100 from 4 ratings
+- ...and 162 more in games.csv
 
-## RPG (133)
+## RPG (56)
 
-- **[Minecraft Dungeons II](https://store.steampowered.com/app/1912410/)**: PC; Mojang Studios, Double Eleven; 64/100 from 9,459 ratings  
+- **[Minecraft Dungeons II](https://store.steampowered.com/app/1912410/)**: PC; Mojang Studios, Double Eleven; Co-op; 64/100 from 9,459 ratings  
   [Website](https://www.minecraft.net/en-us/about-dungeons-ii)
-- **[Nivalis Nights](https://store.steampowered.com/app/1488490/)**: PC; ION LANDS; 74/100 from 3,842 ratings
-- **[Neon Abyss 2](https://store.steampowered.com/app/2235200/)**: PC; Veewo Games; Roguelite; 71/100 from 2,417 ratings  
-  [Website](http://neonabyss.com)
-- **[Antivirus Survivors 2003 Professional](https://store.steampowered.com/app/3832490/)**: Linux, Mac, PC; Shaun Hammond Business Solutions Limited; Survivors-like; 98/100 from 1,158 ratings  
-  [Website](https://avs03.com)
-- **[Superhero Simulator](https://store.steampowered.com/app/3531260/)**: PC; mightyraccoon! Studios; Open World; 74/100 from 996 ratings  
-  [Website](https://mraccoonstudios.com)
+- **[Nivalis Nights](https://store.steampowered.com/app/1488490/)**: PC; ION LANDS; Cozy & Farming/Open World; 74/100 from 3,842 ratings
 - **[Love Nest ~V0.098~](https://store.steampowered.com/app/5184600/)**: PC; 池池; 98/100 from 727 ratings
-- **[Sengoku Rance](https://store.steampowered.com/app/3867170/)**: PC; Alicesoft; 96/100 from 648 ratings  
-  [Website](https://www.kaguragames.com/)
 - **[Stranded with You](https://store.steampowered.com/app/4260270/)**: PC; Kumada Gaon; 92/100 from 468 ratings  
   [Website](https://saikeystudios.com)
-- **[RetroSpace](https://store.steampowered.com/app/2067820/)**: PC; The Wild Gentlemen; 90/100 from 381 ratings  
-  [Website](https://discopunk.space/)
-- **[Songs of Glimmerwick](https://store.steampowered.com/app/1706510/)**: PC; Eastshade Studios; 91/100 from 291 ratings  
+- **[Songs of Glimmerwick](https://store.steampowered.com/app/1706510/)**: PC; Eastshade Studios; Cozy & Farming/Open World; 91/100 from 291 ratings  
   [Website](https://eastshade.com/songs-of-glimmerwick/)
-- **[Silver Pines](https://store.steampowered.com/app/2333000/)**: PC; Wych Elm; Metroidvania; 92/100 from 264 ratings  
-  [Website](https://www.silverpinesgame.com/)
-- **[Permafrost](https://store.steampowered.com/app/2254990/)**: PC; SpaceRocket Games; Open World; 72/100 from 165 ratings
-- **[Tunnel Escape Fates Entwined](https://store.steampowered.com/app/4285110/)**: PC; Elzee; Roguelite; 81/100 from 121 ratings  
-  [Website](https://saikeystudios.com)
 - **[Island of Rebirth~NTR and Love~](https://store.steampowered.com/app/3725800/)**: PC; AVANTGARDE; 97/100 from 102 ratings  
   [Website](https://072project.com/?source=steam_islandrebirth&amp;utm_source=steam&amp;utm_medium=islandrebirth&amp;utm_campaign=store_link)
 - **[Scratch Tickets With Your Friends 🎰](https://store.steampowered.com/app/5148990/)**: Linux, Mac, PC; Yet Another Publisher; 52/100 from 98 ratings
@@ -662,276 +893,293 @@
 - **[Neko Diary🐾 猫愿日记](https://store.steampowered.com/app/3865000/)**: PC; 呐呐呐制作组; 92/100 from 88 ratings  
   [Website](https://nanana.games/)
 - **[Dreamspring](https://store.steampowered.com/app/3231480/)**: Linux, PC; Billyfighter; Open World/Soulslike; 83/100 from 78 ratings
-- **[Radiotext](https://store.steampowered.com/app/3418160/)**: Linux, Mac, PC; Alp Arslan; 97/100 from 71 ratings  
-  [Website](https://www.alparslangamedev.com/)
 - **[Sector 13: Haunted Woods](https://store.steampowered.com/app/4244040/)**: PC; Game Inside Studio; Open World; 61/100 from 69 ratings
 - **[Demon General Kirsten](https://store.steampowered.com/app/4112840/)**: PC; シコルスキー大佐; 85/100 from 65 ratings  
   [Website](https://072project.com/?source=steam_senkikris&amp;utm_source=steam&amp;utm_medium=senkikris&amp;utm_campaign=store_link)
-- **[Fengshen: Immortal Reborn](https://store.steampowered.com/app/4976640/)**: PC; ruirui; 84/100 from 63 ratings
-- **[Camp Whittlewood](https://store.steampowered.com/app/4813190/)**: PC; NickSchemes; 98/100 from 62 ratings
-- **[夏梦](https://store.steampowered.com/app/5204330/)**: PC; 爱吃耙耙柑; 49/100 from 55 ratings
+- **[Fengshen: Immortal Reborn](https://store.steampowered.com/app/4976640/)**: PC; ruirui; Co-op/PvP; 84/100 from 63 ratings
 - **[Scorched Sun](https://store.steampowered.com/app/4086480/)**: PC; Skeleton Coffee Games; 92/100 from 53 ratings
 - **[Olympus 2249](https://store.steampowered.com/app/5094490/)**: PC; Dieselship Studio; 73/100 from 52 ratings
-- **[Washington in Blood](https://store.steampowered.com/app/5136270/)**: PC; 温州金酷科技有限公司; 95/100 from 38 ratings
-- **[Mycopsychosys: Project Jupiter](https://store.steampowered.com/app/3785860/)**: PC; DeltaCat Studio; 97/100 from 35 ratings  
-  [Website](https://www.deltacatstudio.com/)
 - **[Tears of Vanfell](https://store.steampowered.com/app/3184640/)**: Linux, PC; Lazy Cat Games; 100/100 from 34 ratings  
   [Website](https://lazycatgames.net/)
 - **[The Handler of Dragons](https://store.steampowered.com/app/1172730/)**: PC; Hi-Quality Jerzy Calinski; 74/100 from 34 ratings  
   [Website](https://www.facebook.com/The-Handler-Of-Dragons-2218874974876814)
-- **[Tied to the Beat](https://store.steampowered.com/app/4316340/)**: Linux, Mac, PC; Javier Lianes García; 100/100 from 29 ratings  
-  [Website](https://www.lianes8studio.com/tied)
-- **[SpyCat: Codename Wu](https://store.steampowered.com/app/4762810/)**: PC; Yuchu Games; 32/100 from 25 ratings
-- **[Compound Interest](https://store.steampowered.com/app/4343910/)**: Mac, PC; Pond Scum; 83/100 from 24 ratings  
-  [Website](https://compoundinterest.evrim.zone)
+- **[Do Disciplinary Committee Members Dream of Succubi?](https://store.steampowered.com/app/4233960/)**: PC; Milky Way; 97/100 from 29 ratings  
+  [Website](https://www.kaguragames.com/)
 - **[The Traitors: Interactive Game](https://apps.apple.com/gb/app/the-traitors-interactive-game/id6751324795?uo=4)**: iOS; Fusebox Games; 99/100 from 23 ratings; charting x2  
   [Website](https://www.fuseboxgames.com/games/)
-- **[Devil Peach Soda](https://store.steampowered.com/app/2116210/)**: PC; L.T. Whiting; Roguelite; 86/100 from 22 ratings
-- **[Chalk Paper Scissors](https://store.steampowered.com/app/4956970/)**: Mac, PC; Chalk Paper Scissors; 100/100 from 19 ratings
 - **[Wildaria](https://store.steampowered.com/app/1965550/)**: Mac, PC; SpaceFudge; Open World; 100/100 from 18 ratings  
   [Website](https://wildaria.net/)
 - **[SS13 BAR SIM](https://store.steampowered.com/app/4459540/)**: PC; el3_elo; 81/100 from 16 ratings
 - **[Crawler 3D](https://store.steampowered.com/app/5039680/)**: PC; Wasdeq Games; 86/100 from 14 ratings  
   [Website](https://www.crawler3d.com)
-- ...and 93 more in games.csv
+- **[Tower of Pestilence](https://store.steampowered.com/app/3400590/)**: PC; LegulysseDev; 100/100 from 12 ratings
+- **[Tales of the Tang Recluse](https://store.steampowered.com/app/5189440/)**: PC; XiShan Games; 75/100 from 8 ratings
+- **[Tethered To You](https://store.steampowered.com/app/4476630/)**: PC; Stella Noctis Games; 100/100 from 8 ratings  
+  [Website](http://stellanoctisgames.com/)
+- **[Entitled](https://store.steampowered.com/app/1916200/)**: PC; Shouting Match Games; Cozy & Farming; 71/100 from 7 ratings
+- **[Origin Hunt](https://store.steampowered.com/app/5113400/)**: PC; Cythera; 100/100 from 6 ratings
+- **[SVETIK](https://store.steampowered.com/app/4366830/)**: PC; AEVI Studio; 100/100 from 5 ratings
+- **[Dungeon Forge](https://store.steampowered.com/app/5080420/)**: PC; Rogue Against World; 75/100 from 4 ratings
+- **[Horde Slayer](https://store.steampowered.com/app/3778250/)**: PC; Teodore; 100/100 from 4 ratings
+- **[The Depths of Despair](https://store.steampowered.com/app/2976770/)**: PC; herbeni; Soulslike; 100/100 from 4 ratings
+- **[Broken Spirit](https://store.steampowered.com/app/4067220/)**: PC; LiuYingjian; 100/100 from 2 ratings
+- **[Deep Trouble: A Fishing RPG](https://store.steampowered.com/app/5133820/)**: Mac, PC; Million Masks; 100/100 from 2 ratings
+- **[Sealed Fortress](https://store.steampowered.com/app/5210640/)**: PC; MinaSheep; 100/100 from 2 ratings
+- **[Ancestral Orb](https://store.steampowered.com/app/4928620/)**: PC; Daniel Saiz Sánchez; 100/100 from 1 ratings
+- **[Kibo to Yume](https://store.steampowered.com/app/5162870/)**: Mac, PC; Shabernack Studios; 100/100 from 1 ratings
+- **[Marrow of Y](https://store.steampowered.com/app/4966200/)**: PC; YAO; 100/100 from 1 ratings
+- **[MOCHIKA AND THE SEVEN PASTRY SINS](https://store.steampowered.com/app/4986250/)**: PC; 灰エト; 100/100 from 1 ratings  
+  [Website](https://haieto.com/mochika/)
+- **[Chronicles of Gionia](https://apps.apple.com/gb/app/chronicles-of-gionia/id6819254568?uo=4)**: iOS; Seungwon Seo; charting x20
+- ...and 16 more in games.csv
 
-## Simulation (275)
+## Simulation (170)
 
-- **[Way of the Hunter 2](https://store.steampowered.com/app/2543830/)**: PC; Nine Rocks Games; 73/100 from 1,903 ratings  
-  [Website](https://wayofthehunter2.thqnordic.com)
-- **[Princess Maker: Children of Revelation](https://store.steampowered.com/app/3438810/)**: Linux, Mac, PC; GEAR2; 79/100 from 1,314 ratings
+- **[Princess Maker: Children of Revelation](https://store.steampowered.com/app/3438810/)**: Linux, Mac, PC; GEAR2; Cozy & Farming; 79/100 from 1,314 ratings
 - **[DinoBones: Tidy Up the Museum](https://store.steampowered.com/app/5064340/)**: Linux, Mac, PC; Indie Souls Studio; 95/100 from 1,141 ratings
 - **[I Know a Guy: Shady Life Simulator](https://store.steampowered.com/app/4173620/)**: PC;  Bunch'o'Nerds; Cozy & Farming/Tycoon; 90/100 from 623 ratings  
   [Website](https://www.bunchofnerds.studio/)
-- **[Gamer Stop Simulator](https://store.steampowered.com/app/3499220/)**: PC; Red Axe Games; 70/100 from 337 ratings  
-  [Website](https://redaxegames.com/)
-- **[ShipCrafter](https://store.steampowered.com/app/3854870/)**: Linux, PC; Myrmecoman; 90/100 from 335 ratings
 - **[Winter Burrow](https://apps.apple.com/us/app/winter-burrow/id6757809616?uo=4)**: iOS; Noodlecake; 91/100 from 319 ratings; charting x2  
   [Website](https://noodlecake.com/games/winter-burrow/)
-- **[RADIOSOL](https://store.steampowered.com/app/2934330/)**: Linux, PC; TripletConcept, Yodez, Hius, WhereaboutsUnknown; 76/100 from 288 ratings  
+- **[RADIOSOL](https://store.steampowered.com/app/2934330/)**: Linux, PC; TripletConcept, Yodez, Hius, WhereaboutsUnknown; Open World; 76/100 from 288 ratings  
   [Website](https://twitter.com/TripletConcept_)
-- **[MOGGED: Looksmaxx or Die](https://store.steampowered.com/app/4917440/)**: PC; Sigma Labs; 64/100 from 252 ratings  
-  [Website](https://playmogged.com)
 - **[Museologist: Tidy Up the Museum!](https://store.steampowered.com/app/4964580/)**: PC; Tobo Games; 90/100 from 248 ratings  
   [Website](https://tobogames.com/)
-- **[Frutiger Home](https://store.steampowered.com/app/3935530/)**: PC; frutigerdev; 96/100 from 243 ratings
-- **[Crack the Pack](https://store.steampowered.com/app/4614210/)**: PC; Doigt; 93/100 from 234 ratings
-- **[Invokyr](https://store.steampowered.com/app/3883570/)**: PC; Ludogram; 96/100 from 197 ratings  
-  [Website](https://ludogram.io/)
-- **[Needle In A Haystack](https://store.steampowered.com/app/5085740/)**: PC; NoGlyph; 72/100 from 143 ratings
-- **[Tidy Up the Flower Shop](https://store.steampowered.com/app/5221510/)**: PC; Over The Moon; 96/100 from 136 ratings
+- **[Frutiger Home](https://store.steampowered.com/app/3935530/)**: PC; frutigerdev; Co-op/Cozy & Farming; 96/100 from 243 ratings
 - **[Cozy Farm: Tidy Up!](https://store.steampowered.com/app/5220090/)**: Linux, Mac, PC; Kristoff Red; Cozy & Farming; 98/100 from 96 ratings  
   [Website](https://drive.google.com/drive/folders/1NQLEq6J-1YTkg7_SLPs0Ion3azG8DD0E?usp=sharing)
-- **[Let's Tidy Up! : Treasure](https://store.steampowered.com/app/5023770/)**: PC; Tidy Up Team, Lowkey GameDev; 76/100 from 95 ratings
-- **[Train Station Tycoon](https://store.steampowered.com/app/1565490/)**: Linux, Mac, PC; Abyssal Interactive; Tycoon; 90/100 from 80 ratings  
+- **[Train Station Tycoon](https://store.steampowered.com/app/1565490/)**: Linux, Mac, PC; Abyssal Interactive; Co-op/Cozy & Farming/Tycoon; 90/100 from 80 ratings  
   [Website](https://trainstationtycoon.com/)
-- **[XenoHaven](https://store.steampowered.com/app/3461270/)**: PC; Miniverse Game; 79/100 from 80 ratings
-- **[Maid Cafe Simulator](https://store.steampowered.com/app/3232690/)**: Mac, PC; Accelix, SCON; Tycoon; 88/100 from 68 ratings  
-  [Website](https://accelixgames.com/)
-- **[Tiny Flock](https://store.steampowered.com/app/3133010/)**: PC; No Brakes Games; Physics; 100/100 from 63 ratings  
-  [Website](https://nobrakesgames.com/games/tiny-flock)
 - **[MAke Drama : MAD](https://apps.apple.com/us/app/make-drama-mad/id6757506278?uo=4)**: iOS; Wemade Connect Co., Ltd.; 94/100 from 56 ratings; charting x1  
   [Website](https://mad.wemadeconnect.com/)
-- **[Japanese Ramen Simulator](https://store.steampowered.com/app/4968640/)**: PC; Wild Dog; Tycoon; 93/100 from 56 ratings  
-  [Website](https://wilddog.jp/japaneseramensimulator)
 - **[Black Cat Book Club](https://store.steampowered.com/app/3972410/)**: PC; Idea Garden Games; 100/100 from 55 ratings  
   [Website](https://ideagardengames.com/)
 - **[CoasterWorks](https://store.steampowered.com/app/5043180/)**: PC; CoasterWorks; 66/100 from 55 ratings  
   [Website](https://coaster.works)
-- **[Bug Cleaners](https://store.steampowered.com/app/3557530/)**: PC; dicehit; 78/100 from 50 ratings  
+- **[Bug Cleaners](https://store.steampowered.com/app/3557530/)**: PC; dicehit; Co-op/Cozy & Farming; 78/100 from 50 ratings  
   [Website](https://dicehit.com/)
 - **[Sandwich +1](https://store.steampowered.com/app/4511900/)**: Mac, PC; Apelsinka Games, Mr. Potato; 96/100 from 47 ratings
 - **[Tomboy Adventure 2](https://store.steampowered.com/app/2896630/)**: Linux, PC; gcBronze; 96/100 from 45 ratings
-- **[Sort The Capybaras](https://store.steampowered.com/app/5130480/)**: PC; CapybaraKoala; 100/100 from 37 ratings
 - **[Power Network Tycoon](https://store.steampowered.com/app/2429930/)**: Linux, Mac, PC; David Made This; City Builder/Physics/Tycoon; 97/100 from 35 ratings  
   [Website](https://powernetworktycoon.com/)
-- **[TWIN Hotel, Spa and More](https://store.steampowered.com/app/4867650/)**: PC; Scratch Byte Studios; 57/100 from 35 ratings  
-  [Website](https://neuroticfly.com/)
-- **[Better Chaos](https://store.steampowered.com/app/5138000/)**: PC; Exanticx Studio; 76/100 from 34 ratings  
-  [Website](https://exanticxstudio.com/)
-- **[VHS Chaos: Tidy Up!](https://store.steampowered.com/app/5142170/)**: PC; RewindApp; 91/100 from 32 ratings
-- **[Greenhouse: Tidy Up!](https://store.steampowered.com/app/5146200/)**: PC; Pixel Puffs; 68/100 from 31 ratings
-- **[Snack Factory Together - Prologue](https://store.steampowered.com/app/4895330/)**: PC; HAN Games; 82/100 from 28 ratings  
+- **[Foxy's Potion Shop](https://store.steampowered.com/app/5101390/)**: PC; The Foxy Guiz, CCS; Cozy & Farming; 94/100 from 32 ratings  
+  [Website](https://coldcoffeestudio.com/)
+- **[Snack Factory Together - Prologue](https://store.steampowered.com/app/4895330/)**: PC; HAN Games; Co-op; 82/100 from 28 ratings  
   [Website](https://hangames.net/)
-- **[Sister Compass: Slow Life Loving with My Sisters on a Deserted Island](https://store.steampowered.com/app/4583960/)**: PC; Twinkle STARs; Tycoon; 100/100 from 27 ratings
-- **[Monster Museum: Tidy Up the collection!](https://store.steampowered.com/app/4998990/)**: Mac, PC; Klafti Studio; 92/100 from 26 ratings
-- **[The Calamity Trials](https://store.steampowered.com/app/3877630/)**: PC; Deme Nowa; 64/100 from 25 ratings
-- **[Late Order](https://store.steampowered.com/app/4147170/)**: PC; Judas Brothers, Rassl.me; 65/100 from 23 ratings
+- **[Sister Compass: Slow Life Loving with My Sisters on a Deserted Island](https://store.steampowered.com/app/4583960/)**: PC; Twinkle STARs; Cozy & Farming/Tycoon; 100/100 from 27 ratings
 - **[Sauna Simulator](https://store.steampowered.com/app/2978940/)**: PC; S1NGLE; 74/100 from 23 ratings
-- ...and 235 more in games.csv
+- **[A Needle In A Haystack: Sorting Game](https://store.steampowered.com/app/5223690/)**: PC; Thinflow Games; 25/100 from 20 ratings
+- **[Happy Pet Island](https://store.steampowered.com/app/4273090/)**: PC; Cats & Bites Studio; 45/100 from 20 ratings  
+  [Website](https://petsocietyislandcloud.com/)
+- **[Knode: Untangle & Connect](https://store.steampowered.com/app/4959570/)**: PC; BusFactorOne; 75/100 from 20 ratings
+- **[Cyber Cleaner Simulator](https://store.steampowered.com/app/3807650/)**: PC; Nowsky; Cozy & Farming; 12/100 from 17 ratings
+- **[Smoke Keeper](https://store.steampowered.com/app/5115860/)**: PC; KEEPLR; 53/100 from 15 ratings  
+  [Website](https://headarrow.com)
+- **[Factory Default: Build, Trade, Repeat](https://store.steampowered.com/app/3901610/)**: PC; Chett Fitzgerald; 86/100 from 14 ratings
+- **[King of Pickaxe](https://store.steampowered.com/app/4264240/)**: PC; KingCraft; Roguelite; 82/100 from 11 ratings
+- **[Cozy Farm](https://store.steampowered.com/app/4282830/)**: PC; Simple Mood Studio; Cozy & Farming; 75/100 from 8 ratings
+- **[Digging A Hole In Ice With A Chainsaw](https://store.steampowered.com/app/3958210/)**: Linux, Mac, PC; Four Games; 71/100 from 7 ratings
+- **[Raw Egg Peeling](https://store.steampowered.com/app/5228300/)**: PC; StationOfThoughts; 100/100 from 7 ratings
+- **[Sculpturillo](https://store.steampowered.com/app/5114580/)**: PC; Svoltanic; Cozy & Farming/Party; 100/100 from 7 ratings
+- **[Cozy Jigsaw](https://store.steampowered.com/app/5227040/)**: PC; LiliVale; Cozy & Farming; 100/100 from 6 ratings
+- **[Super Brik Brik](https://store.steampowered.com/app/5142580/)**: Linux, Mac, PC; Infiland; Cozy & Farming; 50/100 from 6 ratings  
+  [Website](https://sbb.infi.land)
+- **[Fireworks Show Simulator](https://store.steampowered.com/app/4668450/)**: Mac, PC; Simplay Studio; 100/100 from 5 ratings  
+  [Website](https://fireworksshowsimulator.com)
+- **[Chromascape](https://store.steampowered.com/app/4214800/)**: PC; Zoo Corporation; Cozy & Farming; 100/100 from 4 ratings  
+  [Website](https://game.zoo.jp/)
+- **[Hot Meals Fast Wheels - Prologue](https://store.steampowered.com/app/5167810/)**: PC; Misket Games; Co-op; 50/100 from 4 ratings  
+  [Website](https://misketgames.com/)
+- **[CookSpiracy](https://store.steampowered.com/app/5187000/)**: PC; Beson Games; 100/100 from 3 ratings
+- **[CRAFTLANDER](https://store.steampowered.com/app/5051720/)**: Linux, Mac, PC; SQUABIX; Open World; 100/100 from 3 ratings
+- **[Fister](https://store.steampowered.com/app/4682330/)**: Linux, Mac, PC; Bootloop Studio; Physics/PvP; 100/100 from 3 ratings  
+  [Website](https://fister.fun/)
+- **[Break Even:The Grind](https://store.steampowered.com/app/5243110/)**: Linux, Mac, PC; Testudo Forge LLC; 100/100 from 2 ratings  
+  [Website](https://testudoforge.com/)
+- ...and 130 more in games.csv
 
-## Adventure (267)
+## Adventure (120)
 
-- **[Gears of War: E-Day](https://store.steampowered.com/app/3010850/)**: PC; The Coalition; 75/100 from 6,636 ratings
-- **[TOEM 2](https://store.steampowered.com/app/2900640/)**: Linux, Mac, PC; Something We Made; 92/100 from 652 ratings  
-  [Website](https://www.somethingwemade.se/toem2)
 - **[Backrooms: Code Yellow](https://store.steampowered.com/app/4694270/)**: PC;  GameMechanic; 48/100 from 485 ratings
 - **[Dead Ahead: Roadside](https://apps.apple.com/us/app/dead-ahead-roadside/id6741141103?uo=4)**: iOS; ABE Entertainment Limited; 97/100 from 230 ratings; charting x1  
   [Website](https://mobirate.com)
-- **[VESSELS: Noiret Mansion](https://store.steampowered.com/app/4884960/)**: PC; Rosenshine Games; 95/100 from 99 ratings
-- **[Cohen 1939](https://store.steampowered.com/app/3582120/)**: PC; Cube of Cube; 80/100 from 97 ratings
 - **[Fallosophy](https://store.steampowered.com/app/3989550/)**: PC; Reliable Plumbing Services; 87/100 from 95 ratings  
   [Website](https://reliableplumbing.services)
-- **[HR: Human Remains](https://store.steampowered.com/app/3541630/)**: PC; dennisCorner; 100/100 from 92 ratings
-- **[Okko The Exiled](https://store.steampowered.com/app/3479420/)**: Mac, PC; Frozen Flame Interactive; 94/100 from 81 ratings  
-  [Website](https://www.eastasiasoft.com/)
-- **[SMS Returns](https://store.steampowered.com/app/4670920/)**: PC; Marc Steene; 86/100 from 73 ratings
-- **[Carry The Count](https://store.steampowered.com/app/4311440/)**: PC; Little Bird Studios; 97/100 from 69 ratings  
-  [Website](https://www.cathedral-studios.com/)
 - **[Lexicon Odyssey ~~A Japanese-Learning RPG~~](https://store.steampowered.com/app/5230220/)**: Mac, PC; KonaGames; 91/100 from 66 ratings
 - **[Trap Yuri Tempest](https://store.steampowered.com/app/4466710/)**: PC; No Strike; 96/100 from 52 ratings  
   [Website](https://erogejapan.com/)
-- **[The Merlies](https://store.steampowered.com/app/2521160/)**: Mac, PC; Darjeeling, Blue Ramen, ARTE France; 92/100 from 50 ratings
 - **[Forever Ago](https://store.steampowered.com/app/1215940/)**: PC; Third Shift; 90/100 from 48 ratings  
   [Website](https://forever-ago.com/)
-- **[OZARK](https://store.steampowered.com/app/1130380/)**: PC; ALTER-BOY; 77/100 from 48 ratings  
-  [Website](https://www.alterboy.ca)
-- **[Super Chillers: The Chat Room](https://store.steampowered.com/app/3129150/)**: PC; Rose Arcana Games; 71/100 from 45 ratings
-- **[Unpossess 2: Exorcism Simulator](https://store.steampowered.com/app/4373870/)**: PC; Chreseeba Games; 67/100 from 45 ratings
-- **[The Wheelchair Man 2](https://store.steampowered.com/app/4918300/)**: PC; Deformed Studios; 98/100 from 40 ratings
+- **[Unpossess 2: Exorcism Simulator](https://store.steampowered.com/app/4373870/)**: PC; Chreseeba Games; Co-op; 67/100 from 45 ratings
 - **[Recurrence](https://store.steampowered.com/app/3354130/)**: Linux, PC; Equinox Interactive; 81/100 from 36 ratings
 - **[Sockpuppet Noir](https://store.steampowered.com/app/1552060/)**: PC; LizardFactory, Very Tall Garden Gnomes; 90/100 from 30 ratings  
   [Website](https://socknoir.com)
-- **[Do Disciplinary Committee Members Dream of Succubi?](https://store.steampowered.com/app/4233960/)**: PC; Milky Way; 97/100 from 29 ratings  
-  [Website](https://www.kaguragames.com/)
-- **[Unshine Arcade](https://store.steampowered.com/app/3694100/)**: PC; mardt; Roguelite; 93/100 from 29 ratings  
-  [Website](https://www.unshinearcade.com)
-- **[Stickility](https://store.steampowered.com/app/3419140/)**: PC; Reglan; 93/100 from 28 ratings
-- **[Echo Weaver](https://store.steampowered.com/app/2184080/)**: Mac, PC; Moonlight Kids; Metroidvania; 96/100 from 26 ratings  
-  [Website](https://www.moonlightkids.co/)
-- **[The Crimson Hunt](https://store.steampowered.com/app/4485020/)**: PC; Farelas; 81/100 from 26 ratings
-- **[The War Disorder Hexa](https://store.steampowered.com/app/4301910/)**: PC; Ikebukuro DPC; 100/100 from 24 ratings
-- **[Cats in Wonderland](https://store.steampowered.com/app/3023020/)**: PC; Gray Boss; 96/100 from 22 ratings
-- **[Cicada Communication](https://store.steampowered.com/app/3500590/)**: PC; MF Future; 96/100 from 22 ratings  
-  [Website](https://shiravune.com/)
-- **[PSI: Pressure Climbing](https://store.steampowered.com/app/2386200/)**: PC; Lorenzo Ametrano; 96/100 from 22 ratings
+- **[The Blessed Fool](https://store.steampowered.com/app/3396560/)**: Linux, Mac, PC; Nikita Antipov; 78/100 from 23 ratings
 - **[Escape from 8-Bit High](https://store.steampowered.com/app/2761220/)**: Linux, Mac, PC; Duck Made Of Wood; 100/100 from 21 ratings
-- **[Escape: Immersion](https://store.steampowered.com/app/4033680/)**: Linux, Mac, PC; AzDimension, Royal Games; 100/100 from 20 ratings
 - **[GHOSTED](https://store.steampowered.com/app/4247840/)**: PC; GeRoN; 72/100 from 18 ratings
-- **[Blades & Battles](https://store.steampowered.com/app/3284260/)**: Linux, PC; QUByte Interactive; 94/100 from 17 ratings  
+- **[Blades & Battles](https://store.steampowered.com/app/3284260/)**: Linux, PC; QUByte Interactive; Co-op; 94/100 from 17 ratings  
   [Website](https://www.qubytegames.store/allgames/blades-%26-battles)
-- **[Ardena](https://store.steampowered.com/app/3441000/)**: PC; RRSTUDIO; 100/100 from 16 ratings
 - **[Assassin Of Werewolf](https://store.steampowered.com/app/5236010/)**: PC; Saylor Games; 75/100 from 16 ratings
 - **[Wrenny Lee: Witch-for-Hire!](https://store.steampowered.com/app/4776970/)**: Linux, Mac, PC; Indoor Animal; 100/100 from 15 ratings
-- **[Cyan Heart](https://store.steampowered.com/app/3744190/)**: PC; Shoei Sio; 93/100 from 14 ratings
-- **[Opi Popi](https://store.steampowered.com/app/5026630/)**: PC; ぐらたんP; 100/100 from 14 ratings  
-  [Website](https://sns.freegame-contest.com/photo/%e3%82%aa%e3%83%94%e3%83%9d%e3%83%94/)
 - **[Traffic Stop Anomaly](https://store.steampowered.com/app/4408710/)**: PC; Universe 25; 57/100 from 14 ratings
-- ...and 227 more in games.csv
+- **[『スクジサマ』を巡る考察](https://store.steampowered.com/app/4803270/)**: PC; rentaka; 93/100 from 14 ratings
+- **[Boxcutter](https://store.steampowered.com/app/4020370/)**: Mac, PC; Platou Mix; Open World; 83/100 from 12 ratings
+- **[Project Sakura](https://store.steampowered.com/app/4303650/)**: PC; RTRGAMES; 54/100 from 11 ratings  
+  [Website](https://www.rtrgames.com)
+- **[Crime Podcast: 1976](https://store.steampowered.com/app/5194140/)**: PC; Midnight Archive; 50/100 from 10 ratings
+- **[Truckful](https://store.steampowered.com/app/3090810/)**: Linux, Mac, PC; MythicOwl; 62/100 from 8 ratings  
+  [Website](https://www.mythicowl.com/truckful)
+- **[Observation Protocol](https://store.steampowered.com/app/4728140/)**: PC; Pulsar One; 100/100 from 7 ratings
+- **[Baby Lemonade](https://store.steampowered.com/app/4294950/)**: PC; Sad Mask Party; Open World; 100/100 from 6 ratings
+- **[The Boogeyman](https://store.steampowered.com/app/5218490/)**: PC; Pierucci Studios; Open World; 60/100 from 5 ratings
+- **[I Love Dog](https://store.steampowered.com/app/5093980/)**: PC; Moon Mode; 100/100 from 4 ratings
+- **[My Little Hell](https://store.steampowered.com/app/4546960/)**: PC; Marrit; 75/100 from 4 ratings
+- **[Môrgan](https://store.steampowered.com/app/4977550/)**: PC; Mads Rees; 100/100 from 4 ratings
+- **[Prediction Error](https://store.steampowered.com/app/5227780/)**: PC; Reuptake Studios; 100/100 from 4 ratings
+- **[CHUD LIFE](https://store.steampowered.com/app/5068010/)**: Linux, Mac, PC; Obaid Rumani; 100/100 from 3 ratings
+- **[Behind the Beyond](https://store.steampowered.com/app/1148310/)**: Linux, Mac, PC; Sugarpunch Games; 100/100 from 2 ratings  
+  [Website](http://behindthebeyond.com/)
+- **[Despair](https://store.steampowered.com/app/4456120/)**: PC; Objectif 3D; 100/100 from 2 ratings  
+  [Website](https://www.objectif3d.com/)
+- **[Las 5 Celdas](https://store.steampowered.com/app/4345390/)**: PC; Kurtys; 50/100 from 2 ratings
+- **[Oh Ship!](https://store.steampowered.com/app/4410890/)**: PC; Vendor Trash Games; 100/100 from 2 ratings
+- **[Backrooms: Research](https://store.steampowered.com/app/4160060/)**: PC; PixelPath; Co-op/Open World; 1 ratings
+- **[BEYOND XII](https://store.steampowered.com/app/5182380/)**: PC; BEN'S GAMES; 100/100 from 1 ratings
+- **[Department of Collections](https://store.steampowered.com/app/2962340/)**: PC; Cracked Terminal Studio LLC; 100/100 from 1 ratings
+- **[MugiPunch](https://store.steampowered.com/app/4617970/)**: Linux, PC; Beatmil; 100/100 from 1 ratings
+- **[Ratcore: The Rat-Former](https://store.steampowered.com/app/5027080/)**: PC; SuperChonkyCat; 100/100 from 1 ratings
+- **[Red Horizon](https://store.steampowered.com/app/4988900/)**: PC; Outlier Works ; 100/100 from 1 ratings
+- **[Soul Maze](https://store.steampowered.com/app/3964030/)**: PC; KaliMoon Studio; Co-op/Party; 100/100 from 1 ratings
+- ...and 80 more in games.csv
 
-## Arcade (1)
+## Arcade (24)
 
+- **[Wizzo PopOut](https://store.steampowered.com/app/3670670/)**: Linux, Mac, PC; Die Wizzos; Party/PvP; 100/100 from 31 ratings
+- **[Jousting Around](https://store.steampowered.com/app/4983950/)**: Linux, Mac, PC; Dead Tag Studios; Party; 100/100 from 7 ratings  
+  [Website](https://deadtag.studio/)
+- **[Categories](https://store.steampowered.com/app/4365640/)**: PC; Jonas Hörner; Party/PvP; 2 ratings
+- **[OverBlocked](https://store.steampowered.com/app/5144390/)**: PC; JAMworld; 100/100 from 2 ratings  
+  [Website](https://overblocked.jamworld.se)
+- **[Bomb Star Bounce](https://store.steampowered.com/app/5239510/)**: PC; Yareyare; 100/100 from 1 ratings
+- **[Flappy Wings Multiplayer](https://store.steampowered.com/app/5269790/)**: PC; Rokito Games; PvP/Runner; 100/100 from 1 ratings
+- **[Mùa Hình (Trading-cards Season)](https://store.steampowered.com/app/4932510/)**: PC; BicoFGS; Co-op/Party/PvP; 100/100 from 1 ratings
+- **[Swing Shift](https://store.steampowered.com/app/5170210/)**: PC; Spatter Studios; 100/100 from 1 ratings
 - **[Panda Panda Runner](https://apps.apple.com/gb/app/panda-panda-runner/id6814941338?uo=4)**: iOS; A6 Enterprises LLC; Hyper-casual/Runner; charting x12  
   [Website](https://pandapanda.a6ents.com/)
+- **[Cannonwake Clash](https://store.steampowered.com/app/5273650/)**: PC; Cannonwake Clash Studio
+- **[Corridors](https://store.steampowered.com/app/5271960/)**: PC; PXLGames
+- **[Graveyard Shift](https://store.steampowered.com/app/5159920/)**: PC; Goat Chef Studios
+- **[Hair Bug](https://store.steampowered.com/app/5274400/)**: PC; geun games; Physics
+- **[Hamsuri : Bomb Festival](https://store.steampowered.com/app/5231280/)**: Linux, Mac, PC; Isotis; Party/PvP
+- **[HYALOSFALL](https://store.steampowered.com/app/5299030/)**: PC; NORBILANDIA  
+  [Website](https://www.games.norbilandia.com/hyalosfall/)
+- **[No Fly Zone](https://store.steampowered.com/app/5199610/)**: PC; Softlookup
+- **[Ping Ball!](https://store.steampowered.com/app/5218430/)**: PC; PLLVGS; PvP
+- **[Proto Zero](https://store.steampowered.com/app/4448650/)**: PC; ExtraWildGames
+- **[Ragnar Goes Fishing](https://store.steampowered.com/app/5207630/)**: PC; NiTToN, Malte, Barrjol
+- **[Space Breakout Odyssey](https://store.steampowered.com/app/5282800/)**: Linux, PC; Epic Dragon Games
+- **[Space Pads](https://store.steampowered.com/app/4975240/)**: Linux, Mac, PC; Walygons
+- **[Starfish ROOM: WELCOME TO LOOP ETERNAL](https://store.steampowered.com/app/4520420/)**: Linux, PC; SketBR
+- **[Stolemates](https://store.steampowered.com/app/4761400/)**: PC; Stolemates Team, DomerDev; Party/PvP
+- **[Words of Power: Logos](https://store.steampowered.com/app/5166730/)**: PC; John Tzanellis; PvP
 
-## Action (249)
+## Action (103)
 
-- **[ACE COMBAT 8: WINGS OF THEVE](https://store.steampowered.com/app/2288340/)**: PC; Bandai Namco Aces Inc.; 81/100 from 16,793 ratings  
-  [Website](http://acecombat.com/)
-- **[TUNG](https://store.steampowered.com/app/4341400/)**: PC; Niche Games; 88/100 from 2,738 ratings
-- **[Clive Barker's Hellraiser: Revival](https://store.steampowered.com/app/1551980/)**: PC; Saber Interactive; 96/100 from 1,473 ratings  
-  [Website](https://hellraisergame.com)
 - **[Bloons Blitz](https://apps.apple.com/us/app/bloons-blitz/id6741921686?uo=4)**: iOS; Ninja Kiwi; Roguelite; 87/100 from 403 ratings; charting x3  
   [Website](https://ninjakiwi.com)
-- **[Duckoleon](https://store.steampowered.com/app/3775510/)**: PC; Pumancz; 93/100 from 270 ratings
-- **[Endless Rails](https://store.steampowered.com/app/4601120/)**: Mac, PC; Studio Monoblok; Roguelite/Survivors-like; 75/100 from 185 ratings  
-  [Website](https://monoblokstudio.com)
-- **[Ammossum](https://store.steampowered.com/app/2659600/)**: PC; West Glade; Roguelite; 68/100 from 121 ratings
 - **[Lunar Drifter](https://store.steampowered.com/app/3115490/)**: Linux, PC; RoseHoodGames; 89/100 from 89 ratings  
   [Website](https://rosehoodgames.com/)
-- **[Bloodspill](https://store.steampowered.com/app/3737680/)**: PC; thatFain; 94/100 from 62 ratings
-- **[Muchi Muchi Pork! & PinkSweets Boosted](https://store.steampowered.com/app/4229200/)**: PC; CITY CONNECTION, TAKE×0FF; 91/100 from 53 ratings  
-  [Website](https://city-connection.co.jp/muchimuchipork-pinksweets/)
-- **[Sous Raccoon](https://store.steampowered.com/app/3919140/)**: PC; Novice Flow; Roguelite; 93/100 from 44 ratings
-- **[Spencer's Spaghetti Quest](https://store.steampowered.com/app/3877570/)**: PC; Epitaph Games; 72/100 from 40 ratings
-- **[What Is The Ghost](https://store.steampowered.com/app/3929260/)**: PC; Deda Games; 97/100 from 38 ratings
-- **[Tooth for Tooth](https://store.steampowered.com/app/5012840/)**: Linux, Mac, PC; Outlane; 81/100 from 37 ratings  
+- **[Tooth for Tooth](https://store.steampowered.com/app/5012840/)**: Linux, Mac, PC; Outlane; PvP; 81/100 from 37 ratings  
   [Website](https://playtoothfortooth.com/)
-- **[Hood Warfare 2](https://store.steampowered.com/app/5155360/)**: PC; Trapstar Games; 88/100 from 32 ratings
-- **[HYPERFRAG](https://store.steampowered.com/app/4271950/)**: PC; Tyro Interactive; 74/100 from 31 ratings
-- **[Wizzo PopOut](https://store.steampowered.com/app/3670670/)**: Linux, Mac, PC; Die Wizzos; 100/100 from 31 ratings
-- **[Project DevourSlime](https://store.steampowered.com/app/3263880/)**: PC; StrangeWave Studio; 96/100 from 25 ratings
 - **[The Only Droid](https://store.steampowered.com/app/4393370/)**: PC; Musab.dev; Physics/Roguelite; 79/100 from 19 ratings
-- **[Bullet Banshee](https://store.steampowered.com/app/5065510/)**: Linux, Mac, PC; Studio Megasoma; Bullet Hell / Shmup/Roguelite; 93/100 from 15 ratings
-- **[Crescent Break](https://store.steampowered.com/app/4297720/)**: PC; resnijars; Roguelite; 100/100 from 13 ratings  
-  [Website](https://resnijars.com/)
 - **[Killdozer](https://store.steampowered.com/app/4909940/)**: Mac, PC; SpliceDev; Roguelite; 83/100 from 12 ratings
-- **[Escape the Playground](https://store.steampowered.com/app/5229620/)**: PC; AnotherBuild; 100/100 from 10 ratings
-- **[Gnomicide](https://store.steampowered.com/app/4970010/)**: PC; Plywood Radar; 90/100 from 10 ratings
-- **[Horde Arena](https://store.steampowered.com/app/3561610/)**: PC; FiveFiveSix Games; Roguelite; 90/100 from 10 ratings
-- **[Bonki D Bonk](https://store.steampowered.com/app/4596250/)**: Linux, PC; Yukisora; 89/100 from 9 ratings
-- **[punkt](https://store.steampowered.com/app/5153210/)**: PC; Homeowner Association; 89/100 from 9 ratings
-- **[CRABRUN](https://store.steampowered.com/app/4633560/)**: Linux, Mac, PC; almbkn; 100/100 from 8 ratings
-- **[Factorized](https://store.steampowered.com/app/5230410/)**: PC; Lab of the Ocean; 100/100 from 8 ratings
-- **[From Beyond: Arcade Edition](https://store.steampowered.com/app/4803460/)**: Linux, Mac, PC; Turbo Intercept Interactive; 100/100 from 8 ratings  
-  [Website](https://bcvhs.com/)
-- **[Fuck This Job](https://store.steampowered.com/app/4822520/)**: PC; Raffiné Studio	; 88/100 from 8 ratings
-- **[Only Straight Bros](https://store.steampowered.com/app/5021060/)**: PC; Nocean Studio; 50/100 from 8 ratings
-- **[Jousting Around](https://store.steampowered.com/app/4983950/)**: Linux, Mac, PC; Dead Tag Studios; 100/100 from 7 ratings  
-  [Website](https://deadtag.studio/)
-- **[Death Game Simulator](https://store.steampowered.com/app/5163750/)**: PC; TamagoEggs; 17/100 from 6 ratings
-- **[Major Mutt](https://store.steampowered.com/app/4408990/)**: PC; Vongo Forge; 83/100 from 6 ratings
-- **[Old War Together](https://store.steampowered.com/app/5245720/)**: PC; cnsgames; 100/100 from 6 ratings
-- **[Prop Revolt](https://store.steampowered.com/app/5058220/)**: PC; Faesslich Digital; 100/100 from 6 ratings
+- **[Only Straight Bros](https://store.steampowered.com/app/5021060/)**: PC; Nocean Studio; Co-op/Party/PvP; 50/100 from 8 ratings
+- **[Prop Revolt](https://store.steampowered.com/app/5058220/)**: PC; Faesslich Digital; Co-op/PvP; 100/100 from 6 ratings
 - **[SweatyPanzer](https://store.steampowered.com/app/5146110/)**: PC; SweatyGames; 50/100 from 6 ratings
 - **[The Ball Just Won't Stay Up](https://store.steampowered.com/app/5002420/)**: PC; ZOU YU; 83/100 from 6 ratings
-- **[Touhou Meishuugeki (東方明秋劇) ~ Cursed Sweeper and Bewildering Parallel](https://store.steampowered.com/app/5101330/)**: Mac, PC; Drillimation Systems, E. Enthusiasm; Bullet Hell / Shmup; 33/100 from 6 ratings  
-  [Website](https://drillimation.com/touhou-meishuugeki-cursed-sweeper-and-bewildering-parallel)
-- ...and 209 more in games.csv
+- **[YOU BECOME FROG 🐸](https://store.steampowered.com/app/4295470/)**: PC; Lunar Workshop; Survivors-like; 100/100 from 5 ratings
+- **[FpsAimForge](https://store.steampowered.com/app/5165380/)**: Linux, PC; FpsAimForge; 100/100 from 4 ratings  
+  [Website](https://github.com/mjohns/FpsAimForge)
+- **[Neon Tyrant](https://store.steampowered.com/app/4953310/)**: PC; One Mind Games; Bullet Hell / Shmup; 50/100 from 4 ratings
+- **[Raiders 1941](https://store.steampowered.com/app/4608820/)**: PC; Ruttsoft; Bullet Hell / Shmup; 100/100 from 4 ratings
+- **[Data Survivor](https://store.steampowered.com/app/5005850/)**: PC; Sophista; Survivors-like; 100/100 from 3 ratings
+- **[GoatCart](https://store.steampowered.com/app/4869180/)**: PC; GamingPugsStudios; Party/PvP; 67/100 from 3 ratings
+- **[Sumo Fumble: Physics Party](https://store.steampowered.com/app/4357300/)**: PC; KafeinMug; Physics; 2 ratings
+- **[Versus One](https://store.steampowered.com/app/3653680/)**: PC; Mikko Anttila, Jesper Sarin, Marius Larilahti; 100/100 from 2 ratings
+- **[Hall of Mirrors](https://store.steampowered.com/app/3223460/)**: Mac, PC; Ken Brooks; 100/100 from 1 ratings  
+  [Website](http://sparklinglightgames.com/)
+- **[Hook Line Ball](https://store.steampowered.com/app/4494410/)**: PC; sea__sky; 100/100 from 1 ratings
+- **[Restart Zero](https://store.steampowered.com/app/1585310/)**: PC; Timco; Co-op; 100/100 from 1 ratings  
+  [Website](https://timco-development.de/#/restartZero)
+- **[UDONGAIN](https://store.steampowered.com/app/5231550/)**: PC; leimonya; 100/100 from 1 ratings
+- **[AI Game Maker: Build & Play](https://apps.apple.com/us/app/ai-game-maker-build-play/id6808702579?uo=4)**: iOS; ATAY GAMES LTD; Hyper-casual; charting x20  
+  [Website](https://ataygames.com)
+- **[Core Shield Defense](https://apps.apple.com/us/app/core-shield-defense/id6818885732?uo=4)**: iOS; Edgardo Ramirez; charting x20  
+  [Website](https://lotomoji.com/products/core_defense)
+- **[MENARA: Daily Tower Stack](https://apps.apple.com/us/app/menara-daily-tower-stack/id6804741615?uo=4)**: iOS; dendi reynando; charting x20
+- **[Unai Blast](https://apps.apple.com/us/app/unai-blast/id6807741289?uo=4)**: iOS; William-Arno CLEMENT; charting x20  
+  [Website](https://www.unailerenard.com/#)
+- **[PixelRun: Running Princess](https://apps.apple.com/gb/app/pixelrun-running-princess/id6818127964?uo=4)**: iOS; MYUNGKWON JEONG; charting x8  
+  [Website](https://pixelrun-94396.web.app/)
+- **[Last Combat: Z Shooter](https://apps.apple.com/in/app/last-combat-z-shooter/id6812733413?uo=4)**: iOS; PIXEL KING PTE. LTD.; charting x1  
+  [Website](https://pixelking.store/)
+- **[4 SCREENS, 1 LIFE](https://store.steampowered.com/app/5155750/)**: PC; mayoaji  
+  [Website](https://mayoaji.com/4screens/life/)
+- **[4 SCREENS, 1 PADDLE](https://store.steampowered.com/app/5165910/)**: PC; mayoaji  
+  [Website](https://mayoaji.com/4screens/paddle/)
+- **[Absorb & Biuuuuu](https://williamchengpeng.itch.io/biuuu-rift-defense)**: Web; williamchengpeng
+- **[Ah!Steroids](https://walangstudio.itch.io/ahsteroids)**: Web; walangstudio
+- **[Anomaly](https://dylan3737.itch.io/anomaly)**: Web; dylan3737
+- **[ArcVault [GB]](https://devgb.itch.io/avgb)**: Web; devgb
+- **[Awkward Sidewalk](https://elixirslabs.itch.io/awkward-sidewalk)**: Web; elixirslabs
+- **[Berserkers](https://store.steampowered.com/app/5214980/)**: PC; Studio of Eldingar; Co-op/PvP
+- **[Blossoms](https://ibrahimgillani.itch.io/blossoms)**: PC; ibrahimgillani; Soulslike
+- **[Bubble Cat](https://ilijarad.itch.io/bubble-cat)**: Web; ilijarad
+- **[Bumping Mayham](https://morose-interactive.itch.io/bumping-mayham)**: Web; morose-interactive
+- **[B⭕NKERS](https://langorithm.itch.io/bonkers)**: Web; langorithm
+- **[Color Eater](https://nagujj.itch.io/color-eater)**: Android, PC; nagujj
+- ...and 63 more in games.csv
 
-## Casual (178)
+## Casual (32)
 
-- **[Game Keeper: Somebody Messed Up My Shop!](https://store.steampowered.com/app/5186690/)**: PC; VeinStudios; 92/100 from 438 ratings
-- **[DUAL PROTOCOL: The Case of Eva & Miles](https://store.steampowered.com/app/4660280/)**: PC; AEGEAN CRAFTERS; 53/100 from 267 ratings  
-  [Website](https://aegeancrafters.co)
-- **[Birb](https://store.steampowered.com/app/4364930/)**: Linux, Mac, PC; Hwonze; Roguelite; 93/100 from 119 ratings
-- **[Deleted Wiki: Clean Up the Lost Files](https://store.steampowered.com/app/5204830/)**: Mac, PC; Clique Games; 99/100 from 107 ratings  
-  [Website](https://www.clique.games/deletedwiki#wiki)
-- **[Growing My Manhole](https://store.steampowered.com/app/4415120/)**: PC; SylverDev, Gearbyte Games; 78/100 from 98 ratings
-- **[Little Sister](https://store.steampowered.com/app/5256480/)**: PC; HaHaHaGame; 100/100 from 42 ratings
-- **[CELESTAY Craft&Slowlife](https://store.steampowered.com/app/4183770/)**: Mac, PC; BUBBLE GUM LLC; 88/100 from 32 ratings
-- **[Foxy's Potion Shop](https://store.steampowered.com/app/5101390/)**: PC; The Foxy Guiz, CCS; 94/100 from 32 ratings  
-  [Website](https://coldcoffeestudio.com/)
-- **[Keep Watering](https://store.steampowered.com/app/4569670/)**: Mac, PC; Frozen Logic Studios; 46/100 from 26 ratings
-- **[Sort of Magic](https://store.steampowered.com/app/4398290/)**: PC; Riwon; 36/100 from 22 ratings
 - **[The Great Release](https://store.steampowered.com/app/4814340/)**: Linux, Mac, PC; Slice of Nice; 100/100 from 22 ratings
-- **[Under the Earth](https://store.steampowered.com/app/5080220/)**: PC; ManetKedy; 61/100 from 18 ratings
-- **[Heartbeats - Anniversary Edition](https://store.steampowered.com/app/5213380/)**: PC; Kong Orange; 100/100 from 16 ratings
-- **[Never Enough Corn](https://store.steampowered.com/app/5246180/)**: PC; cream; 100/100 from 14 ratings  
-  [Website](https://yjj985280.wixsite.com/my-site)
 - **[Sneaky Squad](https://store.steampowered.com/app/5157620/)**: PC; IndieDev_Studio; 86/100 from 14 ratings
-- **[Delegatory](https://store.steampowered.com/app/4320620/)**: Linux, Mac, PC; Alex Coleman; 100/100 from 13 ratings
-- **[Drawaoke: Sing, Scribble, Showdown!](https://store.steampowered.com/app/5142810/)**: PC; 2P START; 77/100 from 13 ratings
-- **[Desktop Tower Survivor](https://store.steampowered.com/app/4848460/)**: PC; Kalgator; 100/100 from 12 ratings  
-  [Website](https://desktoptowersurvivor.com)
-- **[Green Hat Battle](https://store.steampowered.com/app/5235150/)**: PC; HaHaHaGame; 100/100 from 10 ratings
-- **[Hex Reverse](https://store.steampowered.com/app/5257350/)**: PC; IsaoWorks; Deckbuilder/Roguelite; 80/100 from 10 ratings
-- **[Space Cat Solitaire](https://store.steampowered.com/app/3175050/)**: Linux, Mac, PC; Gray Duck Games; 100/100 from 10 ratings  
-  [Website](https://discord.gg/7rS7ZJVsWR)
-- **[Tidy Up the Royal Armory](https://store.steampowered.com/app/5169440/)**: PC; 7 Heads Studio; 50/100 from 10 ratings
-- **[Apple Worm: Logic Puzzle](https://store.steampowered.com/app/5189530/)**: Mac, PC; Absolutist Ltd.; 89/100 from 9 ratings  
-  [Website](https://absolutist.com)
-- **[Florana Defense](https://store.steampowered.com/app/4840080/)**: Linux, Mac, PC; Petr "Glubo" Sykora; Tower Defense; 100/100 from 7 ratings
-- **[Once In Sakartvelo: Out Of Service](https://store.steampowered.com/app/5096510/)**: PC; ArbiDev; 71/100 from 7 ratings
-- **[Sculpturillo](https://store.steampowered.com/app/5114580/)**: PC; Svoltanic; 100/100 from 7 ratings
-- **[Fruit Fetish](https://store.steampowered.com/app/4376740/)**: PC; ChubbyWeevil; 50/100 from 6 ratings
-- **[Puke and Seek](https://store.steampowered.com/app/5118740/)**: PC; Cyborg Dreams; 83/100 from 6 ratings
-- **[Sort Them Guns: Tidy Up](https://store.steampowered.com/app/5204840/)**: PC; Monday Squid; 50/100 from 6 ratings
-- **[Super Brik Brik](https://store.steampowered.com/app/5142580/)**: Linux, Mac, PC; Infiland; 50/100 from 6 ratings  
-  [Website](https://sbb.infi.land)
-- **[A Wee Flee](https://store.steampowered.com/app/4957450/)**: PC; 200 Levels; 100/100 from 5 ratings
-- **[Last Bottle](https://store.steampowered.com/app/5208820/)**: Linux, PC; Entity Welfare; 100/100 from 5 ratings
-- **[Slot Heroes](https://store.steampowered.com/app/5106320/)**: PC; Team HoneyPot; 40/100 from 5 ratings
+- **[Drawaoke: Sing, Scribble, Showdown!](https://store.steampowered.com/app/5142810/)**: PC; 2P START; Party/PvP; 77/100 from 13 ratings
 - **[100 Artroom Cats](https://store.steampowered.com/app/4118440/)**: PC; 100 Cozy Games, Cats; 100/100 from 4 ratings
 - **[Arcturus Vision Gaussian XR](https://store.steampowered.com/app/3977540/)**: Linux; Arcturus Vision; 75/100 from 4 ratings  
   [Website](https://arcturus.vision)
-- **[Baseball Bat Hero; or, Savagely Beating a Man With a Club Until He Dies of Blunt Force Trauma](https://store.steampowered.com/app/5060630/)**: Linux, PC; Wolf Cola; 100/100 from 4 ratings
 - **[Bible Quiz Trivia - Do you know your Bible?](https://store.steampowered.com/app/4990460/)**: PC; Cray8eve Games; 100/100 from 4 ratings
-- **[Guandan](https://store.steampowered.com/app/5252220/)**: Mac, PC; 237 Studio; 75/100 from 4 ratings  
-  [Website](https://237studio.co/)
-- **[Wizard Harder Or Get Laid Off](https://store.steampowered.com/app/5184050/)**: PC; Old Man Baby Games; 100/100 from 4 ratings
 - **[Zen Beauty](https://store.steampowered.com/app/3409390/)**: PC; ValarFerys; 50/100 from 4 ratings
-- ...and 138 more in games.csv
+- **[STAR BREW: OVEREXTRACT](https://store.steampowered.com/app/4956240/)**: Linux, PC; calinp; 67/100 from 3 ratings
+- **[Whiskers on Time's Corner](https://store.steampowered.com/app/3145480/)**: PC; ValarFerys; 100/100 from 3 ratings
+- **[Fuel Sort](https://store.steampowered.com/app/4431410/)**: Linux, Mac, PC; Frank Buss; 100/100 from 2 ratings  
+  [Website](https://frank-buss.de)
+- **[Pinpongle](https://store.steampowered.com/app/4819500/)**: Linux, Mac, PC; Fussl; Roguelite; 100/100 from 2 ratings
+- **[Puckey: The Puzzle Game](https://store.steampowered.com/app/5147730/)**: PC; Shredtastic Software LLC; 100/100 from 2 ratings  
+  [Website](https://shredtasticsoftware.com/)
+- **[Side Quest](https://store.steampowered.com/app/4367910/)**: Linux, Mac, PC; KuroTheFox; 100/100 from 1 ratings
+- **[貓貓盒CATBOX](https://store.steampowered.com/app/5107870/)**: PC; DREJ; 1 ratings
+- **[Glowball](https://apps.apple.com/gb/app/glowball/id6814900416?uo=4)**: iOS; Jason Brown; charting x20
+- **[Lumizig](https://apps.apple.com/gb/app/lumizig/id6810565648?uo=4)**: iOS; Ahmed Hamed; charting x20
+- **[RoadTest Sim: Driving Test](https://apps.apple.com/gb/app/roadtest-sim-driving-test/id6817397475?uo=4)**: iOS; Intellectual Applications & Products; Merge; charting x20
+- **[4 SCREENS, 1 PUTT](https://store.steampowered.com/app/5161140/)**: PC; mayoaji  
+  [Website](https://mayoaji.com/4screens/putt/)
+- **[Catoscope](https://store.steampowered.com/app/5208170/)**: PC; Antique Box Studio
+- **[deciphony](https://store.steampowered.com/app/4872790/)**: PC; Liam
+- **[Demon Queen's Domain](https://store.steampowered.com/app/5228650/)**: PC; Zeislus Studios
+- **[Home D.O.](https://store.steampowered.com/app/4740090/)**: PC; Provysion Studios
+- **[Inspiration Test](https://store.steampowered.com/app/5184950/)**: PC; zrozu, cyc55555
+- **[Jigsaw Friends: Around the World](https://store.steampowered.com/app/4773300/)**: PC; MEØN
+- **[Lexilotl: Crossword Puzzle Run](https://store.steampowered.com/app/4735750/)**: Linux, PC; Rob Stenzinger
+- **[My Mysterious Creature](https://store.steampowered.com/app/4937300/)**: PC; Gamblin Games
+- **[Puzzle Arcade Pals](https://store.steampowered.com/app/3838520/)**: PC; ERMedia
+- **[RETROPULSE Wave](https://store.steampowered.com/app/5295530/)**: Linux, Mac, PC; Cute Hannah's Games; Merge
+- **[SlimeBusters](https://store.steampowered.com/app/5202590/)**: PC; Black Orange; Co-op/Party/PvP
+- **[Triple Track](https://store.steampowered.com/app/5191000/)**: PC; Black Cat Leo  
+  [Website](https://blackcatleo.com)
+- **[WashMate](https://store.steampowered.com/app/4823240/)**: PC; DOTzLUM
+- **[YOU ARE NEWTON](https://store.steampowered.com/app/4994950/)**: PC; SAJI  
+  [Website](https://little-step-puzzle.shiroikaibutsu.chatgpt.site/)
 
 ## Family & Kids (3)
 
@@ -941,7 +1189,7 @@
 - **[Chipi Play](https://apps.apple.com/gb/app/chipi-play/id6816393884?uo=4)**: iOS; ANDY .; charting x8  
   [Website](https://kids.smashup.id)
 
-## Other (163)
+## Other (134)
 
 - **[麻辣湯ものがたり（マーラータン）](https://apps.apple.com/jp/app/%E9%BA%BB%E8%BE%A3%E6%B9%AF%E3%82%82%E3%81%AE%E3%81%8C%E3%81%9F%E3%82%8A-%E3%83%9E%E3%83%BC%E3%83%A9%E3%83%BC%E3%82%BF%E3%83%B3/id6816625266?uo=4)**: iOS; Ryusei Okamoto; 90/100 from 641 ratings; charting x3  
   [Website](https://maratan.appful.tokyo)
@@ -960,38 +1208,23 @@
   [Website](https://vsboat.app)
 - **[[スロスピ]マジカルハロウィン8](https://apps.apple.com/jp/app/%E3%82%B9%E3%83%AD%E3%82%B9%E3%83%94-%E3%83%9E%E3%82%B8%E3%82%AB%E3%83%AB%E3%83%8F%E3%83%AD%E3%82%A6%E3%82%A3%E3%83%B38/id6770854143?uo=4)**: iOS; SPIRIDGE INC.; 87/100 from 33 ratings; charting x1  
   [Website](https://slospr.com/)
-- **[ESC ape, You died?](https://store.steampowered.com/app/5208240/)**: PC; Salt&Vinegar; 100/100 from 28 ratings
-- **[The Blessed Fool](https://store.steampowered.com/app/3396560/)**: Linux, Mac, PC; Nikita Antipov; 78/100 from 23 ratings
 - **[スペリングビー - 単語作成ゲーム](https://apps.apple.com/jp/app/%E3%82%B9%E3%83%9A%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%93%E3%83%BC-%E5%8D%98%E8%AA%9E%E4%BD%9C%E6%88%90%E3%82%B2%E3%83%BC%E3%83%A0/id6812956740?uo=4)**: iOS; OWL SYSTEMS; 86/100 from 17 ratings; charting x2  
   [Website](https://puzzlega.me/)
-- **[Sol and Mani the Artifact ](https://store.steampowered.com/app/4197020/)**: PC; Mindal VN (not studio), RUzura Interactive; 100/100 from 14 ratings
 - **[Enchanted Inn](https://apps.apple.com/jp/app/enchanted-inn/id6749690403?uo=4)**: iOS; Tactile Games ApS; 98/100 from 11 ratings; charting x2  
   [Website](http://www.promineostudios.com)
 - **[Voltus' Neon Nightmare - Colossal Cure](https://store.steampowered.com/app/4882170/)**: PC; DarkFox64; 89/100 from 9 ratings
-- **[Midwest Goodbye](https://store.steampowered.com/app/4917250/)**: PC; Nonstick Studios LLC; Deckbuilder; 100/100 from 8 ratings
-- **[Retail Robbery](https://store.steampowered.com/app/4558820/)**: PC; Retail Studios; 83/100 from 6 ratings
-- **[DROWSE](https://store.steampowered.com/app/4613650/)**: PC; MILKY COCO GAMES; 100/100 from 5 ratings
 - **[Gemorium](https://store.steampowered.com/app/4798740/)**: PC; Bagosz Dev; 100/100 from 4 ratings
-- **[Paperstack](https://store.steampowered.com/app/5114800/)**: PC; CODE3; 100/100 from 4 ratings
 - **[ねこマンション](https://apps.apple.com/jp/app/%E3%81%AD%E3%81%93%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3/id6783606955?uo=4)**: iOS; GlobalGear Co. Ltd.; .io; 100/100 from 3 ratings; charting x3  
   [Website](https://global-gear.jp)
 - **[神楽姫絵巻～美少女育成放置RPG](https://apps.apple.com/jp/app/%E7%A5%9E%E6%A5%BD%E5%A7%AB%E7%B5%B5%E5%B7%BB-%E7%BE%8E%E5%B0%91%E5%A5%B3%E8%82%B2%E6%88%90%E6%94%BE%E7%BD%AErpg/id6784473841?uo=4)**: iOS; GameCC; 47/100 from 3 ratings; charting x3
 - **[脱出ゲーム 宿めぐり｜和風旅館の謎解き](https://apps.apple.com/jp/app/%E8%84%B1%E5%87%BA%E3%82%B2%E3%83%BC%E3%83%A0-%E5%AE%BF%E3%82%81%E3%81%90%E3%82%8A-%E5%92%8C%E9%A2%A8%E6%97%85%E9%A4%A8%E3%81%AE%E8%AC%8E%E8%A7%A3%E3%81%8D/id6818525577?uo=4)**: iOS; JUNYA TOGA; 73/100 from 3 ratings; charting x1  
   [Website](https://jack-invest.com)
-- **[Borrowed Sight](https://store.steampowered.com/app/5000040/)**: PC; SolitaryStudios; 100/100 from 3 ratings  
-  [Website](https://solitarystudios.games/)
-- **[Unnerving Nightmare](https://store.steampowered.com/app/5227020/)**: PC; Tokhir Umarov; 100/100 from 3 ratings
 - **[超進化物語2](https://apps.apple.com/jp/app/%E8%B6%85%E9%80%B2%E5%8C%96%E7%89%A9%E8%AA%9E2/id6742139163?uo=4)**: iOS; Guangzhou Anteng Information Technology Co., Ltd.; 100/100 from 2 ratings; charting x4  
   [Website](https://beastsevolved2-sea.ntfusion.com)
 - **[今夜も出ます！百鬼夜行](https://apps.apple.com/jp/app/%E4%BB%8A%E5%A4%9C%E3%82%82%E5%87%BA%E3%81%BE%E3%81%99-%E7%99%BE%E9%AC%BC%E5%A4%9C%E8%A1%8C/id6816880466?uo=4)**: iOS; Yosuke Hirano; 90/100 from 2 ratings; charting x1  
   [Website](https://giraffe.qc-plus.jp/)
-- **[ysh park](https://store.steampowered.com/app/3171340/)**: PC; catheadsnake; 50/100 from 2 ratings
 - **[世界一周豪華客船からの脱出](https://apps.apple.com/jp/app/%E4%B8%96%E7%95%8C%E4%B8%80%E5%91%A8%E8%B1%AA%E8%8F%AF%E5%AE%A2%E8%88%B9%E3%81%8B%E3%82%89%E3%81%AE%E8%84%B1%E5%87%BA/id6816899973?uo=4)**: iOS; Hiroshi Yoneda; 80/100 from 1 ratings; charting x1  
   [Website](https://studiobeita0531-cell.github.io/)
-- **[Before Six](https://store.steampowered.com/app/5087930/)**: PC; Tou Games; 100/100 from 1 ratings
-- **[Bingo Factory](https://store.steampowered.com/app/4955260/)**: PC; TakedaKaeru; 100/100 from 1 ratings
-- **[Dreamer's Wake](https://store.steampowered.com/app/4460640/)**: Mac, PC; MORPH; 100/100 from 1 ratings  
-  [Website](https://morph.land)
 - **[0%Grav](https://apps.apple.com/us/app/0-grav/id6816923285?uo=4)**: iOS; Bradley Birbeck; charting x20
 - **[Bean Wizard](https://apps.apple.com/jp/app/bean-wizard/id6793985010?uo=4)**: iOS; GoblinRunt Games LLC; charting x20  
   [Website](https://goblinruntgames.com)
@@ -1003,4 +1236,23 @@
 - **[SOC Watch](https://apps.apple.com/us/app/soc-watch/id6816657978?uo=4)**: iOS; YAN FRANCOIS - XAVIER MASSART; charting x20  
   [Website](https://nmz6tj88w5-stack.github.io/)
 - **[懒羊淘金](https://apps.apple.com/gb/app/%E6%87%92%E7%BE%8A%E6%B7%98%E9%87%91/id6802586885?uo=4)**: iOS; 玉林 朱; charting x20
-- ...and 123 more in games.csv
+- **[脱出ゲーム 華金を楽しみたい](https://apps.apple.com/jp/app/%E8%84%B1%E5%87%BA%E3%82%B2%E3%83%BC%E3%83%A0-%E8%8F%AF%E9%87%91%E3%82%92%E6%A5%BD%E3%81%97%E3%81%BF%E3%81%9F%E3%81%84/id6812830268?uo=4)**: iOS; Shiro Miyahara; charting x4  
+  [Website](https://harekore.main.jp/)
+- **[WordBlade - 文字ブレード](https://apps.apple.com/jp/app/wordblade-%E6%96%87%E5%AD%97%E3%83%96%E3%83%AC%E3%83%BC%E3%83%89/id6819836440?uo=4)**: iOS; IBUKI YOSHIDA; charting x2  
+  [Website](https://ibuki3322-max.github.io)
+- **[ドタバタスポーツ！タップ＆スワイプで大騒ぎ](https://apps.apple.com/jp/app/%E3%83%89%E3%82%BF%E3%83%90%E3%82%BF%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84-%E3%82%BF%E3%83%83%E3%83%97-%E3%82%B9%E3%83%AF%E3%82%A4%E3%83%97%E3%81%A7%E5%A4%A7%E9%A8%92%E3%81%8E/id6818920282?uo=4)**: iOS; saic Inc.; charting x2  
+  [Website](https://saic-app.com/)
+- **[Preserve: Complete Edition](https://apps.apple.com/jp/app/preserve-complete-edition/id6775430354?uo=4)**: iOS; Plug In Digital; charting x1  
+  [Website](https://plugindigital.com)
+- **[ウミガメラボ − 元東大生による水平思考クイズ](https://apps.apple.com/jp/app/%E3%82%A6%E3%83%9F%E3%82%AC%E3%83%A1%E3%83%A9%E3%83%9C-%E5%85%83%E6%9D%B1%E5%A4%A7%E7%94%9F%E3%81%AB%E3%82%88%E3%82%8B%E6%B0%B4%E5%B9%B3%E6%80%9D%E8%80%83%E3%82%AF%E3%82%A4%E3%82%BA/id6816770388?uo=4)**: iOS; FORLIVER LLC; charting x1  
+  [Website](https://umigame.forliver-app.com/)
+- **[夜明けの灯守](https://apps.apple.com/jp/app/%E5%A4%9C%E6%98%8E%E3%81%91%E3%81%AE%E7%81%AF%E5%AE%88/id6817701114?uo=4)**: iOS; Junichi Chikugi; charting x1  
+  [Website](https://takebon.lsv.jp/)
+- **[2D Game Dev with DragonRuby](https://judahsan.itch.io/2d-game-dev-with-dragonruby)**: Web; judahsan
+- **[3D Character Body Base for Blender 5.2 LTS](https://gorsvie.itch.io/3d-character-body-base-for-blender-52-lts)**: Web; gorsvie
+- **[A Toast to Christmas](https://flines.itch.io/a-toast-to-christmas)**: Web; flines
+- **[Adam needs help](https://currently-nameless.itch.io/adam-needs-help)**: PC; currently-nameless
+- **[Anser: Goose Quest](https://prankkotion-studios.itch.io/anser-goose-quest)**: Web; prankkotion-studios
+- **[Ashen Tides](https://xionworld.itch.io/ashen-tides)**: PC; xionworld; Soulslike
+- **[Assets of slots asset pack](https://dariodoky.itch.io/assets-of-slots-asset-pack)**: Web; dariodoky
+- ...and 94 more in games.csv
