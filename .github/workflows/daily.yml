@@ -1,7 +1,7 @@
 name: game-radar-daily
 on:
   schedule:
-    - cron: "30 1 * * *"   # 07:00 IST every day
+    - cron: "17 1 * * *"   # 06:47 IST every day (off the busy :00/:30 marks, where GitHub drops scheduled runs)
   workflow_dispatch:
     inputs:
       lookback:
@@ -39,6 +39,7 @@ jobs:
             git config user.email "bot@users.noreply.github.com"
             git add -A
             git commit -m "Unpack Game Radar project"
+            git pull --rebase --autostash origin main
             git push
           fi
       - uses: actions/setup-python@v5
@@ -69,6 +70,7 @@ jobs:
           git config user.email "bot@users.noreply.github.com"
           git add reports
           git commit -m "Game radar $(date +%F)" || echo "nothing new"
+          git pull --rebase --autostash origin main
           git push
       - uses: actions/upload-pages-artifact@v3
         with:
