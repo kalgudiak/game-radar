@@ -11,6 +11,15 @@ WATCH = ["Merge", "Match-3", "Sort & Organise", "Runner", "Hyper-casual", "Hybri
          "Tycoon", ".io", "Roguelite", "Deckbuilder"]
 
 
+CORE_STORES = {"Steam", "App Store", "Google Play", "Epic Games Store", "GOG", "PlayStation Store", "Xbox Store",
+               "Microsoft Store", "Nintendo eShop", "Meta Quest Store", "IGDB"}
+
+
+def itch_only(r):
+    labels = {l["label"] for l in r.get("links") or r.get("l") or []}
+    return not (labels & CORE_STORES)
+
+
 def slim(r, seen=None):
     """Only the fields the page needs, to keep it light on phones."""
     return {
@@ -20,24 +29,29 @@ def slim(r, seen=None):
         "ra": r.get("rating"), "rc": r.get("rating_count"), "in": r.get("installs"),
         "ch": r.get("charts") or [], "l": r.get("links") or [], "img": r.get("icon") or "",
         "desc": (r.get("description") or "")[:160], "seen": seen,
+        "ab": r.get("appbrain") or [], "itch": itch_only(r),
     }
 
 
 def aggregate(rows):
-    """Per release-date counts of genres, sub-genres and platform families."""
-    agg = defaultdict(lambda: {"n": 0, "g": Counter(), "s": Counter(), "f": Counter()})
+    """Per release-date counts of genres, sub-genres and platform families, both for all games
+    ("all") and excluding itch.io-only uploads ("core")."""
+    new = lambda: {"n": 0, "g": Counter(), "s": Counter(), "f": Counter()}
+    agg = defaultdict(lambda: {"all": new(), "core": new()})
     for r in rows:
         d = r.get("release_date") or r.get("d")
         if not d:
             continue
-        a = agg[d]
-        a["n"] += 1
-        a["g"][r.get("genre") or r.get("g")] += 1
-        for s in r.get("subgenres") or r.get("s") or []:
-            a["s"][s] += 1
-        for f in r.get("families") or r.get("f") or []:
-            a["f"][f] += 1
-    return {d: {"n": v["n"], "g": dict(v["g"]), "s": dict(v["s"]), "f": dict(v["f"])} for d, v in sorted(agg.items())}
+        for bucket in (["all"] if itch_only(r) else ["all", "core"]):
+            a = agg[d][bucket]
+            a["n"] += 1
+            a["g"][r.get("genre") or r.get("g")] += 1
+            for s in r.get("subgenres") or r.get("s") or []:
+                a["s"][s] += 1
+            for f in r.get("families") or r.get("f") or []:
+                a["f"][f] += 1
+    plain = lambda v: {"n": v["n"], "g": dict(v["g"]), "s": dict(v["s"]), "f": dict(v["f"])}
+    return {d: {k: plain(v) for k, v in b.items()} for d, b in sorted(agg.items())}
 
 
 def render(rows, agg, meta):
@@ -88,6 +102,8 @@ h3{font-size:1.15rem;font-weight:700}
 .sub{color:var(--muted);margin:0;max-width:70ch}
 .range{display:flex;flex-wrap:wrap;gap:8px;margin:18px 0 6px;align-items:center}
 .range span{font-weight:700;margin-right:4px}
+.toggle{display:inline-flex;gap:8px;align-items:center;flex-wrap:wrap;margin:4px 0 0;min-height:44px;cursor:pointer}
+.toggle input{width:20px;height:20px;accent-color:var(--accent)}
 .seg{border:1px solid var(--rule);background:var(--chip);color:var(--ink);border-radius:999px;padding:9px 16px;font:inherit;font-size:.95rem;cursor:pointer;min-height:44px}
 .seg[aria-pressed=true]{background:var(--accent);border-color:var(--accent);color:var(--accent-ink);font-weight:700}
 section{margin-top:30px}
@@ -175,6 +191,7 @@ footer dt{font-weight:700;color:var(--ink)}footer dd{margin:0}
   <h1 id="headline">New games</h1>
   <p class="sub" id="subhead"></p>
   <div class="range" role="group" aria-label="Release date range"><span>Show games released in:</span></div>
+  <label class="toggle"><input type="checkbox" id="itch"> Include itch.io uploads <span class="meta">(indie, game-jam and work-in-progress projects, not store releases)</span></label>
 </header>
 <main>
   <section aria-labelledby="h-take">
@@ -242,9 +259,9 @@ footer dt{font-weight:700;color:var(--ink)}footer dd{margin:0}
     <dt>New game</dt><dd>A game whose first release date falls in the chosen range. Updates, DLC and ports are left out.</dd>
     <dt>Genre</dt><dd>Each game gets one main genre. When a game fits several, the most specific wins (Roguelike over Action, Puzzle over Casual). "Unclassified" means the store gave no usable genre.</dd>
     <dt>Mechanic</dt><dd>Mechanics found in the store genres, tags and title, such as Merge, Runner or Idle. A game can have several.</dd>
-    <dt>Traction</dt><dd>Early signals: number of player ratings or reviews, Google Play installs, and App Store chart positions. Very new games often have none yet.</dd>
+    <dt>Traction</dt><dd>Early signals: player ratings or reviews, Google Play installs, App Store chart positions, and Google Play new-game rankings by installs and trend (from AppBrain). Very new games often have none yet.</dd>
     <dt>Comparisons</dt><dd>"Up" or "down" compares the chosen range with the same number of days just before it.</dd>
-    <dt>Sources</dt><dd>Steam, App Store charts (US, India, UK, Japan), Google Play, itch.io, and consoles through IGDB when its keys are set. Updated every morning at 07:00 IST.</dd>
+    <dt>Sources</dt><dd>Steam (every new release), App Store (new games on the US, India, UK and Japan charts), Google Play (new games on AppBrain's 30-day new-release lists for all 17 game categories, with dates and installs from Google Play), and consoles through IGDB when its keys are set. itch.io uploads are hidden unless you tick the box, because many are prototypes, jam entries or asset packs. Updated every morning at 07:00 IST.</dd>
   </dl>
   <p id="footer-links"></p>
 </footer>
@@ -268,10 +285,15 @@ const FAMNAME={PC:"PC",Console:"Console",iOS:"iOS",Android:"Android",Web:"Web / 
 // ---------- traction
 function bestChart(r){let best=null;for(const c of r.ch){const m=c.match(/^(\w+)\/(\w+)\/\d+#(\d+)$/);if(!m)continue;const rank=+m[3],f=m[2].replace("applications","");
  if(!best||rank<best.rank)best={rank,cc:m[1].toUpperCase(),feed:FEED[f]||f}}return best}
-rows.forEach(r=>{r.bc=bestChart(r);
- r.score=Math.log10(1+(r.rc||0))+0.6*Math.log10(1+(r.in||0))+(r.bc?1.5*(3-Math.log10(r.bc.rank)):0)});
+const ABSORT={popular:"most installed",trending:"trending"};
+const ABCAT=c=>c==="games"?"":c.replace(/-games$/,"").replace(/-/g," ")+" ";
+function bestAB(r){let best=null;for(const c of r.ab||[]){const m=c.match(/^([\w-]+)\/([\w-]+)#(\d+)$/);if(!m)continue;const rank=+m[3];
+ if(!best||rank<best.rank||(rank===best.rank&&m[2]==="games"))best={rank,sort:ABSORT[m[1]]||m[1],cat:m[2]}}return best}
+rows.forEach(r=>{r.bc=bestChart(r);r.ba=bestAB(r);
+ r.score=Math.log10(1+(r.rc||0))+0.6*Math.log10(1+(r.in||0))+(r.bc?1.5*(3-Math.log10(r.bc.rank)):0)+(r.ba?1.2*(2-Math.log10(r.ba.rank)):0)});
 function why(r){const p=[];
  if(r.bc)p.push(`#${r.bc.rank} on App Store ${r.bc.feed} (${r.bc.cc})`);
+ if(r.ba)p.push(`#${r.ba.rank} ${r.ba.sort} new ${ABCAT(r.ba.cat)}game on Google Play`);
  const mobile=r.p.includes("iOS")||r.p.includes("Android");
  if(r.rc)p.push(mobile?`${fmt(r.rc)} ratings${r.ra!=null?`, ${(r.ra/20).toFixed(1)} out of 5`:""}`:`${fmt(r.rc)} reviews${r.ra!=null?`, ${Math.round(r.ra)}% positive`:""}`);
  if(r.in)p.push(`${fmt(r.in)} installs`);
@@ -280,16 +302,17 @@ function price(r){return r.free||r.pr===0?"Free":r.pr!=null?`${r.cur==="USD"?"$"
 
 // ---------- state
 const RANGES=[[1,"Latest day"],[3,"3 days"],[7,"7 days"],[14,"14 days"]];
-const st={range:7,genre:"",fam:"",sub:"",q:"",price:"",sort:"traction",shown:30};
+const st={range:7,genre:"",fam:"",sub:"",q:"",price:"",sort:"traction",shown:30,itch:false};
+const vis=r=>st.itch||!r.itch;
 const avail=DAYS.length?Math.round((day(LAST)-day(DAYS[0]))/864e5)+1:0;
 
 function inRange(d,n,end=LAST){return d&&d<=end&&d>shift(end,-n)}
-function filtered(opts={}){return rows.filter(r=>inRange(r.d,st.range)&&(!st.genre||r.g===st.genre)&&(!st.fam||r.f.includes(st.fam))
+function filtered(opts={}){return rows.filter(r=>vis(r)&&inRange(r.d,st.range)&&(!st.genre||r.g===st.genre)&&(!st.fam||r.f.includes(st.fam))
  &&(opts.ignoreSub||!st.sub||r.s.includes(st.sub))&&(!st.price||(st.price==="free"?(r.free||r.pr===0):!(r.free||r.pr===0)))
  &&(!st.q||(r.t+" "+r.dev+" "+r.s.join(" ")+" "+r.g).toLowerCase().includes(st.q)))}
 // counts from aggregates over a window ending at `end`
 function sumAgg(n,end,key,filterGenre=true){const out={};let tot=0;
- for(const d of DAYS){if(!inRange(d,n,end))continue;const a=agg[d];
+ for(const d of DAYS){if(!inRange(d,n,end))continue;const a=agg[d][st.itch?"all":"core"];
   if(key==="n"){tot+=a.n;continue}
   for(const[k,v]of Object.entries(a[key]))out[k]=(out[k]||0)+v}
  return key==="n"?tot:out}
@@ -348,8 +371,8 @@ function stats(){
  $("stats").innerHTML=card(n,"new games",n,prevTotal)
   +card(mob,"on mobile (iOS + Android)",mob,plain&&prevRows?(prevRows.iOS||0)+(prevRows.Android||0):null)
   +card(pc,"on PC or console",pc,plain&&prevRows?(prevRows.PC||0)+(prevRows.Console||0):null)
-  +card(curF.Web||0,"web / itch.io",curF.Web||0,plain&&prevRows?(prevRows.Web||0):null)
-  +card(list.filter(r=>r.bc).length,"on App Store charts",0,null);
+  +(st.itch?card(curF.Web||0,"web / itch.io",curF.Web||0,plain&&prevRows?(prevRows.Web||0):null):"")
+  +card(list.filter(r=>r.bc||r.ba).length,"ranking on new-game charts (App Store, Google Play)",0,null);
 }
 // ---------- bars
 function bars(el,entries,total,selected,onPick,prevMap,labeler=x=>x){
@@ -363,20 +386,20 @@ function bars(el,entries,total,selected,onPick,prevMap,labeler=x=>x){
  el.querySelectorAll("button").forEach(b=>b.onclick=()=>onPick(b.dataset.k));
 }
 function genreBars(){
- const base=rows.filter(r=>inRange(r.d,st.range)&&(!st.fam||r.f.includes(st.fam))&&(!st.sub||r.s.includes(st.sub)));
+ const base=rows.filter(r=>vis(r)&&inRange(r.d,st.range)&&(!st.fam||r.f.includes(st.fam))&&(!st.sub||r.s.includes(st.sub)));
  const c=count(base,r=>[r.g]);const e=Object.entries(c).sort((a,b)=>b[1]-a[1]);
  const plain=!st.fam&&!st.sub;
  bars($("genre-bars"),e,base.length||1,st.genre,k=>{st.genre=st.genre===k?"":k;sync()},hasPrev()&&plain?sumAgg(st.range,shift(LAST,-st.range),"g"):null,GN);
 }
 function platBars(){
- const base=rows.filter(r=>inRange(r.d,st.range)&&(!st.genre||r.g===st.genre)&&(!st.sub||r.s.includes(st.sub)));
+ const base=rows.filter(r=>vis(r)&&inRange(r.d,st.range)&&(!st.genre||r.g===st.genre)&&(!st.sub||r.s.includes(st.sub)));
  const c=count(base,r=>r.f);const e=Object.entries(c).sort((a,b)=>b[1]-a[1]);
  bars($("plat-bars"),e,base.length||1,st.fam,k=>{st.fam=st.fam===k?"":k;sync()},null,k=>FAMNAME[k]||k);
 }
 // ---------- per-day chart
 function daysChart(){
  const n=Math.max(st.range,7), days=[];for(let i=n-1;i>=0;i--)days.push(shift(LAST,-i));
- const list=rows.filter(r=>(!st.genre||r.g===st.genre)&&(!st.fam||r.f.includes(st.fam))&&(!st.sub||r.s.includes(st.sub)));
+ const list=rows.filter(r=>vis(r)&&(!st.genre||r.g===st.genre)&&(!st.fam||r.f.includes(st.fam))&&(!st.sub||r.s.includes(st.sub)));
  const c={};list.forEach(r=>{if(r.d)c[r.d]=(c[r.d]||0)+1});
  const vals=days.map(d=>c[d]||0),max=Math.max(1,...vals);
  const W=560,H=200,pad=34,bw=(W-pad-8)/days.length;
@@ -391,7 +414,7 @@ function daysChart(){
 }
 // ---------- watch
 function watchChips(){
- const base=rows.filter(r=>inRange(r.d,st.range)&&(!st.genre||r.g===st.genre)&&(!st.fam||r.f.includes(st.fam)));
+ const base=rows.filter(r=>vis(r)&&inRange(r.d,st.range)&&(!st.genre||r.g===st.genre)&&(!st.fam||r.f.includes(st.fam)));
  const c=count(base,r=>r.s);const prev=hasPrev()&&!st.genre&&!st.fam?sumAgg(st.range,shift(LAST,-st.range),"s"):null;
  $("watch").innerHTML=D.watch.map(k=>{const v=c[k]||0;let d="";if(prev){const ch=change(v,prev[k]||0);if(ch&&ch.word!=="flat")d=`<span class="delta ${ch.cls}">${ch.txt}</span>`}
   return `<button type="button" class="chip${v?"":" zero"}" aria-pressed="${st.sub===k}" data-k="${esc(k)}">${esc(k)} <b>${v}</b>${d}</button>`}).join("");
@@ -434,6 +457,7 @@ function controls(){
  $("fg").onchange=e=>{st.genre=e.target.value;sync()};$("fp").onchange=e=>{st.fam=e.target.value;sync()};
  $("fs").onchange=e=>{st.sub=e.target.value;sync()};$("fc").onchange=e=>{st.price=e.target.value;sync()};
  $("so").onchange=e=>{st.sort=e.target.value;sync()};
+ $("itch").onchange=e=>{st.itch=e.target.checked;st.shown=30;sync()};
  let t;$("q").oninput=e=>{clearTimeout(t);t=setTimeout(()=>{st.q=e.target.value.trim().toLowerCase();st.shown=30;sync()},200)};
  $("more").onclick=()=>{const first=st.shown;st.shown+=30;renderList();const li=$("list").children[first];if(li){li.setAttribute("tabindex","-1");li.focus()}};
  $("clear").onclick=()=>{Object.assign(st,{genre:"",fam:"",sub:"",q:"",price:"",shown:30});$("q").value="";sync();$("q").focus()};

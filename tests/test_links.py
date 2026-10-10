@@ -63,3 +63,18 @@ def test_steam_hover_tags_and_retag(tmp_path, monkeypatch):
     row = db.c.execute("SELECT genre FROM games WHERE key='steam:7'").fetchone()
     assert row["genre"] == "Roguelike"
     assert pipeline.retag_steam({}, db) == []   # nothing left to do
+
+
+def test_appbrain_parse_and_itch_flag():
+    from radar.sources.googleplay import parse_appbrain
+    html = ('<div class="sidebar"><a href="/app/x/com.side.bar">Side</a></div>'
+            '<a class="browse-app safelink hover-shadow d-block" href="/app/overpeak-action/com.rusergames.overpeak"><h3>OverPeak</h3></a>'
+            '<a href="/app/fruit-wins/com.fruitwins" class="browse-app safelink">Fruit</a>'
+            '<a class="browse-app" href="/app/overpeak-action/com.rusergames.overpeak">dup</a>')
+    assert parse_appbrain(html) == ["com.rusergames.overpeak", "com.fruitwins"]
+    from radar.dashboard import aggregate, itch_only
+    a = {"release_date": "2026-10-08", "genre": "Puzzle", "subgenres": [], "families": ["Web"], "links": [{"label": "itch.io", "url": "u"}]}
+    b = {"release_date": "2026-10-08", "genre": "Puzzle", "subgenres": [], "families": ["Android"], "links": [{"label": "Google Play", "url": "u"}]}
+    assert itch_only(a) and not itch_only(b)
+    agg = aggregate([a, b])["2026-10-08"]
+    assert agg["all"]["n"] == 2 and agg["core"]["n"] == 1

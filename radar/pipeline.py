@@ -63,6 +63,7 @@ def collect(cfg, db, run_day: date, only=None, sources=None):
     for src in sources:
         src.skip = db.known_ids(src.name)
         fetched = added = 0
+        start = run_day - timedelta(days=int(src.cfg.get("lookback_days", cfg.get("lookback_days", 3))))
         try:
             for g in src.fetch(start, run_day):
                 fetched += 1

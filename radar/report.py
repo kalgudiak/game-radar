@@ -53,6 +53,7 @@ def cluster(games):
             "rating": best.rating, "rating_count": best.rating_count,
             "installs": max((g.installs or 0 for g in gs), default=0) or None,
             "charts": sorted({c for g in gs for c in g.extra.get("charts", [])}),
+            "appbrain": sorted({c for g in gs for c in g.extra.get("appbrain", [])}),
             "links": _merge_links(gs),
             "raw_genres": sorted({x for g in gs for x in g.raw_genres}),
             "tags": list(dict.fromkeys(t for g in gs for t in g.tags))[:12],

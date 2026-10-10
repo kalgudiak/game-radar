@@ -16,15 +16,19 @@ sources:
     steamspy_tags: true  # community tags -> far better genre splits
   appstore:
     enabled: true
+    lookback_days: 14    # charts surface games released up to a few weeks earlier
     countries: [us, in, gb, jp]
     feeds: [newfreeapplications, newpaidapplications, topfreeapplications, topgrossingapplications]
     # genre_ids: [6014, 7001, ...]   # default = Games + all 19 sub-categories
   googleplay:
     enabled: true
+    lookback_days: 30    # AppBrain's "new" lists cover the past 30 days
+    appbrain: true       # discover new Play games through AppBrain's new-release lists
+    search: false        # genre-seeded Play searches (mostly return older games)
     countries: [us, in]
     lang: en
     hits_per_query: 30
     # queries: [...]                 # default list in radar/sources/googleplay.py
   itch:
-    enabled: true
+    enabled: true        # shown on the dashboard only when "Include itch.io uploads" is ticked
     max_pages: 3
