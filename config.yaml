@@ -4,7 +4,7 @@ reports_dir: reports
 user_agent: "BoMoMe-GameRadar/1.0 (market research; contact: ops@bomome.example)"  # put a real contact here
 
 lookback_days: 3     # each run looks this far back (stores index late). Use --lookback 14 on the first run.
-track_days: 30       # keep snapshotting ratings / installs daily for games this young
+track_days: 14       # keep snapshotting ratings / installs daily for games this young (30 made runs ~40 min longer)
 
 sources:
   igdb:              # PC + every console + mobile majors. Needs TWITCH_CLIENT_ID / TWITCH_CLIENT_SECRET.

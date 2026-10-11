@@ -16,7 +16,7 @@ HOST_INTERVALS = {
     "itunes.apple.com": 3.1,
     "api.igdb.com": 0.3,
     "itch.io": 1.5,
-    "www.appbrain.com": 2.0,
+    "www.appbrain.com": 6.0,   # AppBrain answers 429 after ~20 fast requests
     "play.google.com": 0.7,
 }
 
