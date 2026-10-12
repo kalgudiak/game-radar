@@ -78,3 +78,26 @@ def test_appbrain_parse_and_itch_flag():
     assert itch_only(a) and not itch_only(b)
     agg = aggregate([a, b])["2026-10-08"]
     assert agg["all"]["n"] == 2 and agg["core"]["n"] == 1
+
+
+def test_appbrain_alternates_and_path_throttle(monkeypatch):
+    from datetime import date
+    from radar.sources.googleplay import GooglePlaySource
+    seen = []
+
+    class FakeHttp:
+        def get(self, url, **kw):
+            seen.append(url)
+            class R: text = '<a class="browse-app" href="/app/x/com.a.b">x</a>'
+            return R()
+    src = GooglePlaySource(FakeHttp(), {})
+    src.discover_appbrain(date(2026, 10, 12))
+    a = {u.split("/")[4] for u in seen}; seen.clear()
+    src.discover_appbrain(date(2026, 10, 13))
+    b = {u.split("/")[4] for u in seen}
+    assert len(a) == 1 and len(b) == 1 and a != b      # one list type per day, alternating
+    from radar import http as h
+    t = h.Http("x"); sleeps = []
+    monkeypatch.setattr(h.time, "sleep", lambda s: sleeps.append(s))
+    t._throttle("https://store.steampowered.com/appreviews/1"); t._throttle("https://store.steampowered.com/appreviews/2")
+    assert sleeps and max(sleeps) <= 0.4

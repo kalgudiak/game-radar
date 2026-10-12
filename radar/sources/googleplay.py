@@ -71,9 +71,15 @@ class GooglePlaySource(Source):
         except ImportError as e:
             raise SourceUnavailable("pip install google-play-scraper to enable Google Play") from e
 
-    def discover_appbrain(self):
+    def discover_appbrain(self, day=None):
+        """AppBrain refuses (HTTP 429) after ~18-20 pages per visit, so by default each run reads
+        one list type (most installed / trending) for all 18 categories, alternating by day.
+        Both lists cover the past 30 days, so alternating loses nothing."""
         found = {}
-        for sort in self.cfg.get("appbrain_sorts", APPBRAIN_SORTS):
+        sorts = self.cfg.get("appbrain_sorts", APPBRAIN_SORTS)
+        if self.cfg.get("appbrain_alternate", True) and day is not None and len(sorts) > 1:
+            sorts = [sorts[day.toordinal() % len(sorts)]]
+        for sort in sorts:
             for cat in self.cfg.get("appbrain_categories", APPBRAIN_CATS):
                 try:
                     ids = parse_appbrain(self.http.get(APPBRAIN.format(sort=sort, cat=cat)).text)
@@ -82,14 +88,14 @@ class GooglePlaySource(Source):
                     continue
                 for rank, aid in enumerate(ids, 1):
                     found.setdefault(aid, []).append(f"{sort}/{cat}#{rank}")
-        log.info("googleplay: AppBrain lists %d games released in the past 30 days", len(found))
+        log.info("googleplay: AppBrain %s lists: %d games released in the past 30 days", "+".join(sorts), len(found))
         return found
 
     def fetch(self, start, end):
         app, search = self._lib()
         lang = self.cfg.get("lang", "en")
         cc = self.cfg.get("countries", ["us"])[0]
-        found = self.discover_appbrain() if self.cfg.get("appbrain", True) else {}
+        found = self.discover_appbrain(end) if self.cfg.get("appbrain", True) else {}
         if self.cfg.get("search", False):
             n = int(self.cfg.get("hits_per_query", 30))
             for q in self.cfg.get("queries", DEFAULT_QUERIES):

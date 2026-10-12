@@ -21,6 +21,13 @@ HOST_INTERVALS = {
 }
 
 
+# Lighter endpoints on the same hosts can go faster than the host default.
+PATH_INTERVALS = [
+    ("store.steampowered.com", "/appreviews/", 0.4),   # review summaries: far more lenient than appdetails
+    ("itunes.apple.com", "/rss/", 1.0),                # chart feeds: CDN-served, unlike the Lookup API
+]
+
+
 class Http:
     def __init__(self, user_agent: str, default_interval: float = 1.0, timeout: int = 30):
         s = requests.Session()
@@ -33,12 +40,16 @@ class Http:
         self._last = {}
 
     def _throttle(self, url):
-        host = urlparse(url).netloc
-        gap = HOST_INTERVALS.get(host, self.default_interval)
-        wait = gap - (time.monotonic() - self._last.get(host, 0.0))
+        u = urlparse(url)
+        key, gap = u.netloc, HOST_INTERVALS.get(u.netloc, self.default_interval)
+        for host, fragment, interval in PATH_INTERVALS:
+            if u.netloc == host and fragment in u.path:
+                key, gap = host + fragment, interval
+                break
+        wait = gap - (time.monotonic() - self._last.get(key, 0.0))
         if wait > 0:
             time.sleep(wait)
-        self._last[host] = time.monotonic()
+        self._last[key] = time.monotonic()
 
     def get(self, url, **kw):
         self._throttle(url)
